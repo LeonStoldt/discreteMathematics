@@ -218,7 +218,7 @@ graph LR
 > Sollte diese Eigenschaft nicht gegeben sein, spricht man von einer ***partiellen* Ordnung / Teilordnung**
 
 *Beispiel: totale Ordnungsrelation*
-Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei 
+Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Zahlen immer vergleichbar sind (5 $\leq$ 3 $\lor$ 3 $\leq$ 5).
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -235,5 +235,5 @@ Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzE0OTY5NSwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
