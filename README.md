@@ -211,6 +211,9 @@ graph LR
 2((2)) --> 3((3))
 ```
 
+> **Definition: totale Ordnungsrelation**
+> Eine totale Ordnungerelation
+
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -226,5 +229,5 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTEwMzE5MzUxODQsMTMwNDQyNDgyMF19
 -->
