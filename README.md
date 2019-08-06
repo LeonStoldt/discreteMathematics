@@ -184,12 +184,12 @@ B --> C
 > Die Ordnungsrelation ist eine Verallgemeinerung der "$\leq$"-Beziehung.
 > Durch diese können Elemente einer Menge miteinander verglichen werden.
 > 
-> Eine Ordnung in $M$ existiert, wenn die Relation alle der folgenden Eigenschaften besitzt:
+> Eine **Ordnung** in $M$ existiert, wenn die Relation alle der folgenden Eigenschaften besitzt:
 > -	reflexiv
 > -	antisymmetrisch
 > -	transitiv
 > 
-> Eine *strikte* Ordnung in $M$ existiert, wenn die Relation folgende Eigenschaften besitzt:
+> Eine ***strikte* Ordnung** in $M$ existiert, wenn die Relation folgende Eigenschaften besitzt:
 > -	asymmetrisch
 > -	transitiv
 
@@ -217,7 +217,8 @@ graph LR
 >
 > Sollte diese Eigenschaft nicht gegeben sein, spricht man von einer *partiellen* Ordnung / Teilordnung
 
-*Beispiel
+*Beispiel: totale Ordnungsrelation*
+Die Relation $R$ 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -234,5 +235,5 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI3MjQ3NjUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTc5OTI1MzkxNiwxMzA0NDI0ODIwXX0=
 -->
