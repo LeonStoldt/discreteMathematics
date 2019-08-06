@@ -212,13 +212,13 @@ graph LR
 ```
 
 > **Definition: *totale* Ordnungsrelation**
-> Bei einer *totalen* Ordnungerelation sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
+> Bei einer ***totalen* Ordnungerelation** sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
 > $\forall x, y \in M: (x,y) \in R \lor (y,x) \in R$
 >
-> Sollte diese Eigenschaft nicht gegeben sein, spricht man von einer *partiellen* Ordnung / Teilordnung
+> Sollte diese Eigenschaft nicht gegeben sein, spricht man von einer ***partiellen* Ordnung / Teilordnung**
 
 *Beispiel: totale Ordnungsrelation*
-Die Relation $R$ 
+Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -235,5 +235,5 @@ Die Relation $R$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTI1MzkxNiwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbMTQxNzE0OTY5NSwxMzA0NDI0ODIwXX0=
 -->
