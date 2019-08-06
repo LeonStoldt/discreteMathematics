@@ -212,7 +212,8 @@ graph LR
 ```
 
 > **Definition: totale Ordnungsrelation**
-> Eine totale Ordnungerelation
+> Bei einer totalen Ordnungerelation sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
+> $\forall x, y \in M:(x,y) \in R \lor$
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -229,5 +230,5 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE5MzUxODQsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbOTI3NDAyMSwxMzA0NDI0ODIwXX0=
 -->
