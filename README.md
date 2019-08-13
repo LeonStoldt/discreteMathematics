@@ -221,7 +221,7 @@ graph LR
 Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Zahlen immer vergleichbar sind (5 $\leq$ 3 $\lor$ 3 $\leq$ 5).
 
 *Beispiel: partielle Ordnungsrelation*
-Die Ordnung $\$
+Die Ordnung $\subseteq$ ist eine partielle Ordnungsrelation in $\{\}$
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -239,6 +239,6 @@ Die Ordnung $\$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjY0MTMyMSw3NTE0NzYwMTUsMTMwND
+eyJoaXN0b3J5IjpbLTM2MzAyMjk4NSw3NTE0NzYwMTUsMTMwND
 QyNDgyMF19
 -->
