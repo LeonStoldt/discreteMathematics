@@ -180,7 +180,7 @@ B --> C
 
 ### 1.3 Ordnungsrelationen 
 
-> **Definition: (*strikte* Ordnungsrelation)**
+> **Definition: (*strikte*) Ordnungsrelation**
 > Die Ordnungsrelation ist eine Verallgemeinerung der "$\leq$"-Beziehung.
 > Durch diese können Elemente einer Menge miteinander verglichen werden.
 > 
@@ -235,5 +235,6 @@ Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Za
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbMTQ4MzkzMjY3Nyw3NTE0NzYwMTUsMTMwND
+QyNDgyMF19
 -->
