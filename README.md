@@ -222,7 +222,9 @@ Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Za
 
 *Beispiel: partielle Ordnungsrelation*
 Die Ordnung $\subseteq$ ist eine partielle Ordnungsrelation in $\{a,b\}$.
-$\{a\} \subseteq \{b\}$ oder funktioniert nicht
+$\{a\} \subseteq \{b\}$ oder $\{b\} \subseteq \{a\}$ funktioniert **nicht**.
+
+
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -240,6 +242,6 @@ $\{a\} \subseteq \{b\}$ oder funktioniert nicht
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTc0MjMzLDc1MTQ3NjAxNSwxMzA0ND
-I0ODIwXX0=
+eyJoaXN0b3J5IjpbLTIwNzgzODQzOTAsNzUxNDc2MDE1LDEzMD
+Q0MjQ4MjBdfQ==
 -->
