@@ -231,7 +231,10 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 *Beispiel: Nachbarschaftrelation*
 Strikte Ordnungsrelation $\lt$ in $\N: x = 3, y = 4$
 $3 \lt^{N} 4 \iff (3 \lt 4) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 4))$ - wahre Aussage
-$3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))$ - falsche Aussage, da $z = 4$
+$3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))$ - falsche Aussage, da $z = 4$ existiert.
+
+> **Hasse Diagramm**
+> Das Hasse Diagramm ist eine grafische Darstellung 
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -249,6 +252,6 @@ $3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDA1MTU2MSwtMjEyNjU0MTgxOCw3NT
-E0NzYwMTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbMjEwNzg5Mjk2LC0yMTI2NTQxODE4LDc1MT
+Q3NjAxNSwxMzA0NDI0ODIwXX0=
 -->
