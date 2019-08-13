@@ -244,7 +244,10 @@ graph TD
 1((1)) --> 2((2))
 1 --> 5((5))
 1 --> 7((7))
-2 ->> 10((10))
+2 --> 10((10))
+2 --> 14((14))
+5 --> 10
+5 --> 35((
 
 ```
 
@@ -263,8 +266,8 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
-Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
-NTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMT
-MwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTMyMDI1ODAwMiwyMDkzODY2ODQwLDE2MT
+kzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAz
+OSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LD
+c1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
 -->
