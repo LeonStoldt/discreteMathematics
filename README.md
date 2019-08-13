@@ -241,8 +241,9 @@ Betrachtet wird die Nachbarschaftsrelation von der Menger aller Teiler von 70 $T
 
 ```mermaid
 graph TD
-1((1)) --> 2
-1 --> 3
+1((1)) --> 2((2))
+1 --> 5((5))
+1 --> 7((7))
 2((2)) --> 3((3))
 ```
 
@@ -261,7 +262,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
-Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
-ODIwXX0=
+eyJoaXN0b3J5IjpbMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMD
+cyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2
+MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
