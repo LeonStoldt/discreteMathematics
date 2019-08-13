@@ -244,8 +244,8 @@ graph TD
 1((1)) --> 2((2))
 1 --> 5((5))
 1 --> 7((7))
+2 ->> 10((10))
 
-WIP
 ```
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -263,8 +263,8 @@ WIP
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NT
-E0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0
-NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ
-==
+eyJoaXN0b3J5IjpbMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
+Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
+NTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMT
+MwNDQyNDgyMF19
 -->
