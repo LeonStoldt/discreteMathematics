@@ -225,7 +225,7 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 
 > **Definition: Nachbarschaftsrelation**
 > Bei einer strikten Ordnungsrelation $\lt$ in $M$ ist die Nachbarschaftsrelation gegeben durch:
-> $x \lt^{N} x \$
+> $x \lt^{N} x \iff x \lt y \land$
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -243,6 +243,6 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA1MzU1NTksLTIxMjY1NDE4MTgsNz
-UxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbLTI5MzA3ODQ5MCwtMjEyNjU0MTgxOCw3NT
+E0NzYwMTUsMTMwNDQyNDgyMF19
 -->
