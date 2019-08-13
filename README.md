@@ -221,8 +221,7 @@ graph LR
 Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Zahlen immer vergleichbar sind (5 $\leq$ 3 $\lor$ 3 $\leq$ 5).
 
 *Beispiel: partielle Ordnungsrelation*
-Die Ordnung $\subseteq$ ist eine partielle Ordnungsrelation in $\{a,b\}$.
-$\{a\} \subseteq \{b\}$ oder $\{b\} \subseteq \{a\}$ funktioniert **nicht**.
+Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, da $$
 
 
 
@@ -242,6 +241,6 @@ $\{a\} \subseteq \{b\}$ oder $\{b\} \subseteq \{a\}$ funktioniert **nicht**.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgzODQzOTAsNzUxNDc2MDE1LDEzMD
-Q0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbMTY2MjU1ODUyOSw3NTE0NzYwMTUsMTMwND
+QyNDgyMF19
 -->
