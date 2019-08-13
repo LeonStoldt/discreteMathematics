@@ -221,9 +221,10 @@ graph LR
 Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Zahlen immer vergleichbar sind (5 $\leq$ 3 $\lor$ 3 $\leq$ 5).
 
 *Beispiel: partielle Ordnungsrelation*
-Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, da $\frac{2}{3}$ oder $\frac{3}{2}$ in $\N$ 
+Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, da die Relation $\frac{2}{3}$ oder $\frac{3}{2}$ in $\N$ nicht vergleichbar ist.
 
-
+> **Definition: Nachbarschaftsrelation**
+> 
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -241,6 +242,6 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgxMzUyOTgsNzUxNDc2MDE1LDEzMD
+eyJoaXN0b3J5IjpbLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMD
 Q0MjQ4MjBdfQ==
 -->
