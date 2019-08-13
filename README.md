@@ -237,7 +237,14 @@ $3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))
 > Das Hasse Diagramm ist eine grafische Darstellung in Form eines Pfeildiagramms der Nachbarschaftsrelation. (Reflexive und Transitive Verbindungen werden hierbei weggelassen)
 
 *Beispiel: Hasse Diagramm*
-Betrachtet wird die Nachbarschaftsrelation von der Menger aller Teiler von 70 $T_{70}=\{\}$
+Betrachtet wird die Nachbarschaftsrelation von der Menger aller Teiler von 70 $T_{70}=\{1, 2, 5, 7, 10, 14, 35, 70\}$
+
+```mermaid
+graph LR
+1((1)) --> 2
+1 --> 3
+2((2)) --> 3((3))
+```
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -254,7 +261,7 @@ Betrachtet wird die Nachbarschaftsrelation von der Menger aller Teiler von 70 $T
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYyMzc1NTgsLTIwNzI3NzMyNTksLT
-g0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQy
-NDgyMF19
+eyJoaXN0b3J5IjpbMTkzNzM4MTM0MSwtMjA3Mjc3MzI1OSwtOD
+Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
+ODIwXX0=
 -->
