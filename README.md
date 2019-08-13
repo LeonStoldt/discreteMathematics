@@ -224,7 +224,7 @@ Die Ordnungsrelation $\leq$ ist eine totale Ordnungsrelation in $\N$, da zwei Za
 Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, da die Relation $\frac{2}{3}$ oder $\frac{3}{2}$ in $\N$ nicht vergleichbar ist.
 
 > **Definition: Nachbarschaftsrelation**
-> 
+> Bei 
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -242,6 +242,6 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMD
-Q0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbLTIxMTM0OTY2MjgsLTIxMjY1NDE4MTgsNz
+UxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
