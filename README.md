@@ -240,7 +240,7 @@ $3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))
 Betrachtet wird die Nachbarschaftsrelation von der Menger aller Teiler von 70 $T_{70}=\{1, 2, 5, 7, 10, 14, 35, 70\}$
 
 ```mermaid
-graph LR
+graph TD
 1((1)) --> 2
 1 --> 3
 2((2)) --> 3((3))
@@ -261,7 +261,7 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzM4MTM0MSwtMjA3Mjc3MzI1OSwtOD
+eyJoaXN0b3J5IjpbMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
 Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
 ODIwXX0=
 -->
