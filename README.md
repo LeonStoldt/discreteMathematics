@@ -236,6 +236,8 @@ $3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))
 > **Hasse Diagramm**
 > Das Hasse Diagramm ist eine grafische Darstellung in Form eines Pfeildiagramms der Nachbarschaftsrelation. (Reflexive und Transitive Verbindungen werden hierbei weggelassen)
 
+*Beispiel: Hasse Diagramm*
+Betrachtet wird die Nachbarschaftsrelation $\lt^{N}$ in $\N:$
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -252,6 +254,6 @@ $3 \lt^{N} 5 \iff (3 \lt 5) \land (\nexists z \in \N: (3 \lt z) \land (z \lt 5))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NT
-E0NzYwMTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMj
+EyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
 -->
