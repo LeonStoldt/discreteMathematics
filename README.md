@@ -229,7 +229,8 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 > Es existiert kein Wert der Menge $M$ der zwischen die Werte $x$ und $y$ passt.
 
 *Beispiel: Nachbarschaftrelation*
-Strikte Ordnungsrelation 
+Strikte Ordnungsrelation $\lt$ in $\N: x = 3, y = 4$
+$3 \lt^{N} 4 \iff d$
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -247,6 +248,6 @@ Strikte Ordnungsrelation
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI4MzIzNiwtMjEyNjU0MTgxOCw3NT
-E0NzYwMTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTEyOTM1NDU3NzEsLTIxMjY1NDE4MTgsNz
+UxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
