@@ -226,7 +226,10 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 > **Definition: Nachbarschaftsrelation**
 > Bei einer strikten Ordnungsrelation $\lt$ in $M$ ist die Nachbarschaftsrelation gegeben durch:
 > $x \lt^{N} y \iff (x \lt y) \land (\nexists z \in M: (x \lt z) \land (z \lt y))$
-> E
+> Es existiert kein Wert der Menge $M$ der zwischen die Werte $x$ und $y$ passt.
+
+*Beispiel: Nachbarschaftrelation*
+Strikte Ordnungsrelation 
 
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -244,6 +247,6 @@ Die Ordnung "$:$" (geteilt durch) ist eine partielle Ordnungsrelation in $\N$, d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3MzIyMTYsLTIxMjY1NDE4MTgsNz
-UxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbMTA3MzI4MzIzNiwtMjEyNjU0MTgxOCw3NT
+E0NzYwMTUsMTMwNDQyNDgyMF19
 -->
