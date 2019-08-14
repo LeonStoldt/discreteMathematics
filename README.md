@@ -283,7 +283,17 @@ graph TD
 > -	Es ist nicht unbedingt mit allen Elementen vergleichbar
 > -	Wenn es vergleichbar ist, dann ist es das größere
 
-*Beispiel: maximale
+*Beispiel:*
+```mermaid
+graph TD
+8((8)) --- 4((4))
+4 --- 2((2))
+6((6)) --- 2
+6 --- 3((3))
+2 --- 1((1))
+3 --- 1
+
+```
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -299,9 +309,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc3MTE1OCw4NzUwMzU4NjksNzU0Mj
-IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
-MTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMj
-UyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4
-MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDgwNDg5MDEsODc1MDM1ODY5LDc1ND
+IyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQw
+LDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2Mz
+I1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQx
+ODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
 -->
