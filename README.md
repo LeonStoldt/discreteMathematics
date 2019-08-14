@@ -247,9 +247,12 @@ graph TD
 10 --- 2((2))
 10 --- 5((5))
 14 --- 2
-14 --- 7
-35 --- 7((7))
+14 --- 7((7))
+35 --- 5
 35 --- 7
+2 --- 1((1))
+5 --- 1
+7 --- 1
 ```
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -267,7 +270,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg0MTg4NCw3NDc5NDg1ODcsMjA5Mz
+eyJoaXN0b3J5IjpbLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mz
 g2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1
 LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMj
 EyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
