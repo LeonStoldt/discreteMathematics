@@ -266,7 +266,8 @@ graph TD
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 
-> **Definition: Größte und Maximal**
+> **Definition: Größte - und Maximale Elemente**
+> 
 
 
 ### 1.5 Verbände
@@ -283,7 +284,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjUwODIzNiw3NTQyMjMyNTIsLTI1OT
+eyJoaXN0b3J5IjpbLTQzMDczMTM2Nyw3NTQyMjMyNTIsLTI1OT
 M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
 LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
 I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
