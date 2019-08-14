@@ -283,7 +283,7 @@ graph TD
 > -	Es ist nicht unbedingt mit allen Elementen vergleichbar
 > -	Wenn es vergleichbar ist, dann ist es das größere
 
-*Beispiel:*
+*Beispiel: $M=\{1,2,3,4,5,6,7,8\}, R=/$*
 ```mermaid
 graph TD
 8((8)) --- 4((4))
@@ -292,8 +292,13 @@ graph TD
 6 --- 3((3))
 2 --- 1((1))
 3 --- 1
-
+5((5)) --- 1
+7((7)) --- 1
 ```
+| Teilmenge | maximale Elem |
+|--|--|
+|  |  |
+
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -309,9 +314,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgwNDg5MDEsODc1MDM1ODY5LDc1ND
-IyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQw
-LDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2Mz
-I1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQx
-ODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbMzY0MTcxMjMyLDg3NTAzNTg2OSw3NTQyMj
+MyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwx
+NjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNT
+IwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgx
+OCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
 -->
