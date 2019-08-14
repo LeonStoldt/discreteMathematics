@@ -262,12 +262,13 @@ graph TD
 > 
 > Die Nachbarschaftsrelation ist also ausreichend zur Beschreibung der Ordnungsrelation, da mithilfe der transitiv-reflexiven Hülle dir Relation vollständig konstruiert werden kann.
 > 
-> *Für die Darstellung von Ordnungsrelationen in unendlichen Mengen (Bsp. $\R$) ist das Hasse Diagramm keine geeignete Darstellungsmethode, da hier ein Informationsve
-
-
-
+> *Für die Darstellung von Ordnungsrelationen in unendlichen Mengen (Bsp. $\R$) ist das Hasse Diagramm keine geeignete Darstellungsmethode, da hier ein Informationsverlust vorliegen kann*
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
+
+> **Definition: Größte und Maximal**
+
+
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
 ### 1.7 Restklassen
@@ -282,9 +283,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMzM2NTU1LDc1NDIyMzI1MiwtMjU5Mz
-g5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUs
-ODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mj
-c3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAx
-NSwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbLTc1NjUwODIzNiw3NTQyMjMyNTIsLTI1OT
+M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
+LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
+I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
+MTUsMTMwNDQyNDgyMF19
 -->
