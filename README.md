@@ -298,6 +298,10 @@ graph TD
 | Teilmenge | maximale Elemente | größte Elemente |
 |--|--|--|
 | $\{2,3,6\}$ | $\{6\}$ | $\{6\}$ |
+| $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
+| $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
+| $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
+
 `WIP`
 
 ### 1.5 Verbände
@@ -314,9 +318,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzEwMzg5MSw4NzUwMzU4NjksNzU0Mj
-IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
-MTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMj
-UyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4
-MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1ND
+IyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQw
+LDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2Mz
+I1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQx
+ODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
 -->
