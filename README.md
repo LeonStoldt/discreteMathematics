@@ -259,8 +259,11 @@ graph TD
 > Wenn die Ordnungsrelation $\leq$ eine 
 > -	**endliche Menge** ist, gilt: $(\leq^{N})^{*} = \leq$
 > -	**beliebige Menge** ist, gilt: $(\leq^{N})^{*} \subseteq \leq$ 
-> s
-> Die Nachbarschaftsrelation ist also ausreichend zur Beschreibung der O
+> 
+> Die Nachbarschaftsrelation ist also ausreichend zur Beschreibung der Ordnungsrelation, da mithilfe der transitiv-reflexiven Hülle dir Relation vollständig konstruiert werden kann.
+
+
+
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -277,9 +280,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTU0NTI2MCwtMjU5Mzg5MzM3LDc0Nz
-k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
-LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
-Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
-ODIwXX0=
+eyJoaXN0b3J5IjpbNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OT
+Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
+MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
+g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
+MjBdfQ==
 -->
