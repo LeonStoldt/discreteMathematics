@@ -260,7 +260,7 @@ graph TD
 > -	**endliche Menge** ist, gilt: $(\leq^{N})^{*} = \leq$
 > -	**beliebige Menge** ist, gilt: $(\leq^{N})^{*} \subseteq \leq$ 
 > s
-> 
+> Die Nachbarschaftsrelation ist also ausreichend zur Beschreibung der O
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -277,7 +277,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODE5MjA4NSwtMjU5Mzg5MzM3LDc0Nz
+eyJoaXN0b3J5IjpbLTY2MTU0NTI2MCwtMjU5Mzg5MzM3LDc0Nz
 k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
 LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
 Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
