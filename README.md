@@ -283,6 +283,7 @@ graph TD
 > -	Es ist nicht unbedingt mit allen Elementen vergleichbar
 > -	Wenn es vergleichbar ist, dann ist es das größere
 
+*Beispiel: maximale
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -298,9 +299,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mz
-g5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUs
-ODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mj
-c3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAx
-NSwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbLTIwMzc3MTE1OCw4NzUwMzU4NjksNzU0Mj
+IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
+MTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMj
+UyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4
+MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
