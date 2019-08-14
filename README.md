@@ -272,7 +272,7 @@ graph TD
 > Eigenschaften:
 > -	Größtes Element $\in M$
 > -	Größtes Element ist mit allen Elementen aus $M$ vergleichbar
-> -	
+> -	Beim Vergleich zu den anderen Elementen in $M$, fällt au
 > 
 > **Maximales Element** $maximalesElement \in M \land \nexists x \in M: maximalesElement \lt x$
 
@@ -291,9 +291,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDE2MDg1MCw3NTQyMjMyNTIsLTI1OT
-M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
-LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
-I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
-MTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTEzMTUyMzkyNjYsNzU0MjIzMjUyLC0yNT
+kzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYy
+NSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMD
+cyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2
+MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
