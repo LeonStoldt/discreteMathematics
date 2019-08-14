@@ -275,6 +275,7 @@ graph TD
 > -	Größtes Element $\in M$
 > -	Größtes Element ist mit allen Elementen aus $M$ vergleichbar
 > -	Beim Vergleich zu den anderen Elementen in $M$, ist das größte Element $\leq$ alle anderen Elemente der Menge.
+> -	Jedes größte Element ist auch ein maximales Element
 > 
 > **Maximales Element**
 > $maximalesElement \in M \land \forall x \in M: maximalesElement \leq x \implies x = maximales Element$
@@ -318,9 +319,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1ND
-IyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQw
-LDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2Mz
-I1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQx
-ODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbLTE2MTgzMjA1MjcsLTEyMzkyNDQ4NDIsOD
+c1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4
+NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0Nj
+UxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0
+NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX
+0=
 -->
