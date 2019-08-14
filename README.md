@@ -255,6 +255,9 @@ graph TD
 7 --7/1 = 7--- 1
 ```
 
+> **Informationserhaltungssatz für Hasse Diagramme**
+> Wenn die Ordnungsrelation 
+
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -270,9 +273,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MzM4OTcxLC0yNTkzODkzMzcsNzQ3OT
-Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
-MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
-g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2NTIzMTEzNjAsLTI1OTM4OTMzNyw3ND
+c5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0
+NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLT
+g0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQy
+NDgyMF19
 -->
