@@ -249,10 +249,10 @@ graph TD
 14 --14/2 = 7--- 2
 14 --14/7 = 2--- 7((7))
 35 --35/5 = 7--- 5
-35 --- 7
-2 --- 1((1))
-5 --- 1
-7 --- 1
+35 --35/7 = 5--- 7
+2 --2/1 = 2--- 1((1))
+5 --5/1 = 5--- 1
+7 --7/1 = 7--- 1
 ```
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
@@ -270,9 +270,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDc4MDkxNCwtMjU5Mzg5MzM3LDc0Nz
-k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
-LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
-Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
-ODIwXX0=
+eyJoaXN0b3J5IjpbODE2MzM4OTcxLC0yNTkzODkzMzcsNzQ3OT
+Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
+MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
+g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
+MjBdfQ==
 -->
