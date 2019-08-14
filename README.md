@@ -268,13 +268,18 @@ graph TD
 
 > **Definition: Größte - und Maximale Elemente**
 > Sei $\leq$ eine Ordnungsrelation in $M$.
-> **Größtes Element:** $größtesElement \in M \land \forall x \in M: x \leq größtesElement$ 
+> **Größtes Element:**
+> $größtesElement \in M \land \forall x \in M: x \leq größtesElement$ 
+> 
 > Eigenschaften:
 > -	Größtes Element $\in M$
 > -	Größtes Element ist mit allen Elementen aus $M$ vergleichbar
 > -	Beim Vergleich zu den anderen Elementen in $M$, ist das größte Element $\leq$ alle anderen Elemente der Menge.
 > 
-> **Maximales Element** $maximalesElement \in M \land \nexists x \in M: maximalesElement \lt x$
+> **Maximales Element**
+> $maximalesElement \in M \land \nexists x \in M: maximalesElement \lt x$ 
+> oder
+> $maximalesElement \in M \land \forall x \in M: maximalesElement \leq x \i$
 > Eigenschaften:
 > -	Maximales Element $\in M$
 > -	Es ist nicht unbedingt mit allen Elementen vergleichbar
@@ -295,9 +300,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwMDYzMDAsNzU0MjIzMjUyLC0yNT
-kzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYy
-NSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMD
-cyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2
-MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbMzQ2ODQ4NDYwLDc1NDIyMzI1MiwtMjU5Mz
+g5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUs
+ODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mj
+c3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAx
+NSwxMzA0NDI0ODIwXX0=
 -->
