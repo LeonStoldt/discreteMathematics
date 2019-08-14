@@ -256,7 +256,7 @@ graph TD
 ```
 
 > **Informationserhaltungssatz für Hasse Diagramme**
-> Wenn die Ordnungsrelation 
+> Wenn die Ordnungsrelation $\leq$ eine **endliche Menge** ist, gilt: $()$
 
 ### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
 ### 1.5 Verbände
@@ -273,9 +273,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIzMTEzNjAsLTI1OTM4OTMzNyw3ND
-c5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0
-NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLT
-g0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQy
-NDgyMF19
+eyJoaXN0b3J5IjpbMTU1ODUzMDE3OCwtMjU5Mzg5MzM3LDc0Nz
+k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
+LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
+Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
+ODIwXX0=
 -->
