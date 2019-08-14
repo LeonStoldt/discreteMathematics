@@ -268,11 +268,13 @@ graph TD
 
 > **Definition: Größte - und Maximale Elemente**
 > Sei $\leq$ eine Ordnungsrelation in $M$.
-> **Größtes Element:** $\forall x \in M: größtesElement \nx \leq größtesElement$ 
+> **Größtes Element:** $größtesElement \in M \land \forall x \in M: x \leq größtesElement$ 
 > Eigenschaften:
 > -	Größtes Element $\in M$
 > -	Größtes Element ist mit allen Elementen aus $M$ vergleichbar
-> **Maximales Element** $\nexists x \in M: maximalesElement \lt x$
+> -	
+> 
+> **Maximales Element** $maximalesElement \in M \land \nexists x \in M: maximalesElement \lt x$
 
 
 ### 1.5 Verbände
@@ -289,7 +291,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg2Mzc3OCw3NTQyMjMyNTIsLTI1OT
+eyJoaXN0b3J5IjpbLTI0NDE2MDg1MCw3NTQyMjMyNTIsLTI1OT
 M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
 LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
 I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
