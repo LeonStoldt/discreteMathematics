@@ -295,10 +295,10 @@ graph TD
 5((5)) --- 1
 7((7)) --- 1
 ```
-| Teilmenge | maximale Elem |
-|--|--|
-|  |  |
-
+| Teilmenge | maximale Elemente | größte Elemente |
+|--|--|--|
+| $\{2,3,6\}$ | $\{6\}$ | $\{6\}$ |
+`WIP`
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -314,9 +314,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MTcxMjMyLDg3NTAzNTg2OSw3NTQyMj
-MyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwx
-NjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNT
-IwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgx
-OCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTk0MzEwMzg5MSw4NzUwMzU4NjksNzU0Mj
+IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
+MTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMj
+UyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4
+MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
