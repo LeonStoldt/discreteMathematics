@@ -275,6 +275,7 @@ graph TD
 > -	Größtes Element $\in M$
 > -	Größtes Element ist mit allen Elementen aus $M$ vergleichbar
 > -	Beim Vergleich zu den anderen Elementen in $M$, ist das größte Element $\leq$ alle anderen Elemente der Menge.
+> -	Es gibt maximal ein größtes Element der Menge $M$
 > -	Jedes größte Element ist auch ein maximales Element
 > 
 > **Maximales Element**
@@ -303,7 +304,8 @@ graph TD
 | $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
 | $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
 
-`WIP`
+
+
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -319,10 +321,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgzMjA1MjcsLTEyMzkyNDQ4NDIsOD
-c1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4
-NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0Nj
-UxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0
-NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX
-0=
+eyJoaXN0b3J5IjpbMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4Nz
+UwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3
+LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NT
+E0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0
+NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ
+==
 -->
