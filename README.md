@@ -241,8 +241,8 @@ Betrachtet wird die Nachbarschaftsrelation von der Menger aller Teiler von 70 $T
 
 ```mermaid
 graph TD
-70((70)) --- 10((10))
-70 --- 14((14))
+70((70)) --70 / 10 = 7--- 10((10))
+70 ----- 14((14))
 70 --- 35((35))
 10 --- 2((2))
 10 --- 5((5))
@@ -270,8 +270,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mz
-g2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1
-LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMj
-EyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbMTkzODc5NzkzNCwtMjU5Mzg5MzM3LDc0Nz
+k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
+LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
+Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
+ODIwXX0=
 -->
