@@ -261,6 +261,8 @@ graph TD
 > -	**beliebige Menge** ist, gilt: $(\leq^{N})^{*} \subseteq \leq$ 
 > 
 > Die Nachbarschaftsrelation ist also ausreichend zur Beschreibung der Ordnungsrelation, da mithilfe der transitiv-reflexiven Hülle dir Relation vollständig konstruiert werden kann.
+> 
+> *Für die Darstellung von Ordnungsrelationen in unendlichen Mengen (Bsp. $\R$) ist das Hasse Diagramm keine geeignete Darstellungsmethode, da hier ein Informationsve
 
 
 
@@ -280,9 +282,9 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OT
-Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
-MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
-g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
-MjBdfQ==
+eyJoaXN0b3J5IjpbNjQxMzM2NTU1LDc1NDIyMzI1MiwtMjU5Mz
+g5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUs
+ODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mj
+c3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAx
+NSwxMzA0NDI0ODIwXX0=
 -->
