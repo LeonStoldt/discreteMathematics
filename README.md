@@ -241,14 +241,14 @@ Betrachtet wird die Nachbarschaftsrelation von der Menger aller **Teiler** von 7
 
 ```mermaid
 graph TD
-70((70)) --70 / 10 = 7--- 10((10))
-70 --70 / 14 = 5--- 14((14))
-70 --70 / 35 = 2--- 35((35))
+70((70)) --70/10 = 7--- 10((10))
+70 --70/14 = 5--- 14((14))
+70 --70/35 = 2--- 35((35))
 10 --10/2 = 5--- 2((2))
-10 --- 5((5))
-14 --- 2
-14 --- 7((7))
-35 --- 5
+10 --10/5 = 2--- 5((5))
+14 --14/2 = 7--- 2
+14 --14/7 = 2--- 7((7))
+35 --35/5 = 7--- 5
 35 --- 7
 2 --- 1((1))
 5 --- 1
@@ -270,7 +270,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjA4NjAyMCwtMjU5Mzg5MzM3LDc0Nz
+eyJoaXN0b3J5IjpbLTY4MDc4MDkxNCwtMjU5Mzg5MzM3LDc0Nz
 k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
 LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
 Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
