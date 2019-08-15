@@ -304,7 +304,7 @@ graph TD
 | $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
 | $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
 
-> **Definition: Supremum / Infumum**
+> **Definition: Supremum / Infimum**
 > Ordnungsrelation $\leq$ in $M$ mit $T \subseteq M$
 > 1.	$obereSchranke \in M$ von $T: \forall x \in A: x \leq obereSchranke$
 > 2.	$untereSchranke \in M$ von $T: \forall x \in A: untereSchranke \leq x$
@@ -313,6 +313,10 @@ graph TD
 > 5.	$Supremum$ ist definiert durch das kleinste Element der Menge der oberen Schranken.
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
+*Beispiel: Supremum / Infimum*
+> WIP
+
+`S.154`
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -328,10 +332,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU5MzY5NzcsMjA0NTgzODkyOSwtMT
-IzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkz
-MzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4Nj
-M2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzcz
-MjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LD
-EzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMz
+kyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3
+LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNj
+U5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1
+OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMz
+A0NDI0ODIwXX0=
 -->
