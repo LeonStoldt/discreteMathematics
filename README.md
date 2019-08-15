@@ -304,7 +304,8 @@ graph TD
 | $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
 | $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
 
-> **Definition: 
+> **Definition: Supremum / Infumum**
+> Ordnungsrelation $\leq$ in $M$ mit $A \subseteq M$
 
 
 ### 1.5 Verbände
@@ -321,10 +322,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTAxOTY0LDIwNDU4Mzg5MjksLTEyMz
-kyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3
-LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNj
-U5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1
-OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMz
-A0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbLTE2OTY5NTQwMDAsMjA0NTgzODkyOSwtMT
+IzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkz
+MzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4Nj
+M2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzcz
+MjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LD
+EzMDQ0MjQ4MjBdfQ==
 -->
