@@ -308,7 +308,7 @@ graph TD
 > Ordnungsrelation $\leq$ in $M$ mit $T \subseteq M$
 > 1.	$obereSchranke \in M$ von $T: \forall x \in A: x \leq obereSchranke$
 > 2.	$untereSchranke \in M$ von $T: \forall x \in A: untereSchranke \leq x$
-> 3.	
+> 3.	$untereGrenze \in M$ von $A$ ist definiert 
 
 
 ### 1.5 Verbände
@@ -325,7 +325,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTE0ODQ0OSwyMDQ1ODM4OTI5LC0xMj
+eyJoaXN0b3J5IjpbMTU4NzkwNzgzOSwyMDQ1ODM4OTI5LC0xMj
 M5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMz
 Nyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
 Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
