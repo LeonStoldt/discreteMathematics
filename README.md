@@ -308,7 +308,8 @@ graph TD
 > Ordnungsrelation $\leq$ in $M$ mit $T \subseteq M$
 > 1.	$obereSchranke \in M$ von $T: \forall x \in A: x \leq obereSchranke$
 > 2.	$untereSchranke \in M$ von $T: \forall x \in A: untereSchranke \leq x$
-> 3.	$untereGrenze \in M$ von $A$ ist definiert 
+> 3.	$obereGrenze \in M$ von $A$ ist definiert durch das minimale Element der Menge der oberen Schranken
+> 4.	$untereGrenze \in M$ von $A$ ist definiert durch das maximale Element der Menge der unteren Schranken 
 
 
 ### 1.5 Verbände
@@ -325,10 +326,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzkwNzgzOSwyMDQ1ODM4OTI5LC0xMj
-M5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMz
-Nyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
-Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
-NTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMT
-MwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbNDY1OTU3NDQ3LDIwNDU4Mzg5MjksLTEyMz
+kyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3
+LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNj
+U5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1
+OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMz
+A0NDI0ODIwXX0=
 -->
