@@ -310,7 +310,8 @@ graph TD
 > 2.	$untereSchranke \in M$ von $T: \forall x \in A: untereSchranke \leq x$
 > 3.	$obereGrenze \in M$ von $A$ ist definiert durch das minimale Element der Menge der oberen Schranken
 > 4.	$untereGrenze \in M$ von $A$ ist definiert durch das maximale Element der Menge der unteren Schranken
-> 5.	$Supremum$ ist definiert durch 
+> 5.	$Supremum$ ist definiert durch das kleinste Element der Menge der oberen Schranken.
+> 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 
 ### 1.5 Verbände
@@ -327,10 +328,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc4NTQ1NCwyMDQ1ODM4OTI5LC0xMj
-M5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMz
-Nyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
-Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
-NTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMT
-MwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTE3MzU5MzY5NzcsMjA0NTgzODkyOSwtMT
+IzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkz
+MzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4Nj
+M2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzcz
+MjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LD
+EzMDQ0MjQ4MjBdfQ==
 -->
