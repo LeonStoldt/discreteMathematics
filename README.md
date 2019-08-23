@@ -307,10 +307,15 @@ graph TD
 > **Definition: Supremum / Infimum**
 > Ordnungsrelation $\leq$ in $M$ mit $T \subseteq M$
 > 1.	$obereSchranke \in M$ von $T: \forall x \in A: x \leq obereSchranke$
+>
 > 2.	$untereSchranke \in M$ von $T: \forall x \in A: untereSchranke \leq x$
+>
 > 3.	$obereGrenze \in M$ von $A$ ist definiert durch das minimale Element der Menge der oberen Schranken
+>
 > 4.	$untereGrenze \in M$ von $A$ ist definiert durch das maximale Element der Menge der unteren Schranken
+>
 > 5.	$Supremum$ ist definiert durch das kleinste Element der Menge der oberen Schranken.
+>
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 *Beispiel: Supremum / Infimum*
@@ -332,10 +337,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMz
-kyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3
-LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNj
-U5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1
-OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMz
-A0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbMTYxNTE1NDg2NSwyMjE3MjcxMTksMjA0NT
+gzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUy
+LC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOT
+MyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5
+LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNz
+UxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
