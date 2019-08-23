@@ -297,9 +297,9 @@ graph TD
 5((5)) --- 1
 7((7)) --- 1
 ```
-| Teilmenge | maximale Elemente | größte Elemente |
+| Teilmenge | maximale Elemente | größtes Elemente |
 |--|--|--|
-| $\{2,3,6\}$ | $\{6\}$ | $\{6\}$ |
+| $\{2,3,6\}$ | $\{6\}$ | 6 |
 | $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
 | $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
 | $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
@@ -319,8 +319,8 @@ graph TD
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 *Beispiel: Supremum / Infimum*
-| Teilmenge | Supremum | Infumum | minimalste Element |  |
-|--|--|--|
+| Teilmenge | Supremum | Infumum | minimalste Element | maximale Element |
+|--|--|--|--|--|
 | $\{2,3,6\}$ | $\{6\}$ | $\{6\}$ |
 | $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
 | $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
@@ -340,7 +340,7 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMjYyMDQ2LDE4NjQ2MjA1MjksMjIxNz
+eyJoaXN0b3J5IjpbMTQ4MzAzMzYzLDE4NjQ2MjA1MjksMjIxNz
 I3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5
 LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzOD
 Y2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUs
