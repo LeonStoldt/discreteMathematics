@@ -319,9 +319,12 @@ graph TD
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 *Beispiel: Supremum / Infimum*
-> WIP
-
-`S.154`
+| Teilmenge | Supremum | Infumum | minimalste Element |  |
+|--|--|--|
+| $\{2,3,6\}$ | $\{6\}$ | $\{6\}$ |
+| $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
+| $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
+| $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -337,10 +340,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NT
-gzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUy
-LC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOT
-MyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5
-LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNz
-UxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
+eyJoaXN0b3J5IjpbNTAxMjYyMDQ2LDE4NjQ2MjA1MjksMjIxNz
+I3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5
+LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzOD
+Y2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUs
+MTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMT
+I2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
 -->
