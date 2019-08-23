@@ -319,9 +319,9 @@ graph TD
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 *Beispiel: Supremum / Infimum*
-| Teilmenge | Supremum | Infumum | minimalste Element | maximale Element |
+| Teilmenge | Infimum | Supremum | minimalste Element | maximale Element |
 |--|--|--|--|--|
-| $\{2,3,6\}$ | $\{6\}$ | $\{6\}$ |
+| $\{2,3,6\}$ | 2 | 6 | 2 | 6 |
 | $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
 | $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
 | $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
@@ -340,10 +340,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzAzMzYzLDE4NjQ2MjA1MjksMjIxNz
-I3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5
-LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzOD
-Y2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUs
-MTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMT
-I2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0ODIwXX0=
+eyJoaXN0b3J5IjpbLTc4MjcxMDAxMSwxODY0NjIwNTI5LDIyMT
+cyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2
+OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mz
+g2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1
+LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMj
+EyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
 -->
