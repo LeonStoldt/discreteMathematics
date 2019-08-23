@@ -321,10 +321,8 @@ graph TD
 *Beispiel: Supremum / Infimum*
 | Teilmenge | Infimum | Supremum | minimalste Element | maximale Element |
 |--|--|--|--|--|
-| $\{2,3,6\}$ | 2 | 6 | 2 | 6 |
-| $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
-| $\{2,3,5,6\}$ | $\{5,6\}$ | $\{\}$ |
-| $\{1,2,3,4,5,6,7,8\}$ | $\{5,6,7,8\}$ | $\{\}$ |
+| $\{2,3,6\}$ | $2$ | $6$ | $2$ | $6$ |
+| $[0,8)$ | $\{2,3\}$ | $\{\}$ |
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -340,10 +338,10 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjcxMDAxMSwxODY0NjIwNTI5LDIyMT
-cyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2
-OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mz
-g2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1
-LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1NCwtMj
-EyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgyMF19
+eyJoaXN0b3J5IjpbLTIwMDcwMTQzNTMsMTg2NDYyMDUyOSwyMj
+E3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4
+NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOT
+M4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1
+NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLT
+IxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4MjBdfQ==
 -->
