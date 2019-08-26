@@ -415,10 +415,9 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > -	Bei inversen Relationen $(R^{-1})$ wird die Eindeutigkeit umgedreht.
 > *Beispielt: linkseindeutige Relation* $R \rightarrow$ *rechtseindeutige Relation* $R^{-1}$
 > -	Bei Verkettung bleiben die Eigenschaften erhalten.
-> *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow$
-> $R_1 \circ R_2 $
+> *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkseindeutig
 
-
+`S. 165`
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -429,11 +428,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OT
-UyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5
-MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMj
-M5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMz
-Nyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
-Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
-NTldfQ==
+eyJoaXN0b3J5IjpbLTE0OTA2MjI3MDgsMTgyMzE1NTcxNiwxMT
+czNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1Mzcz
+NTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMD
+Q1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMy
+NTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNj
+E5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIw
+MzldfQ==
 -->
