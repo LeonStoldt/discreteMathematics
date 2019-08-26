@@ -417,7 +417,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > -	Bei Verkettung bleiben die Eigenschaften erhalten.
 > *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkseindeutig
 
-`S. 165`
+> **Definition: Links- und Rechtstotalität**
+> `S. 165`
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -428,11 +429,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA2MjI3MDgsMTgyMzE1NTcxNiwxMT
-czNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1Mzcz
-NTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMD
-Q1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMy
-NTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNj
-E5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIw
-MzldfQ==
+eyJoaXN0b3J5IjpbMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNz
+M2MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1
+MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwND
+U4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1
+MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MT
+kzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAz
+OV19
 -->
