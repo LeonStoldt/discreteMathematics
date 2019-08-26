@@ -365,10 +365,9 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 2.	Symmetrie: $y \in [x] \implies x\in [y]$
 > 3.	Transitivität: $(x \in [y] \land y \in [z]) \implies x \in [z]$
 > 
-> Außerdem gilt: Die Menge der Äquivalenzklassen von $M$ ergibt zusammengenommen die ganze Menge $M$. 
+> Außerdem gilt:
+> Die Menge der Äquivalenzklassen von $M$ ergibt zusammengenommen die ganze Menge $M$. 
 > $$\bigcup_{x \in M} [x] = M$$
-
-
 
 ### 1.7 Restklassen
 ### 1.8 Abbildungen
@@ -382,11 +381,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwODg0NjA2LC04NTgyMjcyNTcsLTk5NT
-M3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTks
-MjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0Mj
-IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
-MTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMj
-UyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4
-MThdfQ==
+eyJoaXN0b3J5IjpbMTgyNjIzMzI3NiwtODU4MjI3MjU3LC05OT
+UzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5
+LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1ND
+IyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQw
+LDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2Mz
+I1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQx
+ODE4XX0=
 -->
