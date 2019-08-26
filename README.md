@@ -342,7 +342,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 1.5 Verbände
 
 > **Definition: Verband**
-> 
+> Zu zwei Elementen $a,b\in M$ existiert das $Supremum$ und das $Infimum$:
+> $a \sqcup b$ = 
 
 
 
@@ -359,11 +360,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2ND
-YyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0
-Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OT
-Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
-MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
-g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQ5NTk1NiwtOTk1MzczNTA3LDc0ND
+g4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5
+LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OT
+M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
+LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
+I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
+MTVdfQ==
 -->
