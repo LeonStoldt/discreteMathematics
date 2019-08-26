@@ -372,7 +372,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 1.7 Restklassen
 
 > **Definition: Kongruenz modulo m**
-> Zwei natürlichen Zahlen sind **kongruent modulo m** oder $\equiv_{m}$, wenn sie bei der Division durch die natürliche Zahl $m$ denselben Rest $r$ lassen.
+> Zwei natürlichen Zahlen sind **kongruent modulo m** oder $\equiv_{m}$, wenn sie bei der Division durch die natürliche Zahl $m$ denselben Rest $r$ lassen.Hierbei entsteht folgende Äquivalenzrelation:
+> $$\equiv_{m} \subseteq \Z$$
 
 ### 1.8 Abbildungen
 
@@ -385,11 +386,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQyMTk1MTcsLTg5NTI4NTA1MCwtOD
-U4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1
-MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsOD
-c1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4
-NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0Nj
-UxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0
-NDU0XX0=
+eyJoaXN0b3J5IjpbNDc4OTk0NTI1LC04OTUyODUwNTAsLTg1OD
+IyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5
+LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NT
+AzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcs
+MjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MT
+Q4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0ODc1NDQ1
+NF19
 -->
