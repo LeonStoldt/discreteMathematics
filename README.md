@@ -348,6 +348,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 
 ### 1.6 Äquivalenzrelationen
 
+> **Definition: Äquivalenzrelation**
+> $R$ heißt Aquivalenzrelation, wenn
+> -	$R$ ist reflexiv
+> -	$R$ ist symmetrisch
+> -	$R$ ist transitiv
 
 
 ### 1.7 Restklassen
@@ -362,11 +367,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjQ1MTcwMSwtOTk1MzczNTA3LDc0ND
-g4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5
-LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OT
-M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
-LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
-I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTE4ODQyMzQ4MzgsLTk5NTM3MzUwNyw3ND
+Q4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODky
+OSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNT
+kzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYy
+NSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMD
+cyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2
+MDE1XX0=
 -->
