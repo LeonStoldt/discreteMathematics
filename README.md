@@ -331,7 +331,9 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 -	kein Supremum
 
 > **Definition: Existenzsatz Supremum**
-> 
+> Eine Menge hat ein Supremum, wenn sie **nur eine** obere Grenze hat.
+> **Definition: Existenzsatz Infimum**
+> Eine Menge hat ein Infimum, wenn sie **nur eine
 
 
 ### 1.5 Verbände
@@ -348,11 +350,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDcwNDE1OTIsNzQ0ODg5NDkzLDE4Nj
-Q2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4
-NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nz
-k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
-LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
-Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
-ODIwXX0=
+eyJoaXN0b3J5IjpbLTY3MjcxMDcyLDc0NDg4OTQ5MywxODY0Nj
+IwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQy
+LDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5ND
+g1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0Nywx
+NDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0OD
+c1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgy
+MF19
 -->
