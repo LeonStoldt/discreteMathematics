@@ -401,7 +401,10 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 2.	Eindeutigkeit
 
 > **Definition: Links- / Rechtseindeutigkeit
-> **Linkseindeutigkeit
+> **Linkseindeutigkeit**
+> 
+> 
+> **Rechtseindeutigkeit**
 
 
 
@@ -414,7 +417,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjgyNTY2NSwxMTczNjE0NzgwLC04OT
+eyJoaXN0b3J5IjpbMTg2NTcxNzI4NywxMTczNjE0NzgwLC04OT
 UyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5
 MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMj
 M5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMz
