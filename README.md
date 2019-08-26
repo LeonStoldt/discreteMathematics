@@ -343,11 +343,13 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 
 > **Definition: Verband**
 > Zu zwei Elementen $a,b\in M$ existiert das $Supremum$ und das $Infimum$:
-> $a \sqcup b$ = 
-
-
+> $a \sqcup b = sup\{a,b\}$
+> $a \sqcap b = inf\{a,b\}$
 
 ### 1.6 Äquivalenzrelationen
+
+
+
 ### 1.7 Restklassen
 ### 1.8 Abbildungen
 
@@ -360,7 +362,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ5NTk1NiwtOTk1MzczNTA3LDc0ND
+eyJoaXN0b3J5IjpbMTAyNjQ1MTcwMSwtOTk1MzczNTA3LDc0ND
 g4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5
 LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OT
 M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
