@@ -403,7 +403,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > **Definition: Links- / Rechtseindeutigkeit
 > **Linkseindeutigkeit**
 > -	Jeder Punkt in der Zielmenge wird **max.** einmal aus der Quellmenge getroffen.
-> -	Jedem Punkt in der Zielmenge ist **eindeutig** ein Punkt der Quellmenge zuzuordnen, wenn er getro
+> -	Jedem Punkt in der Zielmenge ist **eindeutig** ein Punkt der Quellmenge zuzuordnen.
+> $$\forall x,y \in A: \forall z \in B: (x,z) $$
 > 
 > **Rechtseindeutigkeit**
 
@@ -418,11 +419,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTczNTMyNSwxMTczNjE0NzgwLC04OT
-UyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5
-MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMj
-M5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMz
-Nyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2Mz
-Y1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMy
-NTldfQ==
+eyJoaXN0b3J5IjpbLTE0MDkwMDQwMDgsMTE3MzYxNDc4MCwtOD
+k1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0
+OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMT
+IzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkz
+MzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4Nj
+M2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzcz
+MjU5XX0=
 -->
