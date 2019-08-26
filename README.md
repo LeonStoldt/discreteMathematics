@@ -365,7 +365,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 2.	Symmetrie: $y \in [x] \implies x\in [y]$
 > 3.	Transitivität: $(x \in [y] \land y \in [z]) \implies x \in [z]$
 > 
-> Außerdem gilt: Die Menge der Äquivalenzklassen ergibt zu
+> Außerdem gilt: Die Menge der Äquivalenzklassen von $M$ ergibt zusammengenommen die ganze Menge $M$. 
+> $$\bigcup_{x \in M} [x] = M$$
 
 
 
@@ -381,7 +382,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMTU4MDkwLC04NTgyMjcyNTcsLTk5NT
+eyJoaXN0b3J5IjpbOTQwODg0NjA2LC04NTgyMjcyNTcsLTk5NT
 M3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTks
 MjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0Mj
 IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
