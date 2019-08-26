@@ -361,8 +361,9 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > $[x] = \{y \in M: y \equiv x\}$
 
 > **Eigenschaften von Äquivalenzklassen**
-> 1.	reflexive Eigenschaft: $x \in [x]$
-> 2.	$y \in [x] \implies x\in [y]$
+> 1.	Reflexivität: $x \in [x]$
+> 2.	Symmetrie: $y \in [x] \implies x\in [y]$
+> 3.	Transitivität: $(x \in [y] \land y \in [z]) \implies x \in [z]$
 
 
 
@@ -378,11 +379,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDUyMDkzLC05OTUzNzM1MDcsNzQ0OD
-g5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5Mjks
-LTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mz
-g5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUs
-ODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mj
-c3MzI1OSwtODQ4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAx
-NV19
+eyJoaXN0b3J5IjpbLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0ND
+g4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5
+LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OT
+M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
+LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
+I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
+MTVdfQ==
 -->
