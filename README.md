@@ -370,6 +370,9 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > $$\bigcup_{x \in M} [x] = M$$
 
 ### 1.7 Restklassen
+
+
+
 ### 1.8 Abbildungen
 
 ## 2. Algebraische Strukturen
@@ -381,7 +384,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjIzMzI3NiwtODU4MjI3MjU3LC05OT
+eyJoaXN0b3J5IjpbLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OT
 UzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5
 LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1ND
 IyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQw
