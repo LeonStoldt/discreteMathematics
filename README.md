@@ -356,6 +356,10 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 
 > Äquivalenzrelationen werden auch durch $\equiv$ dargestellt.
 
+> **Definition: Äquivalenzklasse**
+> Jedes Element der Äquivalenzrelation ist in der 
+
+
 
 ### 1.7 Restklassen
 ### 1.8 Abbildungen
@@ -369,7 +373,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTMwMDQzMSwtOTk1MzczNTA3LDc0ND
+eyJoaXN0b3J5IjpbMjAyNjQ0MTI1NSwtOTk1MzczNTA3LDc0ND
 g4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5
 LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OT
 M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
