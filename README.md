@@ -394,6 +394,12 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 
 ### 1.8 Abbildungen
 
+> **Definition: Abbildung**
+> Eine Abbildung beschreibt die Zuordnung von der Quell- zur Zielmenge.
+> **Eigenschaften einer Abbildung**
+> 1.	Existenz
+> 2.	Eindeutigkeit
+
 
 
 ## 2. Algebraische Strukturen
@@ -405,11 +411,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NT
-gyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUy
-OSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4Nz
-UwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3
-LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NT
-E0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0
-NTRdfQ==
+eyJoaXN0b3J5IjpbMjcyNjU1NjgxLDExNzM2MTQ3ODAsLTg5NT
+I4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkz
+LDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMz
+kyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3
+LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNj
+U5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1
+OV19
 -->
