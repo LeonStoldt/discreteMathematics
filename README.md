@@ -336,8 +336,15 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > **Definition: Existenzsatz Infimum**
 > Eine Menge hat ein Infimum, wenn sie **nur eine** untere Grenze hat.
 
+`Beweis zur Übung: S. 156`
+
 
 ### 1.5 Verbände
+
+
+
+
+
 ### 1.6 Äquivalenzrelationen
 ### 1.7 Restklassen
 ### 1.8 Abbildungen
@@ -351,11 +358,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTI1MTUzMyw3NDQ4ODk0OTMsMTg2ND
-YyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0
-Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OT
-Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
-MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
-g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
-MjBdfQ==
+eyJoaXN0b3J5IjpbMTI5MjIwNzA4LDc0NDg4OTQ5MywxODY0Nj
+IwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQy
+LDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5ND
+g1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0Nywx
+NDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNzI3NzMyNTksLTg0OD
+c1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYwMTUsMTMwNDQyNDgy
+MF19
 -->
