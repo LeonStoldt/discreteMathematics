@@ -364,6 +364,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 1.	Reflexivität: $x \in [x]$
 > 2.	Symmetrie: $y \in [x] \implies x\in [y]$
 > 3.	Transitivität: $(x \in [y] \land y \in [z]) \implies x \in [z]$
+> 
+> Außerdem gilt: Die Menge der Äquivalenzklassen ergibt zu
 
 
 
@@ -379,11 +381,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0ND
-g4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5
-LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OT
-M4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1
-LDg2MzY1OTU0NywxNDY1MTQ4MjU1LDE0NjMyNTIwMzksLTIwNz
-I3NzMyNTksLTg0ODc1NDQ1NCwtMjEyNjU0MTgxOCw3NTE0NzYw
-MTVdfQ==
+eyJoaXN0b3J5IjpbODEyMTU4MDkwLC04NTgyMjcyNTcsLTk5NT
+M3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTks
+MjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0Mj
+IzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAs
+MTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1NSwxNDYzMj
+UyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0NTQsLTIxMjY1NDE4
+MThdfQ==
 -->
