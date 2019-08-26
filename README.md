@@ -386,13 +386,15 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 	-	$[2]_{10} = \{2, 12, 22, ...\}$
 	-	$[3]_{10} = \{3, 13, 23, ...\}$
 	-	$[4]_{10} = \{4, 14, 24, ...\}$
-	-	$[5]_{10} = \{5, \}$
-	-	$[6]_{10} = \{\}$
-	-	$[7]_{10} = \{\}$
-	-	$[8]_{10} = \{\}$
-	-	$[9]_{10} = \{\}$
+	-	$[5]_{10} = \{5, 15, 25, ...\}$
+	-	$[6]_{10} = \{6, 16, 26, ...\}$
+	-	$[7]_{10} = \{7, 17, 27, ...\}$
+	-	$[8]_{10} = \{8, 18, 28, ...\}$
+	-	$[9]_{10} = \{9, 19, 29, ...\}$
 
 ### 1.8 Abbildungen
+
+
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -403,7 +405,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzgwMTQzNywtODk1Mjg1MDUwLC04NT
+eyJoaXN0b3J5IjpbMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NT
 gyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUy
 OSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4Nz
 UwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3
