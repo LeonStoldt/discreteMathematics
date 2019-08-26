@@ -414,7 +414,9 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > **Eigenschaften**
 > -	Bei inversen Relationen $(R^{-1})$ wird die Eindeutigkeit umgedreht.
 > *Beispielt: linkseindeutige Relation* $R \implies$ *rechtseindeutige Relation* $R^{-1}$
-> -	Bei Verkettung 
+> -	Bei Verkettung bleiben die Eigenschaften erhalten.
+> *Beispiel: linkseindeutige Relationen* $R_1, R_2$
+> $R_q \ R_2$
 
 
 
@@ -427,7 +429,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NTk0MDM2LDExNzM2MTQ3ODAsLTg5NT
+eyJoaXN0b3J5IjpbNDcxODA1NjA4LDExNzM2MTQ3ODAsLTg5NT
 I4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkz
 LDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMz
 kyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3
