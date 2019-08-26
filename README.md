@@ -323,7 +323,11 @@ graph TD
 |--|--|--|--|--|
 | $\{2,3,6\}$ | $2$ | $6$ | $2$ | $6$ |
 | $[0,8)\in \R$ | $0$ | $8$ | 0 | $\{\}$ |
-| $\{1,2\} \in \{1,2,3,4,5,6,7\}$ |  |  |  |
+
+*Beispiel: Obere Grenze:*
+$\{3,4\} \in \{1,2,3,4,5,6,7\}$
+-	Obere Sc
+
 
 ### 1.5 Verbände
 ### 1.6 Äquivalenzrelationen
@@ -339,11 +343,11 @@ graph TD
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk3NDg2NDksNzQ0ODg5NDkzLDE4Nj
-Q2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4
-NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nz
-k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
-LDE0NjUxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtOD
-Q4NzU0NDU0LC0yMTI2NTQxODE4LDc1MTQ3NjAxNSwxMzA0NDI0
-ODIwXX0=
+eyJoaXN0b3J5IjpbLTI1OTE4OTg0NCw3NDQ4ODk0OTMsMTg2ND
+YyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0
+Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OT
+Q4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcs
+MTQ2NTE0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04ND
+g3NTQ0NTQsLTIxMjY1NDE4MTgsNzUxNDc2MDE1LDEzMDQ0MjQ4
+MjBdfQ==
 -->
