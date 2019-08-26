@@ -381,8 +381,16 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 	-	ungerade zahlen $[1]_2$
 	-	gerade Zahlen $[2]_2$
 -	Äquivalenzklassen von $\equiv_{10}$
-	-	$[0]_{10}$
-	-	
+	-	$[0]_{10} = \{0, 10, 20, ...\}$
+	-	$[1]_{10} = \{1, 11, 21, ...\}$
+	-	$[2]_{10} = \{2, 12, 22, ...\}$
+	-	$[3]_{10} = \{3, 13, 23, ...\}$
+	-	$[4]_{10} = \{4, 14, 24, ...\}$
+	-	$[5]_{10} = \{5, \}$
+	-	$[6]_{10} = \{\}$
+	-	$[7]_{10} = \{\}$
+	-	$[8]_{10} = \{\}$
+	-	$[9]_{10} = \{\}$
 
 ### 1.8 Abbildungen
 
@@ -395,11 +403,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk4OTU1NDIsLTg5NTI4NTA1MCwtOD
-U4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1
-MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsOD
-c1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4
-NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3LDE0Nj
-UxNDgyNTUsMTQ2MzI1MjAzOSwtMjA3Mjc3MzI1OSwtODQ4NzU0
-NDU0XX0=
+eyJoaXN0b3J5IjpbMTgwMzgwMTQzNywtODk1Mjg1MDUwLC04NT
+gyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUy
+OSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4Nz
+UwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3
+LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NT
+E0ODI1NSwxNDYzMjUyMDM5LC0yMDcyNzczMjU5LC04NDg3NTQ0
+NTRdfQ==
 -->
