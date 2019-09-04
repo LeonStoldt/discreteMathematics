@@ -543,7 +543,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > $\forall a,b \in M: \exists x \in M: a \circ x = b$
 > 
 > **Eindeutigkeitssatz**
-> $\forall a,b \in M: \forall x,y \in M: a \circ x = b)$
+> $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
 
 
 ### 2.2 Restklassenoperationen
@@ -553,7 +553,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTYxOTcyOSwtMTAzOTUwNjA5OSwxMD
+eyJoaXN0b3J5IjpbLTk2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMD
 U5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2NjgxMTc3
 MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTExMDgsLT
 ExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxODIw
