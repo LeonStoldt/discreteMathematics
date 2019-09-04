@@ -493,6 +493,11 @@ y --- c((c))
 z((z))
 ```
 
+> **Eigenschaften von Abbildungen**
+> - **surjektiv**, wenn die Abbildung rechtstotal ist
+> - **injektiv**, wenn die Abbildung linkseindeutig ist
+> - ***
+
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
 ### 2.2 Restklassenoperationen
@@ -502,7 +507,7 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU0MTYxMzQsNTY2ODExNzcyLC03Nj
+eyJoaXN0b3J5IjpbLTIwOTQ5NDExNTIsNTY2ODExNzcyLC03Nj
 I2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1
 OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1Nj
 IsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1
