@@ -429,9 +429,9 @@ b((b aus A)) --würde Linkseindeutigkeit verletzen--> y
 *Rechtseindeutigkeit:*
 ``` mermaid
 graph RL
-x((x aus B)) --> a((a aus A))
-x --> b((b aus A))
-y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
+x((x aus B)) --- a((a aus A))
+x --- b((b aus A))
+y((y aus B)) --würde Rechtseindeutigkeit verletzen--- b
 ```
 
 > **Definition: Links- und Rechtstotalität**
@@ -451,19 +451,19 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 *Linkstotalität*
 ``` mermaid
 graph LR
-a((a aus A)) --> x((x aus B))
-b((b aus A)) --> x
-c((c aus A)) --> y((y aus B))
-d((d aus A)) --würde Linkstotalität verletzen--> d
+a((a aus A)) --- x((x aus B))
+b((b aus A)) --- x
+c((c aus A)) --- y((y aus B))
+d((d aus A)) --würde Linkstotalität verletzen--- d
 ```
 
 *Rechtstotalität*
 ``` mermaid
 graph RL
-w((w aus B)) --> a((a aus A))
-x((x aus B)) --> a
-y((y aus B)) --> b((b aus A))
-z((z aus B)) --würde Rechtstotalität verletzen--> z
+w((w aus B)) --- a((a aus A))
+x((x aus B)) --- a
+y((y aus B)) --- b((b aus A))
+z((z aus B)) --würde Rechtstotalität verletzen--- z
 ```
 > **Abbildung**
 > Eine Relation heißt Abbildung oder Funktion, wenn sie **rechtseindeutig** und **linkstotal** ist
@@ -477,11 +477,11 @@ z((z aus B)) --würde Rechtstotalität verletzen--> z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMT
-Y1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1
-NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1Ny
-wtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcy
-NzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OS
-w3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mzg2
-Njg0MF19
+eyJoaXN0b3J5IjpbLTY5MTgwOTYyNSwtODAxNDUxMTA4LC0xMT
+k1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4
+NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MC
+wtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2
+MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4ND
+IsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0
+ODU4N119
 -->
