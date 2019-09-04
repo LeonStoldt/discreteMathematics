@@ -445,7 +445,9 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 *Linkstotalität*
 ``` mermaid
 graph LR
-
+a((a aus A)) --> x((x aus B))
+b((b aus A)) --> x
+c((c aus A)) --> y((y au
 ```
 
 *Rechtstotalität*
@@ -459,11 +461,11 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NjY2ODE0LC0zNTE5MTE0MDQsMTgyMD
-c4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1
-MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4Nj
-Q2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4
-NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nz
-k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
-XX0=
+eyJoaXN0b3J5IjpbMTg3Mjg0MjEyMywtMzUxOTExNDA0LDE4Mj
+A3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUw
+NTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxOD
+Y0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0
+ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3ND
+c5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0
+N119
 -->
