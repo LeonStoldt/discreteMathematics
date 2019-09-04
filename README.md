@@ -527,6 +527,8 @@ Bemerkung: Die Subtraktion von natürlichen Zahlen ist keine algebraische Strukt
 da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 ```
 
+
+
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -534,7 +536,7 @@ da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzA0ODkxNyw4ODUyNzQzMTcsLTE4Nz
+eyJoaXN0b3J5IjpbLTMwNjcyMDkwMyw4ODUyNzQzMTcsLTE4Nz
 Q4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2
 NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MC
 wtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTcz
