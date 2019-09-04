@@ -466,7 +466,7 @@ y((y aus B)) --> b((b aus A))
 z((z aus B)) --würde Rechtstotalität verletzen--> z
 ```
 > **Abbildung**
-> 
+> Eine Relation heißt Abbildung oder Funktion, wenn sie **rechtseindeutig** und **linkstotal** ist
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -477,7 +477,7 @@ z((z aus B)) --würde Rechtstotalität verletzen--> z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTA4NzE3MCwtMTE5NTY1OTcwMSwtMT
+eyJoaXN0b3J5IjpbLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMT
 Y1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1
 NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1Ny
 wtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcy
