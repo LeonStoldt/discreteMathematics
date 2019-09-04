@@ -627,7 +627,8 @@ Ab Seite 180. Aufgaben
 *Beispiel Neutrale und Inverse Elemente:*
 -	Neutrales Element der Addition: **0** (Bsp. $5 + 0 = 5$)
 -	Neutrales Element der Multiplikation: **1** (Bsp. $5 * 1 = 5$)
--	Inverses Element der Addition: Element $a$
+-	Inverses Element der Addition: Element $a$, Inverses- $-a$ (Bsp. $5 - 5 = 0$
+-	Inverses Element der Multiplikation: Element $a$, Inverses- $1/a$
 
 ### 2.4 Restklassengruppen mit Multiplikation
 
@@ -638,11 +639,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMDM0MDUzLC0xODExMDcwMTA5LC0xMz
-M2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5
-LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1ND
-U4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5
-LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2OD
-ExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEw
-OF19
+eyJoaXN0b3J5IjpbLTIwODk2ODMzMzMsLTE4MTEwNzAxMDksLT
+EzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQw
+NDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMT
+U0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYw
+OTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1Nj
+Y4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUx
+MTA4XX0=
 -->
