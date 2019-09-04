@@ -637,6 +637,9 @@ Ab Seite 180. Aufgaben
 `Bemerkung: Es gibt genau ein Neutrales Element.`
 
 
+> **Eindeutigkeit der Lösbarkeit von einer Gruppe**
+> Für jede Gruppe gilt der Eindeutigkeitssatz. D.h. es gibt für 
+
 ### 2.4 Restklassengruppen mit Multiplikation
 
 
@@ -646,11 +649,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MDU3NTY4LDE3NTMxMDE1OTUsLTE5OT
-czMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3
-MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1Mj
-IzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4MzI2
-Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5LDEwNT
-k3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2ODExNzcy
-XX0=
+eyJoaXN0b3J5IjpbMTkxNTkyMzcyMiwxNzUzMTAxNTk1LC0xOT
+k3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4
+NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNT
+IyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1ODMy
+NjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMD
+U5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2NjgxMTc3
+Ml19
 -->
