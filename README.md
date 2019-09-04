@@ -645,7 +645,7 @@ Ab Seite 180. Aufgaben
 > $$|G|$$
 
 *Beispiel zur Ordnung einer Grippe:*
-$|(\{1,2,3\}, +)|$
+$|(\{1,2,3\}, +)| = 3$
 
 ### 2.4 Restklassengruppen mit Multiplikation
 
@@ -656,7 +656,7 @@ $|(\{1,2,3\}, +)|$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzODU5ODkyLDE3NTMxMDE1OTUsLTE5OT
+eyJoaXN0b3J5IjpbNDAxMTcxNjIwLDE3NTMxMDE1OTUsLTE5OT
 czMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3
 MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1Mj
 IzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4MzI2
