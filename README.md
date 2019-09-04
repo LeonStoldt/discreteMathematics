@@ -547,7 +547,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Eindeutigkeitssatz**
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
 > 
-> Angewendet auf die Verknüpfungstafel: Jedes Element kommt in jeder Zeile der Tabelle mind. einmal vor. (Bei $... x \circ a = b)$ kommt jedes Element in jeder Spalte mind. einmal vor.
+> Angewendet auf die Verknüpfungstafel: Jedes Element kommt in jeder Zeile der Tabelle max. einmal vor. (Bei $... x \circ a = b)$ kommt jedes Element in jeder Spalte mind. einmal vor.
 
 
 *Beispiel: Existenzsatz*
@@ -581,11 +581,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NDY2ODQsNzI2NjY1NzcwLC0yMTMzMT
-U2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0x
-MDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4OD
-g0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2Njks
-LTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMz
-UxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0
-NzgwXX0=
+eyJoaXN0b3J5IjpbODQwOTYzNjE0LDcyNjY2NTc3MCwtMjEzMz
+E1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwt
+MTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0OD
+g4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5
+LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLT
+M1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYx
+NDc4MF19
 -->
