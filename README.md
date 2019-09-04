@@ -596,7 +596,11 @@ dann gilt:
 $a + b - (x - y)$
 $= a - x + b - y$
 $= o * m + p * m$
-$= m ($
+$= m (o + p)$
+
+```
+Bemerkung: Rechnen mit Restklassenoperationen 
+```
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -604,7 +608,7 @@ $= m ($
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTM0NTg2OCw2Nzk2MTQ1LDc1NzE2ND
+eyJoaXN0b3J5IjpbMTYxNDIxMzM2MSw2Nzk2MTQ1LDc1NzE2ND
 A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
 NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
 A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
