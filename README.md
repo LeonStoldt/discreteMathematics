@@ -447,10 +447,15 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 graph LR
 a((a aus A)) --> x((x aus B))
 b((b aus A)) --> x
-c((c aus A)) --> y((y au
+c((c aus A)) --> y((y aus B))
+d((d aus A)) --würde Linkstotalität verletzen--> d
 ```
 
 *Rechtstotalität*
+``` mermaid
+graph LR
+```
+
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -461,11 +466,11 @@ c((c aus A)) --> y((y au
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mjg0MjEyMywtMzUxOTExNDA0LDE4Mj
-A3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUw
-NTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxOD
-Y0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0
-ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3ND
-c5NDg1ODcsMjA5Mzg2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0
-N119
+eyJoaXN0b3J5IjpbLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxOD
+IwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1
+MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMT
+g2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0
+NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNz
+Q3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1
+NDddfQ==
 -->
