@@ -528,7 +528,11 @@ da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 ```
 
 **Darstellungsform: Verknüpfungstafel**
-*Beispiel: algebraische Struktur* $(\Z, +)$
+*Beispiel: algebraische Struktur* $(\{1,2,3\}, +)$
+|  |  |
+|--|--|
+|  |  |
+
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -537,11 +541,11 @@ da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE2NjMwNzUsODg1Mjc0MzE3LC0xOD
-c0ODg4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0
-NjY5LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzOD
-AsLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3
-MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3Mz
-UwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0
-NTgzODkyOV19
+eyJoaXN0b3J5IjpbNDYzMzY5MTUzLDg4NTI3NDMxNywtMTg3ND
+g4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2
+OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC
+0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2
+MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MD
+csNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwNDU4
+Mzg5MjldfQ==
 -->
