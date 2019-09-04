@@ -541,6 +541,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ```
 > **Existenzsatz**
 > $\forall a,b \in M: \exists x \in M: a \circ x = b$
+> d
 > 
 > **Eindeutigkeitssatz**
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
@@ -560,11 +561,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzE3OTI5OCwtOTYyODI3OTM0LC0xMD
-M5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0
-ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLT
-gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
-OTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0Nz
-gwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0
-NDg4OTQ5M119
+eyJoaXN0b3J5IjpbNDE5MTEwMzkwLC05NjI4Mjc5MzQsLTEwMz
+k1MDYwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4
+MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtOD
+AxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5
+MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3OD
+AsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0
+ODg5NDkzXX0=
 -->
