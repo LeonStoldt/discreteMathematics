@@ -441,6 +441,15 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 > **Rechtstotalität**
 > $\forall y \in B: \exists x \in A: (x,y) \in R$
 
+*Beispiel Links-/Rechtstotalität:*
+*Linkstotalität*
+``` mermaid
+graph LR
+
+```
+
+*Rechtstotalität*
+
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
 ### 2.2 Restklassenoperationen
@@ -450,11 +459,11 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc2MjM2NDksLTM1MTkxMTQwNCwxOD
-IwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1
-MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMT
-g2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0
-NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNz
-Q3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1
-NDddfQ==
+eyJoaXN0b3J5IjpbNzc5NjY2ODE0LC0zNTE5MTE0MDQsMTgyMD
+c4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1
+MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4Nj
+Q2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4
+NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nz
+k0ODU4NywyMDkzODY2ODQwLDE2MTkzMjc2MjUsODYzNjU5NTQ3
+XX0=
 -->
