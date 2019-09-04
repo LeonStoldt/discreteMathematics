@@ -454,10 +454,10 @@ d((d aus A)) --würde Linkstotalität verletzen--> d
 *Rechtstotalität*
 ``` mermaid
 graph RL
-a((w aus B)) --> x((x aus B))
-b((x aus B)) --> x
-c((y aus B)) --> y((y aus B))
-d((z aus B)) --würde Rechtstotalität verletzen--> d
+w((w aus B)) --> a((a aus A))
+x((x aus B)) --> a
+y((y aus B)) --> b((b aus A))
+z((z aus B)) --würde Rechtstotalität verletzen--> z
 ```
 
 
@@ -470,7 +470,7 @@ d((z aus B)) --würde Rechtstotalität verletzen--> d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDc3ODMyMSwtMTE5NTY1OTcwMSwtMT
+eyJoaXN0b3J5IjpbMjAzNTE5MTAyNCwtMTE5NTY1OTcwMSwtMT
 Y1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1
 NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1Ny
 wtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcy
