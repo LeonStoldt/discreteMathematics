@@ -555,8 +555,8 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 | $(\{1,2,3\}, +)$ | 1 | 2 | 3 |
 |--|--|--|--|
 | **1** | 2 | 3 | 4 |
-| **2** |  |  |  |
-| **3** |  |  |  |
+| **2** | 3 | 4 | 5 |
+| **3** | 4 | 5 | 6 |
 
 
 *Beispiel: Eindeutigkeitssatz*
@@ -570,11 +570,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTUyNjIxNSwtOTYyODI3OTM0LC0xMD
-M5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0
-ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLT
-gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
-OTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0Nz
-gwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0
-NDg4OTQ5M119
+eyJoaXN0b3J5IjpbOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOT
+UwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgx
+LDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MD
+E0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkx
+MTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MC
+wtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4
+ODk0OTNdfQ==
 -->
