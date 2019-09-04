@@ -467,8 +467,8 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 ```
 > **Abbildung**
 > Eine Relation heißt Abbildung oder Funktion, wenn sie 
-> - **rechtseindeutig** und 
-> - **linkstotal** ist.
+> - **rechtseindeutig** und  (= Jeder X-Wert hat nur einen einzigen zugehörigen Y-Wert)
+> - **linkstotal** ist. (= Jeder X-Wert hat einen Y-Wert)
 > 
 > Zu jedem $x \in A$ existiert **genau ein** $y \in B$, sodass $(x,y) \in R$
 > 
@@ -494,11 +494,11 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0Nj
-E3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1
-ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNi
-wxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1
-MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOS
-wyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQy
-MjMyNTJdfQ==
+eyJoaXN0b3J5IjpbMTI4NzQyODc5Niw1NjY4MTE3NzIsLTc2Mj
+Y5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5
+NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2Mi
+wxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4
+MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1Mj
+ksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1
+MDM1ODY5XX0=
 -->
