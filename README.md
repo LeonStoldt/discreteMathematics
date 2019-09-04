@@ -540,7 +540,7 @@ Bemerkung: Die algebraische Struktur ist kommutativ,
 wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ```
 > **Existenzsatz**
-> l
+> 
 > 
 > **Eindeutigkeitssatz**
 
@@ -552,11 +552,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NT
-I3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIz
-MCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC
-0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIz
-MTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3Mj
-U3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIx
-NzI3MTE5XX0=
+eyJoaXN0b3J5IjpbLTExMzU0MjM2NzEsLTEwMzk1MDYwOTksMT
+A1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3
+NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC
+0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgy
+MDc4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NT
+A1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4
+NjQ2MjA1MjldfQ==
 -->
