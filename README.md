@@ -608,21 +608,28 @@ die korrekte Wahl des Repräsentanten vereinfacht werden.
 
 Außerdem können bei Unabhängigkeit des Repräsentanten 
 Kommutativ- und Assoziativgesetze angewendet werden.
+
+Ab Seite 180. Aufgaben
 ```
 
-
-
 ### 2.3 Gruppen
+
+> **Definition: Gruppe**
+
 ### 2.4 Restklassengruppen mit Multiplikation
+
+
 ### 2.5 Untergruppen
+
+
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMTk3NjI0LC0xNzYxMjIyNjg5LDY3OT
-YxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0y
-MTMzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OT
-M0LC0xMDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4
-NzQ4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MD
-Q2NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4
-MF19
+eyJoaXN0b3J5IjpbLTI2Mjg0NjAzOSwtMTc2MTIyMjY4OSw2Nz
+k2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwt
+MjEzMzE1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNz
+kzNCwtMTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0x
+ODc0ODg4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNz
+A0NjY5LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgz
+ODBdfQ==
 -->
