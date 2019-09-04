@@ -584,7 +584,8 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Definition: Restklassenaddition**
 > $[a]_m \oplus [b]_m = [a+b]_m$
 
-> *Unabhängigkeit vom Repräsentanten**
+> **Unabhängigkeit vom Repräsentanten**
+> 
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -592,7 +593,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzM4MDM1MCw2Nzk2MTQ1LDc1NzE2ND
+eyJoaXN0b3J5IjpbMjEzMDE5MzU3Niw2Nzk2MTQ1LDc1NzE2ND
 A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
 NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
 A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
