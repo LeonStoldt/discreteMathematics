@@ -475,12 +475,15 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 > Schreibweise für eine Abbildung $R$ von $A$ nach $B$: $R: A \rightarrow B$
 > 
 > $A$ ist hierbei der Definitionsbereich oder auch Quellmenge
-> $B$ ist hierbei das Bild oder auch
+> $B$ ist hierbei das Bild oder auch Zielmenge
 
-*Beispiel: Abbildung*
+*Beispiel: Abbildung anhand der Funktion* $f(x) = 2x$
 ``` mermaid
 graph LR
-
+1((1))
+2((2))
+3((3))
+4((4))l
 ```
 
 ## 2. Algebraische Strukturen
@@ -492,7 +495,7 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzA1NjQ2MywtMTQ2MTcwNDY2OSwtOD
+eyJoaXN0b3J5IjpbLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtOD
 AxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5
 MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3OD
 AsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0
