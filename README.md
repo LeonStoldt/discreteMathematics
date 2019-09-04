@@ -465,7 +465,7 @@ x((x aus B)) --- a
 y((y aus B)) --- b((b aus A))
 z((z aus B)) --würde Rechtstotalität verletzen--- z
 ```
-> **Abbildung**
+> **Definition: Abbildung**
 > Eine Relation heißt Abbildung oder Funktion, wenn sie 
 > - **rechtseindeutig** und  (= Jeder X-Wert hat nur einen einzigen zugehörigen Y-Wert)
 > - **linkstotal** ist. (= Jeder X-Wert hat einen Y-Wert)
@@ -503,6 +503,7 @@ z((z))
 
 ### 2.1 Verknüpfungen
 
+> **Definition: Verknüpfung**
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -511,11 +512,11 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE4MDc3NDEsLTE4NzQ4ODg0ODEsNT
-Y2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1
-MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExND
-A0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04
-OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OT
-Q5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0x
-MjM5MjQ0ODQyXX0=
+eyJoaXN0b3J5IjpbODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2Nj
+gxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTEx
+MDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNC
+wxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1
+Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OT
+MsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIz
+OTI0NDg0Ml19
 -->
