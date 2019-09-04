@@ -484,6 +484,13 @@ graph LR
 2((2)) --- y4((4))
 3((3)) --- y6((6))
 ```
+*weitere Abbildung*
+``` mermaid
+graph R
+a((a)) --- x((x))
+b((b)) --- y((y))
+c((c)) --- y
+```
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -494,7 +501,7 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzQyODc5Niw1NjY4MTE3NzIsLTc2Mj
+eyJoaXN0b3J5IjpbLTE3MjM4NzU0Niw1NjY4MTE3NzIsLTc2Mj
 Y5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5
 NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2Mi
 wxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4
