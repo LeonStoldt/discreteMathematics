@@ -514,8 +514,11 @@ z((z))
 -	Addition von ganzen Zahlen: $(\Z, +)$
 -	Subtraktion von ganzen Zahlen: $(\Z, -)$
 
-`Bemerkung: Die Subtraktion von natürlichen Zahlen iszt `
-
+```
+Bemerkung: Die Subtraktion von natürlichen Zahlen ist keine algebraische Struktur,
+da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
+```
+> G
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -524,11 +527,11 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTUzMDIyOTIsODg1Mjc0MzE3LC0xOD
-c0ODg4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0
-NjY5LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzOD
-AsLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3
-MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3Mz
-UwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0
-NTgzODkyOV19
+eyJoaXN0b3J5IjpbLTIxODQ4NTUzNSw4ODUyNzQzMTcsLTE4Nz
+Q4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2
+NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MC
+wtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTcz
+NjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNT
+A3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1
+ODM4OTI5XX0=
 -->
