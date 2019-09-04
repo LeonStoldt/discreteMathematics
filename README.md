@@ -466,8 +466,11 @@ y((y aus B)) --- b((b aus A))
 z((z aus B)) --würde Rechtstotalität verletzen--- z
 ```
 > **Abbildung**
-> Eine Relation heißt Abbildung oder Funktion, wenn sie **rechtseindeutig** und **linkstotal** ist.
-> Zu jedem $x$ existier **genau ein** $
+> Eine Relation heißt Abbildung oder Funktion, wenn sie 
+> - **rechtseindeutig** und 
+> - **linkstotal** ist.
+> 
+> Zu jedem $x \in A$ existiert **genau ein** $y \in B$, sodass $(x,y) \in R$
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -478,11 +481,11 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyODc1MTc5LC04MDE0NTExMDgsLTExOT
-U2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxODIwNzg2
-NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC
-04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYy
-MDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Mi
-w4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4
-NTg3XX0=
+eyJoaXN0b3J5IjpbLTE5ODk2NjUzOTMsLTgwMTQ1MTEwOCwtMT
+E5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3
+ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNT
+AsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0
+NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0OD
+QyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5
+NDg1ODddfQ==
 -->
