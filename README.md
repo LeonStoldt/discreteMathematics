@@ -418,13 +418,18 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkseindeutig
 
 *Beispiel Links-/Rechtseindeutigkeit:*
+*Linkseindeutigkeit:*
 ``` mermaid
 graph LR
 a((a aus A)) --> x((x aus B))
 a --> y((y aus B))
 b((b aus A)) --würde Linkseindeutigkeit verletzen--> y
+```
 
-
+*Rechtseindeutigkeit:*
+``` mermaid
+graph RL
+a((a aus A)) --> x((x aus B))
 ```
 
 
@@ -441,7 +446,7 @@ b((b aus A)) --würde Linkseindeutigkeit verletzen--> y
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDkyMTcyMCwxODIwNzg2NTYyLDE4Mj
+eyJoaXN0b3J5IjpbLTYxNjYxMDM0NiwxODIwNzg2NTYyLDE4Mj
 MxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcy
 NTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMj
 E3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4
