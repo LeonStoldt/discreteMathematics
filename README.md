@@ -437,6 +437,9 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 > **Definition: Links- und Rechtstotalität**
 > **Linkstotalität**
 > $\forall x \in A: \exists y \in B: (x,y) \in R$
+> 
+> **Rechtstotalität**
+> $\forall y \in B: \exists x \in A: (x,y) \in R$
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -447,11 +450,11 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4Mj
-MxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcy
-NTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMj
-E3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4
-NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOT
-M4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1NDcsMTQ2NTE0ODI1
-NV19
+eyJoaXN0b3J5IjpbLTE4Nzc2MjM2NDksLTM1MTkxMTQwNCwxOD
+IwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1
+MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMT
+g2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0
+NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNz
+Q3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1
+NDddfQ==
 -->
