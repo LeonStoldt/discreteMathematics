@@ -480,10 +480,9 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 *Beispiel: Abbildung anhand der Funktion* $f(x) = 2x$
 ``` mermaid
 graph LR
-1((1)) --
-2((2))
-3((3))
-4((4))
+1((1)) --- y2((2))
+2((2)) --- y4((4))
+3((3)) --- y6((6))
 ```
 
 ## 2. Algebraische Strukturen
@@ -495,11 +494,11 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDg3NzcyMiwtNzYyNjk2MjMwLC0xND
-YxNzA0NjY5LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1
-NTgzODAsLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MT
-YsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5
-NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMT
-ksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0
-MjIzMjUyXX0=
+eyJoaXN0b3J5IjpbNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0Nj
+E3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1
+ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNi
+wxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1
+MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOS
+wyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQy
+MjMyNTJdfQ==
 -->
