@@ -486,10 +486,11 @@ graph LR
 ```
 *weitere Abbildung*
 ``` mermaid
-graph R
-a((a)) --- x((x))
-b((b)) --- y((y))
-c((c)) --- y
+graph RL
+x((x)) --- a((a))
+y((y)) --- b((b))
+y --- c((c))
+z((z))
 ```
 
 ## 2. Algebraische Strukturen
@@ -501,11 +502,11 @@ c((c)) --- y
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM4NzU0Niw1NjY4MTE3NzIsLTc2Mj
-Y5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5
-NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2Mi
-wxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4
-MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1Mj
-ksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1
-MDM1ODY5XX0=
+eyJoaXN0b3J5IjpbLTE3MDU0MTYxMzQsNTY2ODExNzcyLC03Nj
+I2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1
+OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1Nj
+IsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1
+ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNT
+I5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3
+NTAzNTg2OV19
 -->
