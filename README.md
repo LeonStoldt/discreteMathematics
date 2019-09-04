@@ -417,9 +417,17 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > -	Bei Verkettung bleiben die Eigenschaften erhalten.
 > *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkseindeutig
 
+*Beispiel Links-/Rechtseindeutigkeit:*
+``` mermaid
+graph L-R
+a --> B
+
+```
+
+
 > **Definition: Links- und Rechtstotalität**
 > **Linkstotalität**
-> $\forall x \$
+> $\forall x \in A: \exists y \in B: (x,y) \in R$
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -430,7 +438,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NzY5MzY3LDE4MjA3ODY1NjIsMTgyMz
+eyJoaXN0b3J5IjpbNTU5ODcyNDkzLDE4MjA3ODY1NjIsMTgyMz
 E1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1
 NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMT
 cyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2
