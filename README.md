@@ -457,7 +457,7 @@ graph RL
 a((a aus lA)) --> x((x aus B))
 b((b aus A)) --> x
 c((c aus A)) --> y((y aus B))
-d((d aus A)) --würde Linkstotalität verletzen--> d
+d((d aus A)) --würde Rechtstotalität verletzen--> d
 ```
 
 
@@ -470,11 +470,11 @@ d((d aus A)) --würde Linkstotalität verletzen--> d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLT
-M1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYx
-NDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNy
-w3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgz
-ODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC
-0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMy
-NzYyNV19
+eyJoaXN0b3J5IjpbNDAxNzczMzM5LC0xMTk1NjU5NzAxLC0xNj
+UzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1
+NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC
+05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3
+MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5LD
+c1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2
+ODQwXX0=
 -->
