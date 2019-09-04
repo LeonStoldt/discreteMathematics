@@ -531,10 +531,13 @@ da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 *Beispiel: algebraische Struktur* $(\{1,2,3\}, +)$
 | + | 1 | 2 | 3 |
 |--|--|--|--|
-| 1 | 2 | 3 | 4 |
-| 2 | 3 | 4 | 5 |
-| 3 | 4 | 5 | 4 |
+| **1** | 2 | *3* | *4* |
+| **2** | *3* | 4 | *5* |
+| **3** | *4* | *5* | 6 |
 
+```
+Bemerkung: 
+```
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -543,7 +546,7 @@ da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjY3MzQyNiw4ODUyNzQzMTcsLTE4Nz
+eyJoaXN0b3J5IjpbLTgyMDIzNjk1Miw4ODUyNzQzMTcsLTE4Nz
 Q4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2
 NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MC
 wtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTcz
