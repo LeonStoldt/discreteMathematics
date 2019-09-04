@@ -473,9 +473,15 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 > Zu jedem $x \in A$ existiert **genau ein** $y \in B$, sodass $(x,y) \in R$
 > 
 > Schreibweise für eine Abbildung $R$ von $A$ nach $B$: $R: A \rightarrow B$
+> 
+> $A$ ist hierbei der Definitionsbereich oder auch Quellmenge
+> $B$ ist hierbei das Bild oder auch
 
 *Beispiel: Abbildung*
+``` mermaid
+graph LR
 
+```
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -486,11 +492,11 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE0NzM3MTgsLTE0NjE3MDQ2NjksLT
-gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
-OTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0Nz
-gwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0
-NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OT
-I5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1
-OTM4OTMzN119
+eyJoaXN0b3J5IjpbLTkyMzA1NjQ2MywtMTQ2MTcwNDY2OSwtOD
+AxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5
+MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3OD
+AsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0
+ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5Mj
+ksLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5
+Mzg5MzM3XX0=
 -->
