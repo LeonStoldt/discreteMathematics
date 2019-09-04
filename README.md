@@ -542,7 +542,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Existenzsatz**
 > $\forall a,b \in M: \exists x \in M: a \circ x = b$
 > 
-> Angewendet auf die Verknüpfungstabelle: Jedes Element kommt in jeder Zeile der Tabelle mind. einmal vor. (Bei $... x \circ a = b)$ kommt jedes Element in jeder Spalte mind. einmal vor.
+> Angewendet auf die Verknüpfungstafel: Jedes Element kommt in jeder Zeile der Tabelle mind. einmal vor. (Bei $... x \circ a = b)$ kommt jedes Element in jeder Spalte mind. einmal vor.
 > 
 > **Eindeutigkeitssatz**
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
@@ -551,7 +551,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 -   $(\Z, +)$: Existenzsatz gilt	
 -	$(\N, +)$: Existenzsatz gilt nicht. Bsp. a = 20, b = 10
 
-*Angewendet auf die Verknüpfungstabelle:*
+*Angewendet auf die Verknüpfungstafel:*
 | $(\{-2, -1, 0, 1, 2\}, +)$ | -2 | -1 | 0 | 1 | 2 |
 |:--:|--|--|--|--|--|
 | **-2** | -4 | -3 | *-2* | *-1* | *0* |
@@ -564,6 +564,8 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 -	$(\N, +)$: Eindeutigkeitssatz gilt
 -	$(\Z, *)$: Eindeutigkeitssatz gilt nicht. Bsp. $4*5 = 20$ und $2* 10 = 20$
 
+*Angewendet auf die Verknüpfungstafel*
+
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -571,11 +573,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1ND
-U4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5
-LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2OD
-ExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEw
-OCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LD
-E4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUy
-ODUwNTBdfQ==
+eyJoaXN0b3J5IjpbOTQ5NTY0OTk3LDcyNjY2NTc3MCwtMjEzMz
+E1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwt
+MTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0OD
+g4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5
+LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLT
+M1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYx
+NDc4MF19
 -->
