@@ -591,7 +591,8 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 zu beweisen: $(\Z /m, \oplus)$
 gegeben: $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
 zu zeigen: $[a+b]_m = [x+y]_m$
-nach Voraussetzung: $o, p \in \Z$, so dass $a-x = o*$
+nach Voraussetzung: $o, p \in \Z$, so dass $a-x = o*m$ und $b-y = p*m$
+dann gilt: $a+b-(x-y)$
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -599,7 +600,7 @@ nach Voraussetzung: $o, p \in \Z$, so dass $a-x = o*$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzUyODU3Niw2Nzk2MTQ1LDc1NzE2ND
+eyJoaXN0b3J5IjpbLTMwOTMzMDc1OSw2Nzk2MTQ1LDc1NzE2ND
 A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
 NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
 A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
