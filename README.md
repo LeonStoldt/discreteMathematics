@@ -429,9 +429,10 @@ b((b aus A)) --würde Linkseindeutigkeit verletzen--> y
 *Rechtseindeutigkeit:*
 ``` mermaid
 graph RL
-a((a aus A)) --> x((x aus B))
+x((x aus B)) --> a((a aus A))
+x --> b((b aus A))
+y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 ```
-
 
 > **Definition: Links- und Rechtstotalität**
 > **Linkstotalität**
@@ -446,7 +447,7 @@ a((a aus A)) --> x((x aus B))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjYxMDM0NiwxODIwNzg2NTYyLDE4Mj
+eyJoaXN0b3J5IjpbLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4Mj
 MxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcy
 NTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMj
 E3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4
