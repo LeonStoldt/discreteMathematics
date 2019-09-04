@@ -575,7 +575,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 | **3** | 4 | 5 | 6 |
 
 > **Definition: Endliche Algebraische Strukturen**
-> Eine endliche algebraische Struktur existiert, wenn 
+> Eine endliche algebraische Struktur existiert, wenn Endlichkeit und Existenz gleichwertig sind.
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -584,11 +584,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MD
-E5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDky
-NzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcyMj
-U1LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2
-MjY5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1Nj
-U5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2
-Ml19
+eyJoaXN0b3J5IjpbLTM2MjIyMTEwLDY3OTYxNDUsNzU3MTY0MD
+Q5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1
+NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MD
+k5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2
+ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MT
+EwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0
+XX0=
 -->
