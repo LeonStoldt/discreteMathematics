@@ -587,7 +587,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Unabhängigkeit vom Repräsentanten**
 > Eigenschaften von Äquivalenzklassen, die anhand eines Repräsentanten festgelegt werden müssen bewiesen werden, dass die unabhängig vom Repräsentanten gelten.
 
-
+*Beispi*
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -595,11 +595,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE5NzQxOCw2Nzk2MTQ1LDc1NzE2ND
-A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
-NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
-A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
-NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NT
-ExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQw
-NF19
+eyJoaXN0b3J5IjpbLTExOTkwODU0ODgsNjc5NjE0NSw3NTcxNj
+QwNDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAs
+MTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MD
+YwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1
+NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtODAxND
+UxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0
+MDRdfQ==
 -->
