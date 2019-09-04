@@ -615,6 +615,9 @@ Ab Seite 180. Aufgaben
 ### 2.3 Gruppen
 
 > **Definition: Gruppe**
+> Eine algebraische Struktur heißt Gruppe, wenn folgendes gilt:
+> -	Assoziativgesetz
+> -	Es gibt ein neutrales Element der Gruppe 
 
 ### 2.4 Restklassengruppen mit Multiplikation
 
@@ -625,7 +628,7 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjg0NjAzOSwtMTc2MTIyMjY4OSw2Nz
+eyJoaXN0b3J5IjpbMTgwODEzMTQ5MywtMTc2MTIyMjY4OSw2Nz
 k2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwt
 MjEzMzE1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNz
 kzNCwtMTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0x
