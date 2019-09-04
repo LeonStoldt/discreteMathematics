@@ -498,8 +498,11 @@ z((z))
 > - **injektiv**, wenn die Abbildung linkseindeutig ist (= Jedem Y-Wert kann genau ein X-Wert zugeordnet werden Bsp. $f(x) = 2x$)
 > - **bijektiv**, wenn die Abbildung linkseindeutig und rechtstotal ist
 
+
 ## 2. Algebraische Strukturen
+
 ### 2.1 Verknüpfungen
+
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -507,11 +510,11 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ4ODg0ODEsNTY2ODExNzcyLC03Nj
-I2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1
-OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1Nj
-IsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1
-ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNT
-I5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3
-NTAzNTg2OV19
+eyJoaXN0b3J5IjpbNTE2NzA1Nzc3LC0xODc0ODg4NDgxLDU2Nj
+gxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTEx
+MDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNC
+wxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1
+Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OT
+MsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIz
+OTI0NDg0Ml19
 -->
