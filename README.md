@@ -542,7 +542,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Existenzsatz**
 > $\forall a,b \in M: \exists x \in M: a \circ x = b$
 > 
-> Angewendet auf die Verknüpfungstabelle: Jedes Element 
+> Angewendet auf die Verknüpfungstabelle: Jedes Element kommt in jeder Zeile der Tabelle mind. einmal vor.
 > 
 > **Eindeutigkeitssatz**
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
@@ -550,6 +550,12 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 *Beispiel: Existenzsatz*
 -   $(\Z, +)$: Existenzsatz gilt	
 -	$(\N, +)$: Existenzsatz gilt nicht. Bsp. a = 20, b = 10
+
+*Angewendet auf die Verknüpfungstabelle:*
+| $(\{1,2,3\}, +)$ | 1 | ||
+|--|--|
+|  |  |
+
 
 *Beispiel: Eindeutigkeitssatz*
 -	$(\N, +)$: Eindeutigkeitssatz gilt
@@ -562,11 +568,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI2MTMxMDcsLTk2MjgyNzkzNCwtMT
-AzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4
-NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC
-04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1
-MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxND
-c4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3
-NDQ4ODk0OTNdfQ==
+eyJoaXN0b3J5IjpbMzExMjAyOTgxLC05NjI4Mjc5MzQsLTEwMz
+k1MDYwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4
+MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtOD
+AxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5
+MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3OD
+AsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0
+ODg5NDkzXX0=
 -->
