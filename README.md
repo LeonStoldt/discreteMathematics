@@ -628,7 +628,10 @@ Ab Seite 180. Aufgaben
 -	Neutrales Element der Addition: **0** (Bsp. $5 + 0 = 5$)
 -	Neutrales Element der Multiplikation: **1** (Bsp. $5 * 1 = 5$)
 -	Inverses Element der Addition: Element $a$, Inverses- $-a$ (Bsp. $5 - 5 = 0$
--	Inverses Element der Multiplikation: Element $a$, Inverses- $\frac1a$
+-	Inverses Element der Multiplikation: Element $a$, Inverses- $a$ oder $\frac1a$
+
+`Bemerkung: Es gibt genau ein Neutrales Element.`
+
 
 ### 2.4 Restklassengruppen mit Multiplikation
 
@@ -639,11 +642,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMz
-M2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5
-LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1ND
-U4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5
-LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2OD
-ExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEw
-OF19
+eyJoaXN0b3J5IjpbLTExMzAyNzI2NzgsLTMxNDIwOTcwLC0xOD
+ExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYx
+NDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMT
+MzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0
+LC0xMDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4Nz
+Q4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2
+NjldfQ==
 -->
