@@ -552,12 +552,13 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 -	$(\N, +)$: Existenzsatz gilt nicht. Bsp. a = 20, b = 10
 
 *Angewendet auf die Verknüpfungstabelle:*
-| $(\{1,2,3\}, +)$ | 1 | 2 | 3 |
-|--|--|--|--|
-| **1** | 2 | 3 | 4 |
-| **2** | 3 | 4 | 5 |
-| **3** | 4 | 5 | 6 |
-
+| $(\{-2, -1, 0, 1, 2\}, +)$ | -2 | -1 | 0 | 1 | 2 |
+|--|--|--|--|--|--|
+| **-2** | -4 | - | 4 |
+| **-1** | 3 | 4 | 5 |
+| **0** | 4 | 5 | 6 |
+| **1** | 4 | 5 | 6 |
+| **2** | 4 | 5 | 6 |
 
 *Beispiel: Eindeutigkeitssatz*
 -	$(\N, +)$: Eindeutigkeitssatz gilt
@@ -570,11 +571,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mj
-c5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywt
-MTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MT
-cwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4
-MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LD
-ExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUz
-NzM1MDddfQ==
+eyJoaXN0b3J5IjpbMTk1ODg5NjY3OSwxNTQ1ODMyNjIsOTI3OD
+A3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMDU5NzIyNTUs
+ODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2NjgxMTc3MiwtNzYyNj
+k2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTExMDgsLTExOTU2NTk3
+MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxODIwNzg2NTYyLD
+E4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgy
+MjcyNTddfQ==
 -->
