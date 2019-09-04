@@ -445,7 +445,7 @@ y((y aus B)) --würde Rechtseindeutigkeit verletzen--> b
 > -	Bei inversen Relationen $(R^{-1})$ wird die Totalität umgedreht.
 > *Beispielt: linkstotale Relation* $R \rightarrow$ *rechtstotale Relation* $R^{-1}$
 > -	Bei Verkettung bleiben die Eigenschaften erhalten.
-> *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkseindeutig
+> *Beispiel: linkstotale Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkstotal
 
 *Beispiel Links-/Rechtstotalität:*
 *Linkstotalität*
@@ -465,7 +465,8 @@ x((x aus B)) --> a
 y((y aus B)) --> b((b aus A))
 z((z aus B)) --würde Rechtstotalität verletzen--> z
 ```
-
+> **Abbildung**
+> 
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -476,7 +477,7 @@ z((z aus B)) --würde Rechtstotalität verletzen--> z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Njg4OTY4NCwtMTE5NTY1OTcwMSwtMT
+eyJoaXN0b3J5IjpbMTIwNTA4NzE3MCwtMTE5NTY1OTcwMSwtMT
 Y1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1
 NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1Ny
 wtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcy
