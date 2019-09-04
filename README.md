@@ -616,7 +616,7 @@ Ab Seite 180. Aufgaben
 
 > **Definition: Gruppe**
 > Eine algebraische Struktur heißt Gruppe $G$, wenn folgendes gilt:
-> -	Assoziativgesetz
+> -	Assoziativität
 > -	Es gibt ein neutrales Element e der Gruppe mit	
 >      - linksneutralem Element: $\forall a \in G: e \circ a = a$
 >      - linksinversem Element: $\forall a \in G: \exists b \in G: b \circ a = e$
@@ -642,11 +642,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xOD
-ExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYx
-NDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMT
-MzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0
-LC0xMDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4Nz
-Q4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2
-NjldfQ==
+eyJoaXN0b3J5IjpbMTc1MzEwMTU5NSwtMTk5NzMxMzAyNCwtMz
+E0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3NjEy
+MjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5Myw3Mj
+Y2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNzgwNzA4
+LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NT
+I3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIz
+MF19
 -->
