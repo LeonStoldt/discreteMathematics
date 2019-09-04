@@ -555,7 +555,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 | $(\{-2, -1, 0, 1, 2\}, +)$ | -2 | -1 | 0 | 1 | 2 |
 |--|--|--|--|--|--|
 | **-2** | -4 | -3 | -2 | -1 | 0 |
-| **-1** | -l3 | 4 | 5 |
+| **-1** | -3 | 4 | 5 |
 | **0** | 4 | 5 | 6 |
 | **1** | 4 | 5 | 6 |
 | **2** | 4 | 5 | 6 |
@@ -571,11 +571,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNz
-gwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1
-LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2Mj
-Y5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5
-NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2Mi
-wxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4
-MjI3MjU3XX0=
+eyJoaXN0b3J5IjpbNjE4MTAyODg2LC0yMTMzMTU2ODYwLDE1ND
+U4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5
+LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2OD
+ExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEw
+OCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LD
+E4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUy
+ODUwNTBdfQ==
 -->
