@@ -553,12 +553,12 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 
 *Angewendet auf die Verknüpfungstabelle:*
 | $(\{-2, -1, 0, 1, 2\}, +)$ | -2 | -1 | 0 | 1 | 2 |
-|--|--|--|--|--|--|
+|:--:|--|--|--|--|--|
 | **-2** | -4 | -3 | *-2* | *-1* | *0* |
 | **-1** | -3 | *-2* | *-1* | *0* | *1* |
 | **0** | *-2* | *-1* | *0* | *1* | *2* |
 | **1** | *-1* | *0* | *1* | *2* | 3 |
-| **2** | *0* | *1 | 2 | 3 | 4 |
+| **2** | *0* | *1* | *2* | 3 | 4 |
 
 *Beispiel: Eindeutigkeitssatz*
 -	$(\N, +)$: Eindeutigkeitssatz gilt
@@ -571,11 +571,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjU5MDY3NiwtMjEzMzE1Njg2MCwxNT
-Q1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNjA5
-OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2Nj
-gxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTEx
-MDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNC
-wxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1
-Mjg1MDUwXX0=
+eyJoaXN0b3J5IjpbNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1ND
+U4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5
+LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2OD
+ExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEw
+OCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LD
+E4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUy
+ODUwNTBdfQ==
 -->
