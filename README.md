@@ -472,7 +472,7 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 > 
 > Zu jedem $x \in A$ existiert **genau ein** $y \in B$, sodass $(x,y) \in R$
 > 
-> Schreibweise für eine Abbildung $Rvon $A$ nach $B$:
+> Schreibweise für eine Abbildung $R$ von $A$ nach $B$: $R: A \rightarrow B$
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -483,11 +483,11 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTI3Nzc2MywtODAxNDUxMTA4LC0xMT
-k1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4
-NjU2MiwxODIzMTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MC
-wtODU4MjI3MjU3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2
-MjA1MjksMjIxNzI3MTE5LDIwNDU4Mzg5MjksLTEyMzkyNDQ4ND
-IsODc1MDM1ODY5LDc1NDIyMzI1MiwtMjU5Mzg5MzM3LDc0Nzk0
-ODU4N119
+eyJoaXN0b3J5IjpbLTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMT
+E5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3
+ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNT
+AsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0
+NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0OD
+QyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5
+NDg1ODddfQ==
 -->
