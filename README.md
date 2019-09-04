@@ -615,10 +615,11 @@ Ab Seite 180. Aufgaben
 ### 2.3 Gruppen
 
 > **Definition: Gruppe**
-> Eine algebraische Struktur heißt Gruppe, wenn folgendes gilt:
+> Eine algebraische Struktur heißt Gruppe $G$, wenn folgendes gilt:
 > -	Assoziativgesetz
 > -	Es gibt ein neutrales Element e der Gruppe mit	
->      - $\forall $
+>      - $\forall a \in G: e \circ a = a$ (linksneutrales Element)
+>      -	$\forall a \in G: \exists b \in G:$
 
 - test
 	- test
@@ -631,7 +632,7 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTM0MjE0NSwtMTc2MTIyMjY4OSw2Nz
+eyJoaXN0b3J5IjpbMTYwMjg2NTAyNSwtMTc2MTIyMjY4OSw2Nz
 k2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwt
 MjEzMzE1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNz
 kzNCwtMTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0x
