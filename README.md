@@ -509,7 +509,9 @@ z((z))
 > 
 > Das Paar $(M, \circ)$ wird algebraische Struktur genannt.
 
-*
+*Beispiele für algebraische Strukturen:*
+-	Addition von natürlichen Zahlen: $(\N, +)$
+-	
 
 
 ### 2.2 Restklassenoperationen
@@ -519,11 +521,11 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODQwNTg4LDg4NTI3NDMxNywtMTg3ND
-g4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2
-OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC
-0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2
-MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1MD
-csNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwNDU4
-Mzg5MjldfQ==
+eyJoaXN0b3J5IjpbMTcwOTQzODY1MCw4ODUyNzQzMTcsLTE4Nz
+Q4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2
+NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MC
+wtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTcz
+NjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNT
+A3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1
+ODM4OTI5XX0=
 -->
