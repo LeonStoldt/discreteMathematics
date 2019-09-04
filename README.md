@@ -495,7 +495,7 @@ z((z))
 
 > **Eigenschaften von Abbildungen**
 > - **surjektiv**, wenn die Abbildung rechtstotal ist (= Jedem Y-Wert ist ein X-Wert zugeordnet)
-> - **injektiv**, wenn die Abbildung linkseindeutig ist (=)
+> - **injektiv**, wenn die Abbildung linkseindeutig ist (= Jedem Y-Wert kann genau ein X-Wert zugeordnet werden Bsp. f(x) = 2x)
 > - **bijektiv**, wenn die Abbildung linkseindeutig und rechtstotal ist
 
 ## 2. Algebraische Strukturen
@@ -507,11 +507,11 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIzNDIxMDYsNTY2ODExNzcyLC03Nj
-I2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1
-OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1Nj
-IsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1
-ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNT
-I5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3
-NTAzNTg2OV19
+eyJoaXN0b3J5IjpbNzcxNzQzMDQzLDU2NjgxMTc3MiwtNzYyNj
+k2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTExMDgsLTExOTU2NTk3
+MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxODIwNzg2NTYyLD
+E4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgy
+MjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOS
+wyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0NDg0Miw4NzUw
+MzU4NjldfQ==
 -->
