@@ -551,7 +551,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 
 *Beispiel: Eindeutigkeitssatz*
 -	$(\N, +)$: Eindeutigkeitssatz gilt
--	$(\Z, *)$: Eindeutigkeitssatz gilt nicht. Bsp. a = 3, b = 
+-	$(\Z, *)$: Eindeutigkeitssatz gilt nicht. Bsp. $4*5 = 20$ und $2* 10 = 20$
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -560,11 +560,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA0NTUyNTcsLTk2MjgyNzkzNCwtMT
-AzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4
-NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC
-04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1
-MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxND
-c4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3
-NDQ4ODk0OTNdfQ==
+eyJoaXN0b3J5IjpbLTk2MzE3OTI5OCwtOTYyODI3OTM0LC0xMD
+M5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0
+ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLT
+gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
+OTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0Nz
+gwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0
+NDg4OTQ5M119
 -->
