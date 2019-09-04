@@ -622,7 +622,7 @@ Ab Seite 180. Aufgaben
 >      - linksinversem Element: $\forall a \in G: \exists b \in G: b \circ a = e$
 
 > **Definition: Abelsche Gruppe**
-> 
+> Eine Abelsche Gruppe hat zur Gruppe die zusätzliche Definition der Kommutativität. In diesem Fall wird $+$ anstatt von $\circ$ verwendet.
 
 ### 2.4 Restklassengruppen mit Multiplikation
 
@@ -633,11 +633,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLT
-E3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5
-Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNz
-gwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1
-LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2Mj
-Y5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5
-NzAxXX0=
+eyJoaXN0b3J5IjpbMTQzMDk1NjQwNSwtMTgxMTA3MDEwOSwtMT
+MzNjI4NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0
+OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNT
+Q1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNjA5
+OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2Nj
+gxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTEx
+MDhdfQ==
 -->
