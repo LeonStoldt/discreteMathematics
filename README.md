@@ -565,6 +565,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 -	$(\Z, *)$: Eindeutigkeitssatz gilt nicht. Bsp. $4*5 = 20$ und $2* 10 = 20$
 
 *Angewendet auf die Verknüpfungstafel*
+| $(\{1,2,3\}, +)$ | 1 | 2 | 3 |
+|:--:|--|--|--|
+| **1** | 2 | *3* | *4* |
+| **2** | *3* | 4 | *5* |
+| **3** | *4* | *5* | 6 |
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -573,11 +578,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NTY0OTk3LDcyNjY2NTc3MCwtMjEzMz
-E1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwt
-MTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0OD
-g4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5
-LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLT
-M1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYx
-NDc4MF19
+eyJoaXN0b3J5IjpbLTgyNDc2OTA2OSw3MjY2NjU3NzAsLTIxMz
+MxNTY4NjAsMTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQs
+LTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3ND
+g4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2
+OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC
+0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2
+MTQ3ODBdfQ==
 -->
