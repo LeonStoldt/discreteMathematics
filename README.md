@@ -504,7 +504,8 @@ z((z))
 ### 2.1 Verknüpfungen
 
 > **Definition: Verknüpfung**
-
+> Die Verknüpfung einer nichtleeren Menge ist eine Abbildung.
+> Das Ergebnis zweier verknüpfter Elemente wird dargest
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -512,11 +513,11 @@ z((z))
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2Nj
-gxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTEx
-MDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNC
-wxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1
-Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OT
-MsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIz
-OTI0NDg0Ml19
+eyJoaXN0b3J5IjpbLTIwMzY3MTA3NDksODg1Mjc0MzE3LC0xOD
+c0ODg4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0
+NjY5LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzOD
+AsLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3
+MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3Mz
+UwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0
+NTgzODkyOV19
 -->
