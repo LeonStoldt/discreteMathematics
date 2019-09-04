@@ -620,6 +620,10 @@ Ab Seite 180. Aufgaben
 > -	Es gibt ein neutrales Element e der Gruppe mit	
 >      - linksneutralem Element: $\forall a \in G: e \circ a = a$
 >      - linksinversem Element: $\forall a \in G: \exists b \in G: b \circ a = e$
+>      
+> $oder$
+> -	Assoziativität
+> -	Existenzsatz der algebraischen Struktur
 
 > **Definition: Abelsche Gruppe**
 > Eine Abelsche Gruppe hat zur Gruppe die zusätzliche Definition der Kommutativität. In diesem Fall wird $+$ anstatt von $\circ$ verwendet.
@@ -642,11 +646,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzEwMTU5NSwtMTk5NzMxMzAyNCwtMz
-E0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3NjEy
-MjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5Myw3Mj
-Y2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNzgwNzA4
-LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NT
-I3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIz
-MF19
+eyJoaXN0b3J5IjpbMzA3MDU3NTY4LDE3NTMxMDE1OTUsLTE5OT
+czMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3
+MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1Mj
+IzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4MzI2
+Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5LDEwNT
+k3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2ODExNzcy
+XX0=
 -->
