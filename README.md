@@ -621,8 +621,9 @@ Ab Seite 180. Aufgaben
 >      - linksneutralem Element: $\forall a \in G: e \circ a = a$
 >      - linksinversem Element: $\forall a \in G: \exists b \in G: b \circ a = e$
 
-- test
-	- test
+> **Definition: Abelsche Gruppe**
+> 
+
 ### 2.4 Restklassengruppen mit Multiplikation
 
 
@@ -632,11 +633,11 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYyODcyNDQsLTE3NjEyMjI2ODksNj
-c5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5Myw3MjY2NjU3NzAs
-LTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mj
-c5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywt
-MTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MT
-cwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4
-MzgwXX0=
+eyJoaXN0b3J5IjpbLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLT
+E3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5
+Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNz
+gwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcyMjU1
+LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2Mj
+Y5NjIzMCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5
+NzAxXX0=
 -->
