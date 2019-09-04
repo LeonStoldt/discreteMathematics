@@ -574,6 +574,9 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 | **2** | *3* | 4 | 5 |
 | **3** | 4 | 5 | 6 |
 
+> **Definition: Endliche Algebraische Strukturen**
+> 
+
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -581,11 +584,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMz
-MxNTY4NjAsMTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQs
-LTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3ND
-g4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2
-OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC
-0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNzM2
-MTQ3ODBdfQ==
+eyJoaXN0b3J5IjpbNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2Nj
+Y1NzcwLC0yMTMzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwt
+OTYyODI3OTM0LC0xMDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNz
+QzMTcsLTE4NzQ4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAs
+LTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMT
+Y1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1
+NTcxNl19
 -->
