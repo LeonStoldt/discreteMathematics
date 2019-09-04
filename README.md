@@ -474,6 +474,9 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 > 
 > Schreibweise für eine Abbildung $R$ von $A$ nach $B$: $R: A \rightarrow B$
 
+*Beispiel: Abbildung*
+
+
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
 ### 2.2 Restklassenoperationen
@@ -483,11 +486,11 @@ z((z aus B)) --würde Rechtstotalität verletzen--- z
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE3MDQ2NjksLTgwMTQ1MTEwOCwtMT
-E5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0LDE4MjA3
-ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNT
-AsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0
-NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0OD
-QyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5
-NDg1ODddfQ==
+eyJoaXN0b3J5IjpbLTE2NTE0NzM3MTgsLTE0NjE3MDQ2NjksLT
+gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
+OTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0Nz
+gwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0
+NDg4OTQ5MywxODY0NjIwNTI5LDIyMTcyNzExOSwyMDQ1ODM4OT
+I5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2OSw3NTQyMjMyNTIsLTI1
+OTM4OTMzN119
 -->
