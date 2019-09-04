@@ -539,7 +539,9 @@ da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
 Bemerkung: Die algebraische Struktur ist kommutativ, 
 wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ```
-> **Existenzssatz**
+> **Existenzsatz**
+> l
+> 
 > **Eindeutigkeitssatz**
 
 
@@ -550,11 +552,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzIwMDM4MCwxMDU5NzIyNTUsODg1Mj
-c0MzE3LC0xODc0ODg4NDgxLDU2NjgxMTc3MiwtNzYyNjk2MjMw
-LC0xNDYxNzA0NjY5LC04MDE0NTExMDgsLTExOTU2NTk3MDEsLT
-E2NTM1NTgzODAsLTM1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMx
-NTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNT
-csLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3
-MjcxMTldfQ==
+eyJoaXN0b3J5IjpbLTEwMzk1MDYwOTksMTA1OTcyMjU1LDg4NT
+I3NDMxNywtMTg3NDg4ODQ4MSw1NjY4MTE3NzIsLTc2MjY5NjIz
+MCwtMTQ2MTcwNDY2OSwtODAxNDUxMTA4LC0xMTk1NjU5NzAxLC
+0xNjUzNTU4MzgwLC0zNTE5MTE0MDQsMTgyMDc4NjU2MiwxODIz
+MTU1NzE2LDExNzM2MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3Mj
+U3LC05OTUzNzM1MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIx
+NzI3MTE5XX0=
 -->
