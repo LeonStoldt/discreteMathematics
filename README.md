@@ -625,7 +625,9 @@ Ab Seite 180. Aufgaben
 > Eine Abelsche Gruppe hat zur Gruppe die zusätzliche Definition der Kommutativität. In diesem Fall wird $+$ anstatt von $\circ$ verwendet.
 
 *Beispiel Neutrale und Inverse Elemente:*
--	Neutrales Element der Addition: 0 (Bsp. 5 + 0 = 5$)
+-	Neutrales Element der Addition: **0** (Bsp. $5 + 0 = 5$)
+-	Neutrales Element der Multiplikation: **1** (Bsp. $5 * 1 = 5$)
+-	Inverses Element der Addition: Element $a$
 
 ### 2.4 Restklassengruppen mit Multiplikation
 
@@ -636,7 +638,7 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxODEyNjYxLC0xODExMDcwMTA5LC0xMz
+eyJoaXN0b3J5IjpbNDkzMDM0MDUzLC0xODExMDcwMTA5LC0xMz
 M2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5
 LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1ND
 U4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5
