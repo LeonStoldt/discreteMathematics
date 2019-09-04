@@ -545,6 +545,10 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Eindeutigkeitssatz**
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
 
+*Beispiel: Existenzsatz*
+	- $$	
+-	$(\N, +)$: Existenzsatz gilt nicht. Bsp. a = 20, b = 10
+
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -553,11 +557,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMD
-U5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2NjgxMTc3
-MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NTExMDgsLT
-ExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxODIw
-Nzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1MD
-UwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMTg2
-NDYyMDUyOV19
+eyJoaXN0b3J5IjpbMTgxNDkwODE0NCwtOTYyODI3OTM0LC0xMD
+M5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0
+ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLT
+gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
+OTExNDA0LDE4MjA3ODY1NjIsMTgyMzE1NTcxNiwxMTczNjE0Nz
+gwLC04OTUyODUwNTAsLTg1ODIyNzI1NywtOTk1MzczNTA3LDc0
+NDg4OTQ5M119
 -->
