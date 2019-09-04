@@ -599,9 +599,11 @@ $= o * m + p * m$
 $= m (o + p)$
 
 ```
-Bemerkung: Rechnen mit Restklassenoperationen kann durch die korrekte Wahl
-des Repräsentanten vereinfacht werden. Bsp. $dd$
+Bemerkung: Rechnen mit Restklassenoperationen kann durch 
+die korrekte Wahl des Repräsentanten vereinfacht werden.
 ```
+
+
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -609,7 +611,7 @@ des Repräsentanten vereinfacht werden. Bsp. $dd$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDE5MTI0Miw2Nzk2MTQ1LDc1NzE2ND
+eyJoaXN0b3J5IjpbLTEyODcwNTUwNyw2Nzk2MTQ1LDc1NzE2ND
 A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
 NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
 A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
