@@ -588,8 +588,9 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > Eigenschaften von Äquivalenzklassen, die anhand eines Repräsentanten festgelegt werden müssen bewiesen werden, dass die unabhängig vom Repräsentanten gelten.
 
 *Beispiel: Beweis Unabhängigkeit vom Repräsentanten*
-Zu beweisen: $(\Z /m, \oplus)$
-Zu zeigen: $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
+zu beweisen: $(\Z /m, \oplus)$
+gegeben: $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
+zu zeigen: $[a+b]_m = [x+y]_m$
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -597,11 +598,11 @@ Zu zeigen: $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjM0OTk5LDY3OTYxNDUsNzU3MTY0MD
-Q5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1
-NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MD
-k5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0ODEsNTY2
-ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLTgwMTQ1MT
-EwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUxOTExNDA0
-XX0=
+eyJoaXN0b3J5IjpbLTEzNjMzNTMxMSw2Nzk2MTQ1LDc1NzE2ND
+A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
+NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
+A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
+NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NT
+ExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQw
+NF19
 -->
