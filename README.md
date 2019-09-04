@@ -628,7 +628,7 @@ Ab Seite 180. Aufgaben
 -	Neutrales Element der Addition: **0** (Bsp. $5 + 0 = 5$)
 -	Neutrales Element der Multiplikation: **1** (Bsp. $5 * 1 = 5$)
 -	Inverses Element der Addition: Element $a$, Inverses- $-a$ (Bsp. $5 - 5 = 0$
--	Inverses Element der Multiplikation: Element $a$, Inverses- $a$ oder $\frac1a$
+-	Inverses Element der Multiplikation: Element $a$, Inverses- $a^{-1}$ oder $\frac1a$
 
 `Bemerkung: Es gibt genau ein Neutrales Element.`
 
@@ -642,7 +642,7 @@ Ab Seite 180. Aufgaben
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAyNzI2NzgsLTMxNDIwOTcwLC0xOD
+eyJoaXN0b3J5IjpbLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xOD
 ExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYx
 NDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMT
 MzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0
