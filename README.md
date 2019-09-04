@@ -582,7 +582,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.2 Restklassenoperationen
 
 > **Definition: Restklassenaddition**
-> 
+> $[a]_m \oplus [b]_m = [a+b]_m$
 
 ### 2.3 Gruppen
 ### 2.4 Restklassengruppen mit Multiplikation
@@ -590,11 +590,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA5MjYyNzAsNjc5NjE0NSw3NTcxNj
-QwNDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAs
-MTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MD
-YwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1
-NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtODAxND
-UxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0
-MDRdfQ==
+eyJoaXN0b3J5IjpbMjAzNTE3MjQxOSw2Nzk2MTQ1LDc1NzE2ND
+A0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwx
+NTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNj
+A5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2
+NjgxMTc3MiwtNzYyNjk2MjMwLC0xNDYxNzA0NjY5LC04MDE0NT
+ExMDgsLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLTM1MTkxMTQw
+NF19
 -->
