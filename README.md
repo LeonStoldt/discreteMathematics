@@ -453,7 +453,11 @@ d((d aus A)) --würde Linkstotalität verletzen--> d
 
 *Rechtstotalität*
 ``` mermaid
-graph LR
+graph RL
+a((a aus lA)) --> x((x aus B))
+b((b aus A)) --> x
+c((c aus A)) --> y((y aus B))
+d((d aus A)) --würde Linkstotalität verletzen--> d
 ```
 
 
@@ -466,11 +470,11 @@ graph LR
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM1NTgzODAsLTM1MTkxMTQwNCwxOD
-IwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYxNDc4MCwtODk1Mjg1
-MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNyw3NDQ4ODk0OTMsMT
-g2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgzODkyOSwtMTIzOTI0
-NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC0yNTkzODkzMzcsNz
-Q3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMyNzYyNSw4NjM2NTk1
-NDddfQ==
+eyJoaXN0b3J5IjpbLTExOTU2NTk3MDEsLTE2NTM1NTgzODAsLT
+M1MTkxMTQwNCwxODIwNzg2NTYyLDE4MjMxNTU3MTYsMTE3MzYx
+NDc4MCwtODk1Mjg1MDUwLC04NTgyMjcyNTcsLTk5NTM3MzUwNy
+w3NDQ4ODk0OTMsMTg2NDYyMDUyOSwyMjE3MjcxMTksMjA0NTgz
+ODkyOSwtMTIzOTI0NDg0Miw4NzUwMzU4NjksNzU0MjIzMjUyLC
+0yNTkzODkzMzcsNzQ3OTQ4NTg3LDIwOTM4NjY4NDAsMTYxOTMy
+NzYyNV19
 -->
