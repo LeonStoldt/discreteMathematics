@@ -546,9 +546,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
 
 *Beispiel: Existenzsatz*
-	- $$	
+-   $(\Z, +)$: Existenzsatz gilt	
 -	$(\N, +)$: Existenzsatz gilt nicht. Bsp. a = 20, b = 10
 
+*Beispiel: Eindeutigkeitssatz*
+-	$$
 
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
@@ -557,7 +559,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDkwODE0NCwtOTYyODI3OTM0LC0xMD
+eyJoaXN0b3J5IjpbMTk2NjIyNjQ1MiwtOTYyODI3OTM0LC0xMD
 M5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4NzQ4ODg0
 ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MDQ2NjksLT
 gwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4MCwtMzUx
