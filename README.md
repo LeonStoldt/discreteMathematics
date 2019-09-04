@@ -400,7 +400,7 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 1.	Existenz
 > 2.	Eindeutigkeit
 
-> **Definition: Links- / Rechtseindeutigkeit
+> **Definition: Links- / Rechtseindeutigkeit**
 > **Linkseindeutigkeit**
 > -	Jeder Punkt in der Zielmenge wird **max.** einmal aus der Quellmenge getroffen.
 > -	Jedem Punkt in der Zielmenge ist **eindeutig** einem Punkt der Quellmenge zuzuordnen.
@@ -418,7 +418,8 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > *Beispiel: linkseindeutige Relationen* $R_1, R_2 \rightarrow R_1 \circ R_2$ bleibt linkseindeutig
 
 > **Definition: Links- und Rechtstotalität**
-> `S. 165`
+> **Linkstotalität**
+> $\forall x \$
 
 ## 2. Algebraische Strukturen
 ### 2.1 Verknüpfungen
@@ -429,11 +430,11 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDc4NjU2MiwxODIzMTU1NzE2LDExNz
-M2MTQ3ODAsLTg5NTI4NTA1MCwtODU4MjI3MjU3LC05OTUzNzM1
-MDcsNzQ0ODg5NDkzLDE4NjQ2MjA1MjksMjIxNzI3MTE5LDIwND
-U4Mzg5MjksLTEyMzkyNDQ4NDIsODc1MDM1ODY5LDc1NDIyMzI1
-MiwtMjU5Mzg5MzM3LDc0Nzk0ODU4NywyMDkzODY2ODQwLDE2MT
-kzMjc2MjUsODYzNjU5NTQ3LDE0NjUxNDgyNTUsMTQ2MzI1MjAz
-OV19
+eyJoaXN0b3J5IjpbNDU3NzY5MzY3LDE4MjA3ODY1NjIsMTgyMz
+E1NTcxNiwxMTczNjE0NzgwLC04OTUyODUwNTAsLTg1ODIyNzI1
+NywtOTk1MzczNTA3LDc0NDg4OTQ5MywxODY0NjIwNTI5LDIyMT
+cyNzExOSwyMDQ1ODM4OTI5LC0xMjM5MjQ0ODQyLDg3NTAzNTg2
+OSw3NTQyMjMyNTIsLTI1OTM4OTMzNyw3NDc5NDg1ODcsMjA5Mz
+g2Njg0MCwxNjE5MzI3NjI1LDg2MzY1OTU0NywxNDY1MTQ4MjU1
+XX0=
 -->
