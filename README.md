@@ -605,6 +605,9 @@ $= m (o + p)$
 ```
 Bemerkung: Rechnen mit Restklassenoperationen kann durch 
 die korrekte Wahl des Repräsentanten vereinfacht werden.
+
+Außerdem können bei Unabhängigkeit des Repräsentanten 
+Kommutativ- und Assoziativgesetze angewendet werden.
 ```
 
 
@@ -615,11 +618,11 @@ die korrekte Wahl des Repräsentanten vereinfacht werden.
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNj
-QwNDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAs
-MTU0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MD
-YwOTksMTA1OTcyMjU1LDg4NTI3NDMxNywtMTg3NDg4ODQ4MSw1
-NjY4MTE3NzIsLTc2MjY5NjIzMCwtMTQ2MTcwNDY2OSwtODAxND
-UxMTA4LC0xMTk1NjU5NzAxLC0xNjUzNTU4MzgwLC0zNTE5MTE0
-MDRdfQ==
+eyJoaXN0b3J5IjpbODQzMTk3NjI0LC0xNzYxMjIyNjg5LDY3OT
+YxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0y
+MTMzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OT
+M0LC0xMDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTcsLTE4
+NzQ4ODg0ODEsNTY2ODExNzcyLC03NjI2OTYyMzAsLTE0NjE3MD
+Q2NjksLTgwMTQ1MTEwOCwtMTE5NTY1OTcwMSwtMTY1MzU1ODM4
+MF19
 -->
