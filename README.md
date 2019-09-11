@@ -672,7 +672,8 @@ $68 = 6 * 10 + 8$
 
 > **Euklidischer Algorithmus**
 > Algorithmus zur Berechnung des $ggT$ zweier positiver ganzer Zahlen $a$ und $b$
-> 
+> $ggT(a, b):$ 
+> $a =$
 
 
 ### 2.5 Untergruppen
@@ -681,7 +682,7 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYxNzQ3MTMsLTc2NTk5MTE2NCwtMT
+eyJoaXN0b3J5IjpbLTE1ODE1MjU5NzMsLTc2NTk5MTE2NCwtMT
 E3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTcz
 MTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3Mj
 Q0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIz
