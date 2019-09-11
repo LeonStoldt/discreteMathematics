@@ -675,7 +675,8 @@ $68 = 6 * 10 + 8$
 > $ggT(a, b): (a > b)$ 
 > $a = x * b + r_1$
 > $b = x * r_1 + r_2$
-> $r_1 = $
+> $r_1 = x * r_2 + r_3$
+> $...$
 
 
 ### 2.5 Untergruppen
@@ -684,7 +685,7 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODA4ODkwMiwtNzY1OTkxMTY0LC0xMT
+eyJoaXN0b3J5IjpbLTM5NjM0MjAyMCwtNzY1OTkxMTY0LC0xMT
 cyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMx
 MzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyND
 QsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3
