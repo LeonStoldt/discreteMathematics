@@ -653,7 +653,11 @@ $|(\{1,2,3\}, +)| = 3$
 *Beispiel: ggT durch Primfaktorzerlegung - ggT(240,420)*
 240 = 2 * 2 * (2 * 2 * 3 * 5)
 420 = (2 * 2 * 3 * 5) * 7
-ggT(240,420) = 2 * 2 * 3 * 5 = 
+ggT(240,420) = 2 * 2 * 3 * 5 = 60
+
+> **Definition: "div" und "mod"**
+> $q = adiv b$
+
 
 ### 2.5 Untergruppen
 
@@ -661,7 +665,7 @@ ggT(240,420) = 2 * 2 * 3 * 5 =
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTc4MzM0OSwtMTE3MjY4OTA1OCwtOD
+eyJoaXN0b3J5IjpbMTQ4MjI1Mjc3NiwtMTE3MjY4OTA1OCwtOD
 gyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTczMTMwMjQsLTMxNDIw
 OTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNj
 g5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1
