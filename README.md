@@ -668,9 +668,9 @@ $68 = 6 * 10 + 8$
 > **gemeinsame Teiler**
 > $a = q * b + r$
 > Die Menge $gT(a,b)$ der gemeinsamen Teiler ist gleich der Menge $gT(b,r)$
-> Am Beispiel von oben: $gT(68, 10) = \{2, \} = gT(10, 8)$
+> Am Beispiel von oben: $gT(68, 10) = \{2\} = gT(10, 8)$
 
-68 = 2 * 
+
 
 ### 2.5 Untergruppen
 
@@ -678,11 +678,11 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQxMjgzOTAsLTc2NTk5MTE2NCwtMT
-E3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTcz
-MTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3Mj
-Q0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIz
-NzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4MzI2Mi
-w5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5LDEwNTk3
-MjI1NV19
+eyJoaXN0b3J5IjpbMTc1MzE2ODI2OSwtNzY1OTkxMTY0LC0xMT
+cyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMx
+MzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyND
+QsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3
+MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLD
+kyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcy
+MjU1XX0=
 -->
