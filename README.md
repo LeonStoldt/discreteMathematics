@@ -673,8 +673,9 @@ $68 = 6 * 10 + 8$
 > **Euklidischer Algorithmus**
 > Algorithmus zur Berechnung des $ggT$ zweier positiver ganzer Zahlen $a$ und $b$
 > $ggT(a, b): (a > b)$ 
-> $a = x * b + r$
-> $b = x * $
+> $a = x * b + r_1$
+> $b = x * r_1 + r_2$
+> $r_1 = $
 
 
 ### 2.5 Untergruppen
@@ -683,11 +684,11 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4ODU3MTMsLTc2NTk5MTE2NCwtMT
-E3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTcz
-MTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3Mj
-Q0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIz
-NzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4MzI2Mi
-w5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2MDk5LDEwNTk3
-MjI1NV19
+eyJoaXN0b3J5IjpbMTY2ODA4ODkwMiwtNzY1OTkxMTY0LC0xMT
+cyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMx
+MzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyND
+QsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3
+MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLD
+kyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYwOTksMTA1OTcy
+MjU1XX0=
 -->
