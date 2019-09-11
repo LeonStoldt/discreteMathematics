@@ -679,7 +679,9 @@ $68 = 6 * 10 + 8$
 > $...$
 > $r_{n-1} = q * r_n + 0$
 > $ggT(a,b) = r_n$
-> `Bemerkung:  ist jeweils der Quotient von a und b `
+> `Bemerkung: q ist der Quotient und Zeilenunabhängig`
+
+> **Definition
 
 
 ### 2.5 Untergruppen
@@ -688,7 +690,7 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3OTk4Nzc0LDczMzY0NzczNCwtNzY1OT
+eyJoaXN0b3J5IjpbMjM4MTQ4MDc5LDczMzY0NzczNCwtNzY1OT
 kxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5
 NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLT
 EzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQw
