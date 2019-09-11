@@ -678,6 +678,8 @@ $68 = 6 * 10 + 8$
 > $r_1 = x * r_2 + r_3$
 > $...$
 > $r_{n-1} = x * r_n + 0$
+> $ggT(a,b) = r_n$
+> `Bemerkung: x ist jeweils das multiplikative Inverse`
 
 
 ### 2.5 Untergruppen
@@ -686,7 +688,7 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA5MzMzNDYsLTc2NTk5MTE2NCwtMT
+eyJoaXN0b3J5IjpbLTEzNzYyNDQ4NzEsLTc2NTk5MTE2NCwtMT
 E3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTcz
 MTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3Mj
 Q0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIz
