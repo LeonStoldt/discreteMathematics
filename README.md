@@ -663,7 +663,9 @@ ggT(240,420) = 2 * 2 * 3 * 5 = 60
 *Beispiel: a = 67, b = 10*
 $q = \frac{67}{10} = 6$
 $r = 67 \: mod \: 10 = 7$
-$$
+$67 = 6 * 10 + 7$
+
+
 
 ### 2.5 Untergruppen
 
@@ -671,7 +673,7 @@ $$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTIyNzgwMywtMTE3MjY4OTA1OCwtOD
+eyJoaXN0b3J5IjpbLTc2NTk5MTE2NCwtMTE3MjY4OTA1OCwtOD
 gyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTczMTMwMjQsLTMxNDIw
 OTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNj
 g5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1
