@@ -657,9 +657,11 @@ ggT(240,420) = 2 * 2 * 3 * 5 = 60
 
 > **Definition: "div" und "mod"**
 > $a = q * b + r$
-> $q = a \: div \: b$
-> $r = a \: mod \: b$ `Rest`
+> $q = a \: div \: b$ `Quotient der Division`
+> $r = a \: mod \: b$ `Rest der Division`
 
+*Beispiel: a = 67, b = 10*
+$q = $
 
 ### 2.5 Untergruppen
 
@@ -667,7 +669,7 @@ ggT(240,420) = 2 * 2 * 3 * 5 = 60
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM1MTI5OTgsLTExNzI2ODkwNTgsLT
+eyJoaXN0b3J5IjpbLTE5NjY4NjQ2MTEsLTExNzI2ODkwNTgsLT
 g4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEzMDI0LC0zMTQy
 MDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4NzI0NCwtMTc2MTIyMj
 Y4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2
