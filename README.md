@@ -651,8 +651,8 @@ $|(\{1,2,3\}, +)| = 3$
 ### 2.4 Restklassengruppen mit Multiplikation
 
 *Beispiel: ggT durch Primfaktorzerlegung - ggT(240,420)*
-240 = 2 * 2 * 2* 2*3*5
-
+240 = 2 * 2 * 2 * 2 * 3 * 5
+420 = 2 * 2 * 
 
 ### 2.5 Untergruppen
 
@@ -660,11 +660,11 @@ $|(\{1,2,3\}, +)| = 3$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY0ODk3MDgsLTExNzI2ODkwNTgsLT
-g4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEzMDI0LC0zMTQy
-MDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4NzI0NCwtMTc2MTIyMj
-Y4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2
-NTc3MCwtMjEzMzE1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLT
-k2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0
-MzE3XX0=
+eyJoaXN0b3J5IjpbNjM1MDc5MSwtMTE3MjY4OTA1OCwtODgyMD
+EzMTAyLDE3NTMxMDE1OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcw
+LC0xODExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LD
+Y3OTYxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1Nzcw
+LC0yMTMzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyOD
+I3OTM0LC0xMDM5NTA2MDk5LDEwNTk3MjI1NSw4ODUyNzQzMTdd
+fQ==
 -->
