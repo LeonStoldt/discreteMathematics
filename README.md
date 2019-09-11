@@ -683,7 +683,12 @@ $68 = 6 * 10 + 8$
 
 > **Definition: Satz von Bézout**
 > Für $a, b$ gibt es ein $a^{*} \in \N$ und $b^{*} \in \Z$, mit:
-> $$a^$$
+> $$a^{*}*a + b^{*} * b = ggT(a,b)$$
+
+*Beispiel: Satz von Bézout:*
+
+$a = 17, b = 5$
+
 
 
 ### 2.5 Untergruppen
@@ -692,7 +697,7 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTk4MjQ3Myw3MzM2NDc3MzQsLTc2NT
+eyJoaXN0b3J5IjpbLTQzNjgzOTY4Myw3MzM2NDc3MzQsLTc2NT
 k5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1
 OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC
 0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0
