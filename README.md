@@ -688,6 +688,7 @@ $68 = 6 * 10 + 8$
 *Beispiel: Satz von Bézout:*
 
 $a = 17, b = 5$
+$a^{*} \in \$
 
 
 
@@ -697,7 +698,7 @@ $a = 17, b = 5$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjgzOTY4Myw3MzM2NDc3MzQsLTc2NT
+eyJoaXN0b3J5IjpbMTI5NTg3NTY5MSw3MzM2NDc3MzQsLTc2NT
 k5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1
 OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC
 0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0
