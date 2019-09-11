@@ -681,7 +681,9 @@ $68 = 6 * 10 + 8$
 > $ggT(a,b) = r_n$
 > `Bemerkung: q ist der Quotient und Zeilenunabhängig`
 
-> **Definition
+> **Definition: Satz von Bézout**
+> Für $a, b$ gibt es ein $a^{*} \in \N$ und $b^{*} \in \Z$, mit:
+> $$a^$$
 
 
 ### 2.5 Untergruppen
@@ -690,11 +692,11 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4MTQ4MDc5LDczMzY0NzczNCwtNzY1OT
-kxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5
-NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLT
-EzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQw
-NDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMT
-U0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYw
-OTldfQ==
+eyJoaXN0b3J5IjpbLTMzOTk4MjQ3Myw3MzM2NDc3MzQsLTc2NT
+k5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1
+OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC
+0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0
+MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLD
+E1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2
+MDk5XX0=
 -->
