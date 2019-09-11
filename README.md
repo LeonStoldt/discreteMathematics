@@ -666,7 +666,9 @@ $r = 67 \: mod \: 10 = 7$
 $67 = 6 * 10 + 7$
 
 > **gemeinsame Teiler**
-> 
+> $a = q * b + r$
+> Die Menge $gT(a,b)$ der gemeinsamen Teiler ist gleich der Menge $gT(b,r)$
+> Am Beispiel von oben: $gT() \eq d$
 
 ### 2.5 Untergruppen
 
@@ -674,7 +676,7 @@ $67 = 6 * 10 + 7$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAxODk4MjAsLTc2NTk5MTE2NCwtMT
+eyJoaXN0b3J5IjpbLTEwNjc4ODU3OTcsLTc2NTk5MTE2NCwtMT
 E3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLTE5OTcz
 MTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mjg3Mj
 Q0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1MjIz
