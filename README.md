@@ -691,7 +691,7 @@ $a = 17, b = 5$
 $ggT(17,5) = 1$
 $a^{*} \in \N = 1$
 $b^{*} \in \Z = 4todo$
-$a^{*} * a + b^{*}*b = 1*$
+$a^{*} * a + b^{*}*b = 1 * 17 + (- 4l * 5) = 1 = ggT(17,5)$
 
 
 
@@ -701,7 +701,7 @@ $a^{*} * a + b^{*}*b = 1*$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjc5ODE3MCw3MzM2NDc3MzQsLTc2NT
+eyJoaXN0b3J5IjpbMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NT
 k5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1
 OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC
 0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0
