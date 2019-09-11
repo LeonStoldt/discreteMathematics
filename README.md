@@ -644,7 +644,7 @@ Ab Seite 180. Aufgaben
 > Als Ordnung einer Gruppe wird die Anzahl der Elemente definiert.
 > $$|G|$$
 
-*Beispiel zur Ordnung einer Grippe:*
+*Beispiel zur Ordnung einer Gruppe:*
 $|(\{1,2,3\}, +)| = 3$
 
 
@@ -657,11 +657,11 @@ $|(\{1,2,3\}, +)| = 3$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOT
-k3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4
-NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNT
-IyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1ODMy
-NjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMD
-U5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4NDgxLDU2NjgxMTc3
-Ml19
+eyJoaXN0b3J5IjpbLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNz
+UzMTAxNTk1LC0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3
+MDEwOSwtMTMzNjI4NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MTQ1LD
+c1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1
+Njg2MCwxNTQ1ODMyNjIsOTI3ODA3MDgsLTk2MjgyNzkzNCwtMT
+AzOTUwNjA5OSwxMDU5NzIyNTUsODg1Mjc0MzE3LC0xODc0ODg4
+NDgxXX0=
 -->
