@@ -673,13 +673,13 @@ $68 = 6 * 10 + 8$
 > **Euklidischer Algorithmus**
 > Algorithmus zur Berechnung des $ggT$ zweier positiver ganzer Zahlen $a$ und $b$
 > $ggT(a, b): (a > b)$ 
-> $a = x * b + r_1$
-> $b = x * r_1 + r_2$
-> $r_1 = x * r_2 + r_3$
+> $a = q * b + r_1$
+> $b = q * r_1 + r_2$
+> $r_1 = q * r_2 + r_3$
 > $...$
-> $r_{n-1} = x * r_n + 0$
+> $r_{n-1} = q * r_n + 0$
 > $ggT(a,b) = r_n$
-> `Bemerkung: x ist jeweils das multiplikative Inverse von `
+> `Bemerkung:  ist jeweils der Quotient von a und b `
 
 
 ### 2.5 Untergruppen
@@ -688,11 +688,11 @@ $68 = 6 * 10 + 8$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNz
-I2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEz
-MDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4NzI0NC
-wtMTc2MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNTIyMzcw
-MTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1ODMyNjIsOT
-I3ODA3MDgsLTk2MjgyNzkzNCwtMTAzOTUwNjA5OSwxMDU5NzIy
-NTVdfQ==
+eyJoaXN0b3J5IjpbMjg3OTk4Nzc0LDczMzY0NzczNCwtNzY1OT
+kxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5
+NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLT
+EzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQw
+NDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMT
+U0NTgzMjYyLDkyNzgwNzA4LC05NjI4Mjc5MzQsLTEwMzk1MDYw
+OTldfQ==
 -->
