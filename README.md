@@ -697,12 +697,16 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 > Eine Restklasse $[a]_m$ besitzt nach dem Satz von Bézout ein multiplikatives Inverses $[a^{*}]_m$:
 > $$[a]_m \otimes [a^{*}]_m = [1]_m$$
 
+*Beispiel: *
+
 >**Multiplikative Restklassengruppe**
 > Wenn der modulo eine Primzahl ist, dann ist $\Z / m$ \ $\{[0]_m\}$ eine Gruppe.
 
 >**Existenzsatz: Restklassengleichung**
 > Wenn der $ggT(a,m)$ durch $b$ teilbar ist, gilt folgende Gleichung:
-> $$[a]_m \otimes [x]$$
+> $$[a]_m \otimes [x]_m = [b]_m$$
+
+*Beispiel: Restklassengleichung*
 
 ### 2.5 Untergruppen
 
@@ -710,7 +714,7 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjgzNDM1NSwtMTgyMDQwOTMxOCwxMz
+eyJoaXN0b3J5IjpbLTY1NzAyMzk0MywtMTgyMDQwOTMxOCwxMz
 U5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5
 MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNC
 wtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3
