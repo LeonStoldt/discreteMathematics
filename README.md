@@ -720,8 +720,9 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > ``` mermaid
 > graph TD
 > 1((Euklid-Algorithmus)) --> 2((ggT von a, m teilt b))
-> 2 --nien--> ja(())
-> 2 --ja--> ja(())
+> 2 --nein--> no((keine Lösung))
+> 2 --ja--> yes((eine oder mehrere Lösungen))
+> yes --> 3((Euklid-Algorithmus rückwärts))
 > ```
 
 *Beispiel: Restklassengleichung*
@@ -755,11 +756,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkzNjEzMTgsLTE0ODg5NjEwMjksLT
-EwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYw
-ODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2OD
-Q2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOTYs
-MTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1MzEzLC0xOD
-IwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTEx
-NjQsLTExNzI2ODkwNThdfQ==
+eyJoaXN0b3J5IjpbLTEzNTI5NzQyNiwtMTQ4ODk2MTAyOSwtMT
+AzNDU0MDQyMCw2NjE2MjM4MCwtMTUwNDk4NjM2NywtMTEzNjA4
+MDEwNCwxNjAyMjM1NTQ2LC0xMzQ3NjUxNjkzLC0xNzIxNzY4ND
+YzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYzODI5Niwx
+NjgxMzE2Mjk4LC0xNDI3OTQyNDAyLDE1OTU1NDUzMTMsLTE4Mj
+A0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NTk5MTE2
+NCwtMTE3MjY4OTA1OF19
 -->
