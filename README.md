@@ -727,7 +727,7 @@ $4 = 16$ **- 1** $* 12$
 $[-1]_{12} = [11]_{12}$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = [11]_{12}$.
 3. Kontrolle:
-Die gesuchte Lösung entspricht also $x = (8 * 4) \: modulo \: 12 = 32 \: modulo 126$
+Die gesuchte Lösung entspricht also $x = (8 * 11) \: mod \: 12 = 32 \: mod \: 12 = 8$
 
 ### 2.5 Untergruppen
 
@@ -735,11 +735,11 @@ Die gesuchte Lösung entspricht also $x = (8 * 4) \: modulo \: 12 = 32 \: modulo
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU1NjM2NzcsLTEzNDc2NTE2OTMsLT
-E3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0
-NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0NT
-MxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwt
-NzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1Mz
-EwMTU5NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAx
-MDksLTEzMzYyODcyNDRdfQ==
+eyJoaXN0b3J5IjpbLTQwMDAwMDIzOCwtMTM0NzY1MTY5MywtMT
+cyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2
+MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1Mz
+EzLC0xODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03
+NjU5OTExNjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMT
+AxNTk1LC0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEw
+OSwtMTMzNjI4NzI0NF19
 -->
