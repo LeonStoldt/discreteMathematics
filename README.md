@@ -726,8 +726,10 @@ $12 = 4 * 4 + 0$
 $4 = 16$ **- 1** $* 12$
 $[-1]_{12} = [11]_{12}$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = [11]_{12}$.
-3. Multiplikator identifizieren:
-$b = 8, ggT(a,m) = 4 \implies $
+3. Multiplikator für das gesuchte $x$ identifizieren:
+$b = 8, ggT(a,m) = 4 \implies \frac{8}{4} = 2$
+4. Lösung finden:
+
 
 Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 
@@ -737,11 +739,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzg4Mzk4OCwtMTUwNDk4NjM2NywtMT
-EzNjA4MDEwNCwxNjAyMjM1NTQ2LC0xMzQ3NjUxNjkzLC0xNzIx
-NzY4NDYzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYzOD
-I5NiwxNjgxMzE2Mjk4LC0xNDI3OTQyNDAyLDE1OTU1NDUzMTMs
-LTE4MjA0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NT
-k5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1
-OTUsLTE5OTczMTMwMjRdfQ==
+eyJoaXN0b3J5IjpbOTkxODk4NzcwLC0xNTA0OTg2MzY3LC0xMT
+M2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OTMsLTE3MjE3
+Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4Mj
+k2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0NTMxMywt
+MTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwtNzY1OT
+kxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5
+NSwtMTk5NzMxMzAyNF19
 -->
