@@ -718,9 +718,8 @@ $[4]_{12} \otimes [x]_{12} = [8]_{12}$
 $4$ ist Teiler von 8, da 8 ein Vielfaches vom $ggT(4,12) = 4$ ist ist $\rightarrow$ die obige Gleichung besitzt Lösungen:
 Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
-ss
-
-$12 = 3 * 4 + 0$
+$[4]_{12} = [16]_{12}$
+$16 = 1 * 2 + 0$
 Euklidischen Alorithmus Rückwärts rechnen:
 $0 = 12 - 3 * 4$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-3]_{12} = [9]_{12}$.
@@ -732,7 +731,7 @@ Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDM4ODkyNSwtMTM0NzY1MTY5MywtMT
+eyJoaXN0b3J5IjpbMTAyOTQ5MjA0NywtMTM0NzY1MTY5MywtMT
 cyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2
 MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1Mz
 EzLC0xODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03
