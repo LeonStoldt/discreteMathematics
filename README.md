@@ -721,7 +721,7 @@ $12 = 3 * 4 + 0$
 Euklidischen Alorithmus Rückwärts rechnen:
 $0 = 12 - 3 * 4$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-3]_{12} = [9]_{12}$.
-Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
+Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$ `WIP`
 
 ### 2.5 Untergruppen
 
@@ -729,11 +729,11 @@ Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNj
-gxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5
-NDI0MDIsMTU5NTU0NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OT
-I5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04
-ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNCwtMzE0Mj
-A5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3NjEyMjI2
-ODksNjc5NjE0NV19
+eyJoaXN0b3J5IjpbLTEzNDc2NTE2OTMsLTE3MjE3Njg0NjMsLT
+QzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2ODEz
+MTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0NTMxMywtMTgyMDQwOT
+MxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0x
+MTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5Nz
+MxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcy
+NDQsLTE3NjEyMjI2ODldfQ==
 -->
