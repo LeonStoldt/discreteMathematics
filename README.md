@@ -726,8 +726,6 @@ $12 = 4 * 4 + 0$
 $4 = 16$ **- 1** $* 12$
 $[-1]_{12} = [11]_{12}$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = [11]_{12}$.
-3. Kontrolle:
-Die gesuchte Lösung entspricht also $x = (8 * 11) \: mod \: 12 = 88 \: mod \: 12 = 4$
 
 Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 
@@ -737,11 +735,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYwODAxMDQsMTYwMjIzNTU0NiwtMT
-M0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEz
-MTYyOTgsLTEzNDQ2MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0Mj
-QwMiwxNTk1NTQ1MzEzLC0xODIwNDA5MzE4LDEzNTkwMTY5Mjks
-NzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNzI2ODkwNTgsLTg4Mj
-AxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEzMDI0LC0zMTQyMDk3
-MCwtMTgxMTA3MDEwOV19
+eyJoaXN0b3J5IjpbLTE1MDQ5ODYzNjcsLTExMzYwODAxMDQsMT
+YwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1
+MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOTYsMTY4MTMxNj
+I5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1MzEzLC0xODIwNDA5MzE4
+LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNz
+I2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEz
+MDI0LC0zMTQyMDk3MF19
 -->
