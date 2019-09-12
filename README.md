@@ -720,7 +720,7 @@ Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
 $[4]_{12} = [16]_{12}$
 $16 = 1 * 12 + 4$ `hier für Euklid-Algorithmus rückwärts einsteigen`
-$12 = 4 * 4 + 0$
+$12 = 3 * 4 + 0$
 
 2. Euklid-Alorithmus rückwärts:
 $4 = 16$ **- 1** $* 12$
@@ -739,11 +739,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MD
-Q5ODYzNjcsLTExMzYwODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1
-MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOT
-gsLTEzNDQ2MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwx
-NTk1NTQ1MzEzLC0xODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNj
-Q3NzM0LC03NjU5OTExNjQsLTExNzI2ODkwNTgsLTg4MjAxMzEw
-MiwxNzUzMTAxNTk1XX0=
+eyJoaXN0b3J5IjpbLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAsNj
+YxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYwODAxMDQsMTYwMjIz
+NTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2Nj
+M3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOTYsMTY4MTMxNjI5OCwt
+MTQyNzk0MjQwMiwxNTk1NTQ1MzEzLC0xODIwNDA5MzE4LDEzNT
+kwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNzI2ODkw
+NTgsLTg4MjAxMzEwMl19
 -->
