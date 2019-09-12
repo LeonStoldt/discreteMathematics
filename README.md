@@ -709,11 +709,6 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > $$[a]_m \otimes [x]_m = [b]_m$$
 
 >**Vorgehen:**
-> 1. Euklid-Algorithmus
-> 2. ggT(a,m) teilt b
-> 3. Wenn nein $\rightarrow$ keine Lösung
-> Wenn ja $\rightarrow$ eine oder mehrere Lösungen
-> 4. Euklid-Algorithmus rückwärts
 > 5. Ergebnis mit $\frac{b}{ggT(a,m)} multiplizieren$
 > 6. Kleinste Repräsentanten finden
 > 7. Probe
@@ -723,6 +718,8 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > 2 --nein--> no((keine Lösung))
 > 2 --ja--> yes((eine oder mehrere Lösungen))
 > yes --> 3((Euklid-Algorithmus rückwärts))
+> 3 --> 4((Ergebnis mit b/ggT multiplizieren))
+> 4 -->
 > ```
 
 *Beispiel: Restklassengleichung*
@@ -756,7 +753,7 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI5NzQyNiwtMTQ4ODk2MTAyOSwtMT
+eyJoaXN0b3J5IjpbMTA4NzcxODI5NiwtMTQ4ODk2MTAyOSwtMT
 AzNDU0MDQyMCw2NjE2MjM4MCwtMTUwNDk4NjM2NywtMTEzNjA4
 MDEwNCwxNjAyMjM1NTQ2LC0xMzQ3NjUxNjkzLC0xNzIxNzY4ND
 YzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYzODI5Niwx
