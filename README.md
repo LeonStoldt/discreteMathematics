@@ -708,6 +708,12 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > Wenn der $ggT(a,m)$ durch $b$ teilbar ist, gilt folgende Gleichung:
 > $$[a]_m \otimes [x]_m = [b]_m$$
 
+>**Vorgehen:**
+> 1. Euklid-Algorithmus
+> 2. ggT(a,m) teilt b
+> 3. Wenn nein $\rightarrow$ keine Lösung
+> Wenn ja $\rightarrow$ eo
+
 *Beispiel: Restklassengleichung*
 $ggT(4,12) = 4$
 
@@ -739,11 +745,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAsNj
-YxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYwODAxMDQsMTYwMjIz
-NTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2Nj
-M3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOTYsMTY4MTMxNjI5OCwt
-MTQyNzk0MjQwMiwxNTk1NTQ1MzEzLC0xODIwNDA5MzE4LDEzNT
-kwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNzI2ODkw
-NTgsLTg4MjAxMzEwMl19
+eyJoaXN0b3J5IjpbLTE4MzQ5MjMwNzgsLTE0ODg5NjEwMjksLT
+EwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYw
+ODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2OD
+Q2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOTYs
+MTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1MzEzLC0xOD
+IwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTEx
+NjQsLTExNzI2ODkwNThdfQ==
 -->
