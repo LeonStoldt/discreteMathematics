@@ -709,8 +709,10 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > $$[a]_m \otimes [x]_m = [b]_m$$
 
 *Beispiel: Restklassengleichung*
-$ggT(3,5) = 1$
-$[3]_4 \otimes [x]_5 = [2]_5$
+$ggT(4,12) = 4$
+$[4]_{12} \otimes [x]_{12} = [3]_{12}$
+
+$[4]_{12} \otimes [x]_{12} = [3]_{12}$
 
 
 ### 2.5 Untergruppen
@@ -719,11 +721,11 @@ $[3]_4 \otimes [x]_5 = [2]_5$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE5MDY2MzksMTU5NTU0NTMxMywtMT
-gyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkx
-MTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NS
-wtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEz
-MzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwND
-ksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0
-NTgzMjYyXX0=
+eyJoaXN0b3J5IjpbMTUyNzg5MTExMywxNTk1NTQ1MzEzLC0xOD
+IwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTEx
+NjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC
+0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMz
+NjI4NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OS
+wxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1
+ODMyNjJdfQ==
 -->
