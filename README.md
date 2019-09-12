@@ -714,7 +714,7 @@ $ggT(4,12) = 4$
 $[4]_{12} \otimes [x]_{12} = [3]_{12}$
 $4$ ist kein Teiler von $3 \rightarrow$ es gibt keine Lösung für die obige Gleichung.
 
-- $[4]_{12} \otimes [x]_{12} = [8]_{12}$
+$[4]_{12} \otimes [x]_{12} = [8]_{12}$
 $4$ ist Teiler von 8, da 8 ein Vielfaches vom $ggT(4,12) = 4$ ist ist $\rightarrow$ die obige Gleichung besitzt Lösungen:
 Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
@@ -725,8 +725,9 @@ $12 = 4 * 4 + 0$
 2. Euklid-Alorithmus rückwärts:
 $4 = 16$ **- 1** $* 12$
 $[-1]_{12} = [11]_{12}$
-Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-3]_{12} = [9]_{12}$.
-Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
+Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = [11]_{12}$.
+3. Kontrolle:
+Die gesuchte Lösung entspricht also $x = (8 * 4) \: modulo \: 12 = 32 \: modulo 126$
 
 ### 2.5 Untergruppen
 
@@ -734,11 +735,11 @@ Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzU3OTU5LC0xMzQ3NjUxNjkzLC0xNz
-IxNzY4NDYzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYz
-ODI5NiwxNjgxMzE2Mjk4LC0xNDI3OTQyNDAyLDE1OTU1NDUzMT
-MsLTE4MjA0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2
-NTk5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMD
-E1OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5
-LC0xMzM2Mjg3MjQ0XX0=
+eyJoaXN0b3J5IjpbLTE2NzU1NjM2NzcsLTEzNDc2NTE2OTMsLT
+E3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0
+NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0NT
+MxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwt
+NzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1Mz
+EwMTU5NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAx
+MDksLTEzMzYyODcyNDRdfQ==
 -->
