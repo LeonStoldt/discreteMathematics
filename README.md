@@ -714,7 +714,13 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > 3. Wenn nein $\rightarrow$ keine Lösung
 > Wenn ja $\rightarrow$ eine oder mehrere Lösungen
 > 4. Euklid-Algorithmus rückwärts
-> 5. Ergebnis mit $ \frac{3}{3} dd {b}{ggT(a,m)} $
+> 5. Ergebnis mit $\frac{b}{ggT(a,m)} multiplizieren$
+> 6. Kleinste Repräsentanten finden
+> 7. Probe
+> ``` mermaid
+> graph TD
+> a 
+> ```
 
 *Beispiel: Restklassengleichung*
 $ggT(4,12) = 4$
@@ -747,7 +753,7 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjgwMTI4LC0xNDg4OTYxMDI5LC0xMD
+eyJoaXN0b3J5IjpbMTY0NTQ1MjEyLC0xNDg4OTYxMDI5LC0xMD
 M0NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2MzY3LC0xMTM2MDgw
 MTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OTMsLTE3MjE3Njg0Nj
 MsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2
