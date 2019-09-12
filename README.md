@@ -712,16 +712,16 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 $ggT(4,12) = 4$
 
 $[4]_{12} \otimes [x]_{12} = [3]_{12}$
-$4$ ist nicht durch $3$ teilbar $\rightarrow$ es gibt keine Lösung für die obige Gleichung.
+$4$ ist kein Teiler von $3 \rightarrow$ es gibt keine Lösung für die obige Gleichung.
 
-$[4]_{12} \otimes [x]_{12} = [2]_{12}$
-$4$ ist durch 2 teilbar $\rightarrow$ die obige Gleichung besitzt Lösungen:
+$[4]_{12} \otimes [x]_{12} = [8]_{12}$
+$4$ ist Teiler von 8 $\rightarrow$ die obige Gleichung besitzt Lösungen:
 Berechnung der Lösung:
 $12 = 3 * 4 + 0$
 Euklidischen Alorithmus Rückwärts rechnen:
 $0 = 12 - 3 * 4$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-3]_{12} = [9]_{12}$.
-Die gesuchte Lösung entspricht also $x = (2 * 9) mod 12 = 6$
+Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
 
 ### 2.5 Untergruppen
 
@@ -729,11 +729,11 @@ Die gesuchte Lösung entspricht also $x = (2 * 9) mod 12 = 6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTMxNjI5OCwtMTM0NDYzODI5NiwxNj
-gxMzE2Mjk4LC0xNDI3OTQyNDAyLDE1OTU1NDUzMTMsLTE4MjA0
-MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NTk5MTE2NC
-wtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLTE5
-OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2Mj
-g3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LDE1
-MjIzNzAxOTNdfQ==
+eyJoaXN0b3J5IjpbLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMz
+Q0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0
+NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNC
+wtNzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1
+MzEwMTU5NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNz
+AxMDksLTEzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3
+NTcxNjQwNDldfQ==
 -->
