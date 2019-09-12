@@ -689,9 +689,9 @@ $68 = 6 * 10 + 8$
 
 $a = 17, b = 5$
 $ggT(17,5) = 1$
-$a^{*} \in \N = 1$
-$b^{*} \in \Z = 4todo$
-$a^{*} * a + b^{*}*b = 1 * 17 + (- 4l * 5) = 1 = ggT(17,5)$
+$a^{*} \in \N = 3$
+$b^{*} \in \Z = -10$
+$a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 
 
 
@@ -701,11 +701,11 @@ $a^{*} * a + b^{*}*b = 1 * 17 + (- 4l * 5) = 1 = ggT(17,5)$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NT
-k5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1
-OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC
-0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0
-MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLD
-E1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3OTM0LC0xMDM5NTA2
-MDk5XX0=
+eyJoaXN0b3J5IjpbLTE4MjA0MDkzMTgsMTM1OTAxNjkyOSw3Mz
+M2NDc3MzQsLTc2NTk5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEz
+MTAyLDE3NTMxMDE1OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC
+0xODExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3
+OTYxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC
+0yMTMzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3
+OTM0XX0=
 -->
