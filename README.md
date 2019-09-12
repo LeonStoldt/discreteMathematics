@@ -698,8 +698,8 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 > $$[a]_m \otimes [a^{*}]_m = [1]_m$$
 
 *Beispiel: Multiplikatives Inverse*
-$[3]_5 \otimes [4]_5 = [2]_5$
-$[4]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$ und andersherum.
+$[3]_5 \otimes [4]_5 = [1]_5$
+$[4]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 
 >**Multiplikative Restklassengruppe**
 > Wenn der modulo eine Primzahl ist, dann ist $\Z / m$ \ $\{[0]_m\}$ eine Gruppe.
@@ -718,11 +718,11 @@ $[3]_5 \otimes [x]_5 = [2l]_5$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTU0NTMxMywtMTgyMDQwOTMxOCwxMz
-U5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5
-MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNC
-wtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3
-NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5My
-w3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNzgw
-NzA4XX0=
+eyJoaXN0b3J5IjpbMTQxMTg1Nzg1LDE1OTU1NDUzMTMsLTE4Mj
+A0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NTk5MTE2
+NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLT
+E5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2
+Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LD
+E1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4
+MzI2Ml19
 -->
