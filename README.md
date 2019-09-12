@@ -712,10 +712,11 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 $ggT(4,12) = 4$
 
 $[4]_{12} \otimes [x]_{12} = [3]_{12}$
-$4$ ist nicht durch $3$ teilbar $\rightarrow$ es gibt keine Lösung für die obige Gleichung
+$4$ ist nicht durch $3$ teilbar $\rightarrow$ es gibt keine Lösung für die obige Gleichung.
 
 $[4]_{12} \otimes [x]_{12} = [2]_{12}$
-$4$ ist durch 2 teilbar $\rightarrow$ die obige Gleichungbesitzt Lösungen
+$4$ ist durch 2 teilbar $\rightarrow$ die obige Gleichungbesitzt Lösungen.
+
 
 ### 2.5 Untergruppen
 
@@ -723,11 +724,11 @@ $4$ ist durch 2 teilbar $\rightarrow$ die obige Gleichungbesitzt Lösungen
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA5MDM4NTUsMTU5NTU0NTMxMywtMT
-gyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkx
-MTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NS
-wtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEz
-MzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwND
-ksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0
-NTgzMjYyXX0=
+eyJoaXN0b3J5IjpbNDMxMzQ2NjM3LDE1OTU1NDUzMTMsLTE4Mj
+A0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NTk5MTE2
+NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLT
+E5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2
+Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3OTYxNDUsNzU3MTY0MDQ5LD
+E1MjIzNzAxOTMsNzI2NjY1NzcwLC0yMTMzMTU2ODYwLDE1NDU4
+MzI2Ml19
 -->
