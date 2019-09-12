@@ -698,8 +698,8 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 > $$[a]_m \otimes [a^{*}]_m = [1]_m$$
 
 *Beispiel: Multiplikatives Inverse*
-$[3]_5 \otimes [4]_5 = [1]_5$
-$[4]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
+$[3]_5 \otimes [2]_5 = [1]_5$
+$[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 
 >**Multiplikative Restklassengruppe**
 > Wenn der modulo eine Primzahl ist, dann ist $\Z / m$ \ $\{[0]_m\}$ eine Gruppe.
@@ -718,7 +718,7 @@ $[3]_5 \otimes [x]_5 = [2l]_5$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTg1Nzg1LDE1OTU1NDUzMTMsLTE4Mj
+eyJoaXN0b3J5IjpbMzIyMjc3MDQ5LDE1OTU1NDUzMTMsLTE4Mj
 A0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2NTk5MTE2
 NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMDE1OTUsLT
 E5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5LC0xMzM2
