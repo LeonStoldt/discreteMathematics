@@ -718,7 +718,8 @@ $[4]_{12} \otimes [x]_{12} = [2]_{12}$
 $4$ ist durch 2 teilbar $\rightarrow$ die obige Gleichung besitzt Lösungen:
 Berechnung der Lösung:
 $12 = 3 * 4 + 0$
-
+Euklidischen Alorithmus Rückwärts rechnen:
+$0 = 12 - 3 * 4$
 
 
 ### 2.5 Untergruppen
@@ -727,7 +728,7 @@ $12 = 3 * 4 + 0$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg1MDMzNDQsLTE0Mjc5NDI0MDIsMT
+eyJoaXN0b3J5IjpbLTE4NjYwNzY3MDMsLTE0Mjc5NDI0MDIsMT
 U5NTU0NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0
 NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMD
 IsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4
