@@ -715,7 +715,7 @@ $[4]_{12} \otimes [x]_{12} = [3]_{12}$
 $4$ ist kein Teiler von $3 \rightarrow$ es gibt keine Lösung für die obige Gleichung.
 
 $[4]_{12} \otimes [x]_{12} = [8]_{12}$
-$4$ ist Teiler von 8 $\rightarrow$ die obige Gleichung besitzt Lösungen:
+$4$ ist Teiler von 8, da 8 ein Vielfaches von 4 ist $\rightarrow$ die obige Gleichung besitzt Lösungen:
 Berechnung der Lösung:
 $12 = 3 * 4 + 0$
 Euklidischen Alorithmus Rückwärts rechnen:
@@ -729,11 +729,11 @@ Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMz
-Q0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0
-NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNC
-wtNzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1
-MzEwMTU5NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNz
-AxMDksLTEzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3
-NTcxNjQwNDldfQ==
+eyJoaXN0b3J5IjpbLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNj
+gxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5
+NDI0MDIsMTU5NTU0NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OT
+I5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04
+ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNCwtMzE0Mj
+A5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3NjEyMjI2
+ODksNjc5NjE0NV19
 -->
