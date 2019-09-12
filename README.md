@@ -710,9 +710,11 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 
 *Beispiel: Restklassengleichung*
 $ggT(4,12) = 4$
-$[4]_{12} \otimes [x]_{12} = [3]_{12}$
 
 $[4]_{12} \otimes [x]_{12} = [3]_{12}$
+$4$ ist nicht durch $3$ teilbar $\rightarrow$ es gibt keine Lösung für die obige Gleichung
+
+$[4]_{12} \otimes [x]_{12} = [2]_{12}$
 
 
 ### 2.5 Untergruppen
@@ -721,7 +723,7 @@ $[4]_{12} \otimes [x]_{12} = [3]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg5MTExMywxNTk1NTQ1MzEzLC0xOD
+eyJoaXN0b3J5IjpbMTkwMjc2OTY3MCwxNTk1NTQ1MzEzLC0xOD
 IwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTEx
 NjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC
 0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMz
