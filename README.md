@@ -716,7 +716,8 @@ $4$ ist nicht durch $3$ teilbar $\rightarrow$ es gibt keine Lösung für die obi
 
 $[4]_{12} \otimes [x]_{12} = [2]_{12}$
 $4$ ist durch 2 teilbar $\rightarrow$ die obige Gleichung besitzt Lösungen:
-Berechnung d
+Berechnung der Lösung:
+$12 = 3 * 4 + 0$
 
 
 ### 2.5 Untergruppen
@@ -725,11 +726,11 @@ Berechnung d
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODE1MDkzMiwxNTk1NTQ1MzEzLC0xOD
-IwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTEx
-NjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC
-0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMz
-NjI4NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OS
-wxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1
-ODMyNjJdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjc5NDI0MDIsMTU5NTU0NTMxMywtMT
+gyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkx
+MTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NS
+wtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEz
+MzYyODcyNDQsLTE3NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwND
+ksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0
+NTgzMjYyXX0=
 -->
