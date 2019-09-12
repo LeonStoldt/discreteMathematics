@@ -727,7 +727,9 @@ $4 = 16$ **- 1** $* 12$
 $[-1]_{12} = [11]_{12}$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = [11]_{12}$.
 3. Kontrolle:
-Die gesuchte Lösung entspricht also $x = (8 * 11) \: mod \: 12 = 32 \: mod \: 12 = 8$
+Die gesuchte Lösung entspricht also $x = (8 * 11) \: mod \: 12 = 88 \: mod \: 12 = 4$
+
+Ergebnis: $[4]_{12} \otimes [4]_{12} = [8]_{12}$
 
 ### 2.5 Untergruppen
 
@@ -735,7 +737,7 @@ Die gesuchte Lösung entspricht also $x = (8 * 11) \: mod \: 12 = 32 \: mod \: 1
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDAwMDIzOCwtMTM0NzY1MTY5MywtMT
+eyJoaXN0b3J5IjpbMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMT
 cyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2
 MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1Mz
 EzLC0xODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03
