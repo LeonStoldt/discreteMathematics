@@ -719,7 +719,9 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > 7. Probe
 > ``` mermaid
 > graph TD
-> 1((Euklid-Algorithmus)) --> 2{{ggT teilt b]]
+> 1((Euklid-Algorithmus)) --> 2((ggT von a, m teilt b))
+> 2 --nien--> ja(())
+> 2 --ja--> ja(())
 > ```
 
 *Beispiel: Restklassengleichung*
@@ -753,7 +755,7 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU1ODg5NTQsLTE0ODg5NjEwMjksLT
+eyJoaXN0b3J5IjpbLTE4NDkzNjEzMTgsLTE0ODg5NjEwMjksLT
 EwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYw
 ODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2OD
 Q2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOTYs
