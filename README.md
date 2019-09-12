@@ -693,7 +693,7 @@ $a^{*} \in \N = 3$
 $b^{*} \in \Z = -10$
 $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 
-
+> **Existenzsatz: Multiplikative Inverse**
 
 ### 2.5 Untergruppen
 
@@ -701,11 +701,11 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA0MDkzMTgsMTM1OTAxNjkyOSw3Mz
-M2NDc3MzQsLTc2NTk5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEz
-MTAyLDE3NTMxMDE1OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC
-0xODExMDcwMTA5LC0xMzM2Mjg3MjQ0LC0xNzYxMjIyNjg5LDY3
-OTYxNDUsNzU3MTY0MDQ5LDE1MjIzNzAxOTMsNzI2NjY1NzcwLC
-0yMTMzMTU2ODYwLDE1NDU4MzI2Miw5Mjc4MDcwOCwtOTYyODI3
-OTM0XX0=
+eyJoaXN0b3J5IjpbNzk1NDI3ODU0LC0xODIwNDA5MzE4LDEzNT
+kwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNzI2ODkw
+NTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEzMDI0LC
+0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4NzI0NCwtMTc2
+MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLD
+cyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3
+MDhdfQ==
 -->
