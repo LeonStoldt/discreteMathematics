@@ -729,7 +729,7 @@ Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = 
 3. Multiplikator für das gesuchte $x$ identifizieren:
 $b = 8, ggT(a,m) = 4 \implies \frac{8}{4} = 2$
 4. Lösung finden:
-
+$x = (Multiplikator * ) \: mod \: m$
 
 Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 
@@ -739,11 +739,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxODk4NzcwLC0xNTA0OTg2MzY3LC0xMT
-M2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OTMsLTE3MjE3
-Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4Mj
-k2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0NTMxMywt
-MTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0NzczNCwtNzY1OT
-kxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5
-NSwtMTk5NzMxMzAyNF19
+eyJoaXN0b3J5IjpbNjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMz
+YwODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2
+ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2MzgyOT
+YsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1MzEzLC0x
+ODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03NjU5OT
+ExNjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1
+LC0xOTk3MzEzMDI0XX0=
 -->
