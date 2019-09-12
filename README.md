@@ -719,7 +719,9 @@ $4$ ist Teiler von 8, da 8 ein Vielfaches vom $ggT(4,12) = 4$ ist ist $\rightarr
 Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
 $[4]_{12} = [16]_{12}$
-$16 = 1 * 2 + 0$
+$16 = 1 * 12 + 4$ (hier für Euklid-Algorithmus rückwärts einsteigen)
+$12 = 4 * 4 + 0$
+
 Euklidischen Alorithmus Rückwärts rechnen:
 $0 = 12 - 3 * 4$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-3]_{12} = [9]_{12}$.
@@ -731,11 +733,11 @@ Die gesuchte Lösung entspricht also $x = (8 * 9) mod 12 = 6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTQ5MjA0NywtMTM0NzY1MTY5MywtMT
-cyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2
-MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1Mz
-EzLC0xODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3NzM0LC03
-NjU5OTExNjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMiwxNzUzMT
-AxNTk1LC0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgxMTA3MDEw
-OSwtMTMzNjI4NzI0NF19
+eyJoaXN0b3J5IjpbODAyNjIwMDMzLC0xMzQ3NjUxNjkzLC0xNz
+IxNzY4NDYzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYz
+ODI5NiwxNjgxMzE2Mjk4LC0xNDI3OTQyNDAyLDE1OTU1NDUzMT
+MsLTE4MjA0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3MzQsLTc2
+NTk5MTE2NCwtMTE3MjY4OTA1OCwtODgyMDEzMTAyLDE3NTMxMD
+E1OTUsLTE5OTczMTMwMjQsLTMxNDIwOTcwLC0xODExMDcwMTA5
+LC0xMzM2Mjg3MjQ0XX0=
 -->
