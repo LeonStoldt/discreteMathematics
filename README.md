@@ -693,7 +693,8 @@ $a^{*} \in \N = 3$
 $b^{*} \in \Z = -10$
 $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 
-> **Existenzsatz: Multiplikative Inverse**
+> **Existenzsatz: Multiplikative Inverse Restklasse**
+> Eine Restklasse $[a]_m$ hat nach dem Satz von Bézout 
 
 ### 2.5 Untergruppen
 
@@ -701,11 +702,11 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NDI3ODU0LC0xODIwNDA5MzE4LDEzNT
-kwMTY5MjksNzMzNjQ3NzM0LC03NjU5OTExNjQsLTExNzI2ODkw
-NTgsLTg4MjAxMzEwMiwxNzUzMTAxNTk1LC0xOTk3MzEzMDI0LC
-0zMTQyMDk3MCwtMTgxMTA3MDEwOSwtMTMzNjI4NzI0NCwtMTc2
-MTIyMjY4OSw2Nzk2MTQ1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLD
-cyNjY2NTc3MCwtMjEzMzE1Njg2MCwxNTQ1ODMyNjIsOTI3ODA3
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTUzMjYwMzU3NywtMTgyMDQwOTMxOCwxMz
+U5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5
+MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNC
+wtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3
+NjEyMjI2ODksNjc5NjE0NSw3NTcxNjQwNDksMTUyMjM3MDE5My
+w3MjY2NjU3NzAsLTIxMzMxNTY4NjAsMTU0NTgzMjYyLDkyNzgw
+NzA4XX0=
 -->
