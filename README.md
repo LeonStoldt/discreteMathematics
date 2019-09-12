@@ -698,7 +698,7 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 > $$[a]_m \otimes [a^{*}]_m = [1]_m$$
 
 >**Multiplikative Restklassengruppe**
-> Wenn der modulo eine Primzahl ist, dann ist $\Z / m \\ \{[0]\}$
+> Wenn der modulo eine Primzahl ist, dann ist $\Z / m \\$ $[0]_m$
 
 ### 2.5 Untergruppen
 
@@ -706,7 +706,7 @@ $a^{*} * a + b^{*}*b = 3 * 17 + (- 10 * 5) = 1 = ggT(17,5)$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODczMjEyOSwtMTgyMDQwOTMxOCwxMz
+eyJoaXN0b3J5IjpbLTk3NDcyNzcwOSwtMTgyMDQwOTMxOCwxMz
 U5MDE2OTI5LDczMzY0NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5
 MDU4LC04ODIwMTMxMDIsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNC
 wtMzE0MjA5NzAsLTE4MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3
