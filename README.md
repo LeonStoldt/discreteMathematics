@@ -720,7 +720,7 @@ Berechnung der Lösung:
 $12 = 3 * 4 + 0$
 Euklidischen Alorithmus Rückwärts rechnen:
 $0 = 12 - 3 * 4$
-
+Daher ist das multiplikative Inverse von $[4]_12$ die Restklasse $[-3]_12$
 
 ### 2.5 Untergruppen
 
@@ -728,11 +728,11 @@ $0 = 12 - 3 * 4$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYwNzY3MDMsLTE0Mjc5NDI0MDIsMT
-U5NTU0NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0
-NzczNCwtNzY1OTkxMTY0LC0xMTcyNjg5MDU4LC04ODIwMTMxMD
-IsMTc1MzEwMTU5NSwtMTk5NzMxMzAyNCwtMzE0MjA5NzAsLTE4
-MTEwNzAxMDksLTEzMzYyODcyNDQsLTE3NjEyMjI2ODksNjc5Nj
-E0NSw3NTcxNjQwNDksMTUyMjM3MDE5Myw3MjY2NjU3NzAsLTIx
-MzMxNTY4NjBdfQ==
+eyJoaXN0b3J5IjpbMTk1OTY1MTc5NywtMTQyNzk0MjQwMiwxNT
+k1NTQ1MzEzLC0xODIwNDA5MzE4LDEzNTkwMTY5MjksNzMzNjQ3
+NzM0LC03NjU5OTExNjQsLTExNzI2ODkwNTgsLTg4MjAxMzEwMi
+wxNzUzMTAxNTk1LC0xOTk3MzEzMDI0LC0zMTQyMDk3MCwtMTgx
+MTA3MDEwOSwtMTMzNjI4NzI0NCwtMTc2MTIyMjY4OSw2Nzk2MT
+Q1LDc1NzE2NDA0OSwxNTIyMzcwMTkzLDcyNjY2NTc3MCwtMjEz
+MzE1Njg2MF19
 -->
