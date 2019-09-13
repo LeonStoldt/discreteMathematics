@@ -727,7 +727,8 @@ $[12]_{15} \otimes [x]_{15} = [5]_{15}$
 $3$ ist kein Teiler von $5 \rightarrow$ es gibt keine Lösung für die obige Gleichung.
 
 $[12]_{15} \otimes [x]_{15} = [9]_{15}$
-$3$ ist Teiler von $9$, da $9$ ein Vielfaches vom $ggT(12,15) = 3$ ist $\rightarrow$ die obige Gleichung besitzt Lösungen:
+$3$ ist Teiler von $9$, da $9$ ein Vielfaches vom $ggT(12,15) = 3$ ist $\rightarrow$ die obige Gleichung besitzt Lösung(en):
+
 Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
 $[12]_{15} = [27]_{15}$
@@ -754,7 +755,7 @@ Ergebnis: $[12]_{15} \otimes [12]_{15} = [9]_{15}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODczNTUyNiwxNTI0NzA1NTY3LC0xND
+eyJoaXN0b3J5IjpbMTA0NDE4NTg3OSwxNTI0NzA1NTY3LC0xND
 g4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2
 MzY3LC0xMTM2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OT
 MsLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0x
