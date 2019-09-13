@@ -744,9 +744,9 @@ Daher ist das multiplikative Inverse von $[12]_{15}$ die Restklasse $[-1]_{15} =
 3. Multiplikator für das gesuchte $x$ identifizieren:
 $b = 9, ggT(a,m) = 3 \implies \frac{9}{3} = 3$
 4. Lösung finden:
-$x = (Multiplikator * multiplikatives Inver) \: mod \: m = (2 * 11) \: mod \: 12 = $
+$x = (Multiplikator * multiplikatives Inverse) \: mod \: m = (3 * 14) \: mod \: 15 = 12$
 
-Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
+Ergebnis: $[12]_{15} \otimes [12]_{15} = [9]_{12}$
 
 ### 2.5 Untergruppen
 
@@ -754,7 +754,7 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjU3NDI1MCwxNTI0NzA1NTY3LC0xND
+eyJoaXN0b3J5IjpbLTE5NDEyNDA1MywxNTI0NzA1NTY3LC0xND
 g4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2
 MzY3LC0xMTM2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OT
 MsLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0x
