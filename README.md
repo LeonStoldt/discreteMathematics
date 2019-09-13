@@ -723,11 +723,11 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 *Beispiel: Restklassengleichung*
 $ggT(12,15) = 3$
 
-$[4]_{12} \otimes [x]_{12} = [3]_{12}$
-$4$ ist kein Teiler von $3 \rightarrow$ es gibt keine Lösung für die obige Gleichung.
+$[12]_{15} \otimes [x]_{15} = [5]_{15}$
+$3$ ist kein Teiler von $5 \rightarrow$ es gibt keine Lösung für die obige Gleichung.
 
 $[12]_{15} \otimes [x]_{15} = [9]_{15}$
-$4$ ist Teiler von 8, da 8 ein Vielfaches vom $ggT(4,12) = 4$ ist ist $\rightarrow$ die obige Gleichung besitzt Lösungen:
+$3$ ist Teiler von 9 da 9 ein Vielfaches vom $ggT(12,15) = 3$ ist ist $\rightarrow$ die obige Gleichung besitzt Lösungen:
 Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
 $[4]_{12} = [16]_{12}$
@@ -751,7 +751,7 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzUwMjMxMSwxNTI0NzA1NTY3LC0xND
+eyJoaXN0b3J5IjpbLTExMTA0NDM1OCwxNTI0NzA1NTY3LC0xND
 g4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2
 MzY3LC0xMTM2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OT
 MsLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0x
