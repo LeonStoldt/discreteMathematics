@@ -731,11 +731,12 @@ $3$ ist Teiler von 9, da 9 ein Vielfaches vom $ggT(12,15) = 3$ ist $\rightarrow$
 Berechnung der Lösung:
 1. Euklid-Algorithmus vorwärts: (evtl. einen höheren Repräsentanten wählen)
 $[12]_{15} = [27]_{15}$
-$27 = 1 * 15 + 12$ `hier für Euklid-Algorithmus rückwärts einsteigen`
-$12 = 3 * 4 + 0$
+$27 = 1 * 15 + 12$
+$15 = 1 * 12 + 3$ `hier für Euklid-Algorithmus rückwärts einsteigen`
+$12 = 4 * 3 + 0$
 
 2. Euklid-Alorithmus rückwärts:
-$4 = 16$ **- 1** $* 12$
+$3 = 1 * 15* 12$
 $[-1]_{12} = [11]_{12}$
 Daher ist das multiplikative Inverse von $[4]_{12}$ die Restklasse $[-1]_{12} = [11]_{12}$.
 3. Multiplikator für das gesuchte $x$ identifizieren:
@@ -751,11 +752,11 @@ Ergebnis: $[4]_{12} \otimes [11]_{12} = [8]_{12}$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTY2NTI2OSwxNTI0NzA1NTY3LC0xND
-g4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2
-MzY3LC0xMTM2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OT
-MsLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0x
-MzQ0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NT
-U0NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2OTI5LDczMzY0Nzcz
-NCwtNzY1OTkxMTY0XX0=
+eyJoaXN0b3J5IjpbLTE3MDM4Njc5OTcsMTUyNDcwNTU2NywtMT
+Q4ODk2MTAyOSwtMTAzNDU0MDQyMCw2NjE2MjM4MCwtMTUwNDk4
+NjM2NywtMTEzNjA4MDEwNCwxNjAyMjM1NTQ2LC0xMzQ3NjUxNj
+kzLC0xNzIxNzY4NDYzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwt
+MTM0NDYzODI5NiwxNjgxMzE2Mjk4LC0xNDI3OTQyNDAyLDE1OT
+U1NDUzMTMsLTE4MjA0MDkzMTgsMTM1OTAxNjkyOSw3MzM2NDc3
+MzQsLTc2NTk5MTE2NF19
 -->
