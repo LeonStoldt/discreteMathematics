@@ -775,16 +775,16 @@ $g^{k}=\left \{
 > Die Ordnung eines Gruppenelements schreibt man durch $ord(g)$ und bezeichnet die kleinste Zahl $k \in \N$ für die gilt: $g^{k} = e$.
 > Sollte es kein $k \in \N$ geben, für das gilt $g^{k} = e$, dann hat $g$ die Ordnung $\infin$.
 
-
+**
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQwMDUyNTEsMTQzMzA5NjUxNywtNz
-E2ODYzMDI0LC01NDM0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2
-NDc0NDUsMTA0NDE4NTg3OSwxNTI0NzA1NTY3LC0xNDg4OTYxMD
-I5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2MzY3LC0x
-MTM2MDgwMTA0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OTMsLTE3Mj
-E3Njg0NjMsLTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4
-Mjk2LDE2ODEzMTYyOThdfQ==
+eyJoaXN0b3J5IjpbMTQyNDU1ODU4OSwtMTkyNDAwNTI1MSwxND
+MzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4
+ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1Nj
+csLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAsNjYxNjIzODAsLTE1
+MDQ5ODYzNjcsLTExMzYwODAxMDQsMTYwMjIzNTU0NiwtMTM0Nz
+Y1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYy
+OTgsLTEzNDQ2MzgyOTZdfQ==
 -->
