@@ -772,18 +772,19 @@ $g^{k}=\left \{
 \end{array}\right.$
 
 > **Ordnung eines Gruppenelements**
-> Die Ordnung eines Gruppenelements schreibt man durch $ord(g)$ und bezeichnet die kleinste Zahl $\in \N$ für die gilt: $g^{k}$
+> Die Ordnung eines Gruppenelements schreibt man durch $ord(g)$ und bezeichnet die kleinste Zahl $k \in \N$ für die gilt: $g^{k} = e$.
+> Sollte es kein $k \in \N$ geben, für das gilt 
 
 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDE3Njc1LDE0MzMwOTY1MTcsLTcxNj
-g2MzAyNCwtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC0xMTQzNjQ3
-NDQ1LDEwNDQxODU4NzksMTUyNDcwNTU2NywtMTQ4ODk2MTAyOS
-wtMTAzNDU0MDQyMCw2NjE2MjM4MCwtMTUwNDk4NjM2NywtMTEz
-NjA4MDEwNCwxNjAyMjM1NTQ2LC0xMzQ3NjUxNjkzLC0xNzIxNz
-Y4NDYzLC00MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYzODI5
-NiwxNjgxMzE2Mjk4XX0=
+eyJoaXN0b3J5IjpbMTEyODM1ODI1NSwxNDMzMDk2NTE3LC03MT
+Y4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0
+NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMj
+ksLTEwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNjcsLTEx
+MzYwODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMT
+c2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzNDQ2Mzgy
+OTYsMTY4MTMxNjI5OF19
 -->
