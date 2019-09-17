@@ -756,16 +756,17 @@ Ergebnis: $[12]_{15} \otimes [12]_{15} = [9]_{15}$
 > Die Kurzschreibwese ist $U \leq G$
 
 *Beispiel: Untergruppe*
-Die Gruppe $(\Z, +)$ ist eine Untergruppe der Gruppe $(\mathbb{Q])$
+Die Gruppe $(\Z, +)$ ist eine Untergruppe der Gruppe $(\mathbb{Q}, +)$
+Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyOTMxMjc0LC0xMTQzNjQ3NDQ1LDEwND
-QxODU4NzksMTUyNDcwNTU2NywtMTQ4ODk2MTAyOSwtMTAzNDU0
-MDQyMCw2NjE2MjM4MCwtMTUwNDk4NjM2NywtMTEzNjA4MDEwNC
-wxNjAyMjM1NTQ2LC0xMzQ3NjUxNjkzLC0xNzIxNzY4NDYzLC00
-MzUzMjY2MzcsMTY4MTMxNjI5OCwtMTM0NDYzODI5NiwxNjgxMz
-E2Mjk4LC0xNDI3OTQyNDAyLDE1OTU1NDUzMTMsLTE4MjA0MDkz
-MTgsMTM1OTAxNjkyOV19
+eyJoaXN0b3J5IjpbLTEzMDQ4ODgwNDQsLTExNDM2NDc0NDUsMT
+A0NDE4NTg3OSwxNTI0NzA1NTY3LC0xNDg4OTYxMDI5LC0xMDM0
+NTQwNDIwLDY2MTYyMzgwLC0xNTA0OTg2MzY3LC0xMTM2MDgwMT
+A0LDE2MDIyMzU1NDYsLTEzNDc2NTE2OTMsLTE3MjE3Njg0NjMs
+LTQzNTMyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2OD
+EzMTYyOTgsLTE0Mjc5NDI0MDIsMTU5NTU0NTMxMywtMTgyMDQw
+OTMxOCwxMzU5MDE2OTI5XX0=
 -->
