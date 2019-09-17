@@ -781,20 +781,20 @@ $(\Z/5, \oplus)$
 |--|--|--|
 | 0 | 1 | $[0]_5$ |
 | 1 | 5 | $\{[1]_5, [2]_5, [3]_5, [4]_5, [0]_5\}$ |
-| 2 | 5 | $\{[2]_5, [4]_5, [3]_5, [4]_5, [0]_5\}$ |
-| 3 | 5 | $\{[3]_5, [1]_5, [3]_5, [4]_5, [0]_5\}$ |
-| 4 | 5 | $\{[4]_5, [3]_5, [3]_5, [4]_5, [0]_5\}$ |
+| 2 | 5 | $\{[2]_5, [4]_5, [1]_5, [3]_5, [0]_5\}$ |
+| 3 | 5 | $\{[3]_5, [1]_5, [4]_5, [2]_5, [0]_5\}$ |
+| 4 | 5 | $\{[4]_5, [3]_5, [2]_5, [1]_5, [0]_5\}$ |
 
 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MjQ4NDY5LC0xODA1MDg4MDg5LC0xOT
-I0MDA1MjUxLDE0MzMwOTY1MTcsLTcxNjg2MzAyNCwtNTQzNDU2
-MTIyLC0xMzA0ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEwNDQxODU4Nz
-ksMTUyNDcwNTU2NywtMTQ4ODk2MTAyOSwtMTAzNDU0MDQyMCw2
-NjE2MjM4MCwtMTUwNDk4NjM2NywtMTEzNjA4MDEwNCwxNjAyMj
-M1NTQ2LC0xMzQ3NjUxNjkzLC0xNzIxNzY4NDYzLC00MzUzMjY2
-MzcsMTY4MTMxNjI5OF19
+eyJoaXN0b3J5IjpbLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMT
+kyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1
+NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1OD
+c5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAs
+NjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYwODAxMDQsMTYwMj
+IzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2
+NjM3LDE2ODEzMTYyOThdfQ==
 -->
