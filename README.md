@@ -760,16 +760,16 @@ Die Gruppe $(\Z, +)$ ist eine Untergruppe der Gruppe $(\mathbb{Q}, +)$
 Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 
 > **Untergruppen, die von einem Element erzeugt werden:**
-> Eine von g erzeugte Untergruppe ist definiert durch 
+> Eine von $g \$ erzeugte Untergruppe ist definiert durch 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMT
-E0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1NjcsLTE0ODg5
-NjEwMjksLTEwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNj
-csLTExMzYwODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5Mywt
-MTcyMTc2ODQ2MywtNDM1MzI2NjM3LDE2ODEzMTYyOTgsLTEzND
-Q2MzgyOTYsMTY4MTMxNjI5OCwtMTQyNzk0MjQwMiwxNTk1NTQ1
-MzEzLC0xODIwNDA5MzE4XX0=
+eyJoaXN0b3J5IjpbODc3OTUxMjQwLC01NDM0NTYxMjIsLTEzMD
+Q4ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4NTg3OSwxNTI0NzA1
+NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC
+0xNTA0OTg2MzY3LC0xMTM2MDgwMTA0LDE2MDIyMzU1NDYsLTEz
+NDc2NTE2OTMsLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywxNjgxMz
+E2Mjk4LC0xMzQ0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mjc5NDI0
+MDIsMTU5NTU0NTMxM119
 -->
