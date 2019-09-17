@@ -777,11 +777,20 @@ $g^{k}=\left \{
 
 *Beispiel: Ordnung eines Gruppenelements*
 $(\Z/5, \oplus)$
+| $g$ | $ord(g)$ | $<g>$ |
+|--|--|--|
+| 0 | 1 | $[0]_5$ |
+| 0 | 1 | $[1]$ |
+| 0 | 1 | $[0]$ |
+| 0 | 1 | $[0]$ |
+| 0 | 1 | $[0]$ |
+
+
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzQ0NjAyMywtMTgwNTA4ODA4OSwtMT
+eyJoaXN0b3J5IjpbLTYxNTAzOTkyMCwtMTgwNTA4ODA4OSwtMT
 kyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1
 NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1OD
 c5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAs
