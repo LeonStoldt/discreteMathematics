@@ -760,12 +760,12 @@ Die Gruppe $(\Z, +)$ ist eine Untergruppe der Gruppe $(\mathbb{Q}, +)$
 Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 
 > **Untergruppen, die von einem Element erzeugt werden:**
-> Eine von $g \in (G, \circ)$ erzeugte Untergruppe ist definiert durch  die Menge $\{g \circ ... \circ g | k \in \N\}$
+> Eine von $g \in (G, \circ)$ erzeugte Untergruppe ist definiert durch  die Menge $\{\underbrace{g \circ ... \circ g | k \in \N}_{ddd}\}$
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDQwMjQ5NCwtNTQzNDU2MTIyLC0xMz
+eyJoaXN0b3J5IjpbMTk0MjYzNjM0NCwtNTQzNDU2MTIyLC0xMz
 A0ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEwNDQxODU4NzksMTUyNDcw
 NTU2NywtMTQ4ODk2MTAyOSwtMTAzNDU0MDQyMCw2NjE2MjM4MC
 wtMTUwNDk4NjM2NywtMTEzNjA4MDEwNCwxNjAyMjM1NTQ2LC0x
