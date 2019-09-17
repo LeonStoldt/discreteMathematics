@@ -752,17 +752,17 @@ Ergebnis: $[12]_{15} \otimes [12]_{15} = [9]_{15}$
 ### 2.5 Untergruppen
 
 > **Definition: Untergruppe**
-> Wenn eine Gruppe $(G, \circ)$ 
+> Wenn eine Gruppe $(G, \circ)$ eine nichtleere Teilmenge $U$ besitzt, heißt diese **Untergruppe**, wenn sie selbst eine Gruppe mit $\circ$ bildet.
 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDYxMzI1NiwxMDQ0MTg1ODc5LDE1Mj
-Q3MDU1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAsNjYxNjIz
-ODAsLTE1MDQ5ODYzNjcsLTExMzYwODAxMDQsMTYwMjIzNTU0Ni
-wtMTM0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2NjM3LDE2
-ODEzMTYyOTgsLTEzNDQ2MzgyOTYsMTY4MTMxNjI5OCwtMTQyNz
-k0MjQwMiwxNTk1NTQ1MzEzLC0xODIwNDA5MzE4LDEzNTkwMTY5
-MjksNzMzNjQ3NzM0XX0=
+eyJoaXN0b3J5IjpbLTExNDM2NDc0NDUsMTA0NDE4NTg3OSwxNT
+I0NzA1NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYy
+MzgwLC0xNTA0OTg2MzY3LC0xMTM2MDgwMTA0LDE2MDIyMzU1ND
+YsLTEzNDc2NTE2OTMsLTE3MjE3Njg0NjMsLTQzNTMyNjYzNywx
+NjgxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2ODEzMTYyOTgsLTE0Mj
+c5NDI0MDIsMTU5NTU0NTMxMywtMTgyMDQwOTMxOCwxMzU5MDE2
+OTI5LDczMzY0NzczNF19
 -->
