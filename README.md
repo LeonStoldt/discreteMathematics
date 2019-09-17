@@ -764,15 +764,15 @@ Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 
 Wiederholungen von Gruppenelementen:
 $g \in (G, \circ)$ und $k \in \Z$
-|  |  |
-|--|--|
-|  |  |
-
+$\[
+     \chi_M(x)=\left\{\begin{array}{ll} 1, & x\in M \\
+         0, & x\not\in M\end{array}\right. .
+  \]$
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTYxMTg4NywtNzE2ODYzMDI0LC01ND
+eyJoaXN0b3J5IjpbLTk0NzA5MTQyNSwtNzE2ODYzMDI0LC01ND
 M0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4
 NTg3OSwxNTI0NzA1NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwND
 IwLDY2MTYyMzgwLC0xNTA0OTg2MzY3LC0xMTM2MDgwMTA0LDE2
