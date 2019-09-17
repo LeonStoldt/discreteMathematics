@@ -764,17 +764,17 @@ Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 
 Wiederholungen von Gruppenelementen:
 $g \in (G, \circ)$ und $k \in \Z$
-$(x)=\left \{ 
+$g^{k}=\left \{ 
 \begin{array}{ll} 
 \underbrace{g \circ ... \circ g}_{k-mal} & falls & k > 0
-\\ e (\text{neutrales Element}) & falls & k = 0
-\\ \underbrace{g^{-1} \circ ... \circ g^{-1}}_{-k-mal} & falls & k < 0
+\\\\ e (\text{neutrales Element}) & falls & k = 0
+\\\\ \underbrace{g^{-1} \circ ... \circ g^{-1}}_{-k-mal} & falls & k < 0
 \end{array}\right.$
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDQ0NzUyOCwtNzE2ODYzMDI0LC01ND
+eyJoaXN0b3J5IjpbMTQzMzA5NjUxNywtNzE2ODYzMDI0LC01ND
 M0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4
 NTg3OSwxNTI0NzA1NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwND
 IwLDY2MTYyMzgwLC0xNTA0OTg2MzY3LC0xMTM2MDgwMTA0LDE2
