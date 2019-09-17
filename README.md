@@ -759,13 +759,13 @@ Ergebnis: $[12]_{15} \otimes [12]_{15} = [9]_{15}$
 Die Gruppe $(\Z, +)$ ist eine Untergruppe der Gruppe $(\mathbb{Q}, +)$
 Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 
-> **Untergruppen, die von g erzeugt werden:**
-> 
+> **Untergruppen, die von einem Element erzeugt werden:**
+> Eine von g erzeugte Untergruppe ist definiert durch 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQwNzcxNCwtMTMwNDg4ODA0NCwtMT
+eyJoaXN0b3J5IjpbLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMT
 E0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1NjcsLTE0ODg5
 NjEwMjksLTEwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNj
 csLTExMzYwODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5Mywt
