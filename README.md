@@ -776,25 +776,26 @@ $g^{k}=\left \{
 > Sollte es kein $k \in \N$ geben, für das gilt $g^{k} = e$, dann hat $g$ die Ordnung $\infin$.
 
 *Beispiel: Ordnung eines Gruppenelements*
-$(\Z/5, \oplus)$
+$(\Z/6, \oplus)$
 | $g$ | $ord(g)$ | $<g>$ |
 |--|--|--|
-| 0 | 1 | $[0]_5$ |
-| 1 | 5 | $\{[1]_5, [2]_5, [3]_5, [4]_5, [0]_5\}$ |
-| 2 | 5 | $\{[2]_5, [4]_5, [1]_5, [3]_5, [0]_5\}$ |
-| 3 | 5 | $\{[3]_5, [1]_5, [4]_5, [2]_5, [0]_5\}$ |
-| 4 | 5 | $\{[4]_5, [3]_5, [2]_5, [1]_5, [0]_5\}$ |
+| 0 | 1 | $[0]_6$ |
+| 1 | 6 | $\{[1]_6, [2]_6, [3]_6, [4]_6, [0]_6, [0]_6\}$ |
+| 2 | 3 | $\{[2]_6, [4]_6, [1]_6, [3]_6, [0]_5\}$ |
+| 3 | 2 | $\{[3]_5, [1]_5, [4]_5, [2]_5, [0]_5\}$ |
+| 4 | 3 | $\{[4]_5, [3]_5, [2]_5, [1]_5, [0]_5\}$ |
+| 5 | 6 | $\{[4]_5, [3]_5, [2]_5, [1]_5, [0]_5\}$ |
 
 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMT
-kyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1
-NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1OD
-c5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAs
-NjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMzYwODAxMDQsMTYwMj
-IzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2ODQ2MywtNDM1MzI2
-NjM3LDE2ODEzMTYyOThdfQ==
+eyJoaXN0b3J5IjpbLTEwNTMxMDAyNDgsLTY1ODEwOTgzMywtMT
+gwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4
+NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0Nz
+Q0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMjks
+LTEwMzQ1NDA0MjAsNjYxNjIzODAsLTE1MDQ5ODYzNjcsLTExMz
+YwODAxMDQsMTYwMjIzNTU0NiwtMTM0NzY1MTY5MywtMTcyMTc2
+ODQ2MywtNDM1MzI2NjM3XX0=
 -->
