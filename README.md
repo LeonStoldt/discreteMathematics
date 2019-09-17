@@ -762,14 +762,21 @@ Also kurzgeschrieben: $(\Z, +) \leq (\mathbb{Q}, +)$
 > **Untergruppen, die von einem Element erzeugt werden:**
 > Eine von $g \in (G, \circ)$ erzeugte Untergruppe ist definiert durch die Menge $\{\underbrace{g \circ ... \circ g}_{k - mal} | k \in \N\}$ und hat folgende Schreibweise $<g>$.
 
+Wiederholungen von Gruppenelementen:
+$g \in (G, \circ)$ und $k \in \Z$
+|  |  |
+|--|--|
+|  |  |
+
+
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMz
-A0ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEwNDQxODU4NzksMTUyNDcw
-NTU2NywtMTQ4ODk2MTAyOSwtMTAzNDU0MDQyMCw2NjE2MjM4MC
-wtMTUwNDk4NjM2NywtMTEzNjA4MDEwNCwxNjAyMjM1NTQ2LC0x
-MzQ3NjUxNjkzLC0xNzIxNzY4NDYzLC00MzUzMjY2MzcsMTY4MT
-MxNjI5OCwtMTM0NDYzODI5NiwxNjgxMzE2Mjk4LC0xNDI3OTQy
-NDAyLDE1OTU1NDUzMTNdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTYxMTg4NywtNzE2ODYzMDI0LC01ND
+M0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4
+NTg3OSwxNTI0NzA1NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwND
+IwLDY2MTYyMzgwLC0xNTA0OTg2MzY3LC0xMTM2MDgwMTA0LDE2
+MDIyMzU1NDYsLTEzNDc2NTE2OTMsLTE3MjE3Njg0NjMsLTQzNT
+MyNjYzNywxNjgxMzE2Mjk4LC0xMzQ0NjM4Mjk2LDE2ODEzMTYy
+OTgsLTE0Mjc5NDI0MDJdfQ==
 -->
