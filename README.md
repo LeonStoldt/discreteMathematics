@@ -790,14 +790,16 @@ $(\Z/6, \oplus)$
 Durch $(\Z /6, \oplus)$ ergibt sich am Beispiel von $g=4$ folgendes $<g>$:
 $[4]_6 + [4]_6 = [8]_6 = [2]_6$
 $[4]_6 + [4]_6 + [4]_6 = [12]_6 = [0]_6$
-$[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [2]_6$
+$[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 
+> **Ordnung der Untergruppe:**
+> Für die Untergruppe $H \l$
 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM5MTYzNzUsLTEwMDM5OTkzODMsLT
+eyJoaXN0b3J5IjpbLTE3NjQ0NjcxODksLTEwMDM5OTkzODMsLT
 Y1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMz
 MDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4OD
 A0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1Njcs
