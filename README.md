@@ -798,7 +798,7 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 
 > **Satz von Euler:**
 > $$g^{ord(G)} = e$$
-> Dieser Satz gilt, da $g^{ord(G)} = e $
+> Dieser Satz gilt, da $$g^{ord(G)} = g^{k * ord(g)} =(g^{ord(g)})^k = e^k = e$$
 
 
 
@@ -807,7 +807,7 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjUzNzY0Niw2OTY0MTgwOTYsMTYyMj
+eyJoaXN0b3J5IjpbLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMj
 Q4MDk0NSwtMTAwMzk5OTM4MywtNjU4MTA5ODMzLC0xODA1MDg4
 MDg5LC0xOTI0MDA1MjUxLDE0MzMwOTY1MTcsLTcxNjg2MzAyNC
 wtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEw
