@@ -804,9 +804,9 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 ### 2.6 Isomorphismen
 
 > **Gruppenisomorphismus**
-> Ein Isomorphismus ist 
+> Ein Isomorphismus ist eine **Abbildung** $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzYyMjQyNywxMTcwMzUwNjc1LC02NT
+eyJoaXN0b3J5IjpbLTk3Mzk4NTAwMCwxMTcwMzUwNjc1LC02NT
 kyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkz
 ODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MS
 wxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMw
