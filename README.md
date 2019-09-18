@@ -816,10 +816,12 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > ---
 > 
 > **Erhaltung der Gruppenstruktur:**
-> -	$\phi(e_G) = e_H$ `// Die Abbildung des neutralen Elements von G zeigt auf das neutrale Element von H`
-> -	$\forall g \in G: ord(g) = ord(\phi(g))$ `// Die Ordnung eines Elements au`
+> -	$\phi(e_G) = e_H$ 
+> `Die Abbildung des neutralen Elements von G zeigt auf das neutrale Element von H`
+> -	$\forall g \in G: ord(g) = ord(\phi(g))$ 
+> `Die Ordnung eines Elements aus G ist gleich die Ordnung des Elements der Abbildung auf H`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTQ3NDQ1NiwxMTcwMzUwNjc1LC02NT
+eyJoaXN0b3J5IjpbMTc0ODc4MTc3NSwxMTcwMzUwNjc1LC02NT
 kyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkz
 ODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MS
 wxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMw
