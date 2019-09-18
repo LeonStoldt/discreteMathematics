@@ -786,13 +786,15 @@ $(\Z/6, \oplus)$
 | 4 | 3 | $\{[4]_6, [2]_6, [0]_6\}$ |
 | 5 | 6 | $\{[5]_6, [4]_6, [3]_6, [2]_6, [1]_6, [0]_6\}$ |
 
+*Erklärung anhand eines Beispiels der Tabelle:*
+Durch $(\Z /6, \oplus)$ ergibt sich am Beispiel von $g=4$ folgendes $<g>$:
 
 
 
 ### 2.6 Isomorphismen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzE5Mzc4NywtMTAwMzk5OTM4MywtNj
+eyJoaXN0b3J5IjpbLTUxMzA2NDk1OCwtMTAwMzk5OTM4MywtNj
 U4MTA5ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLDE0MzMw
 OTY1MTcsLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMzA0ODg4MD
 Q0LC0xMTQzNjQ3NDQ1LDEwNDQxODU4NzksMTUyNDcwNTU2Nywt
