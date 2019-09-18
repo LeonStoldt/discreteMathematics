@@ -820,9 +820,9 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > `Die Abbildung des neutralen Elements von G zeigt auf das neutrale Element von H`
 > -	$\forall g \in G: ord(g) = ord(\phi(g))$ 
 > `Die Ordnung eines Elements aus G ist gleich die Ordnung des Elements der Abbildung auf H`
-> $\forall g \in G$
+> $\forall g \in G: \phi (g^{-1}) = \phi (g)^{-1}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU4NzIzNCwxMTcwMzUwNjc1LC02NT
+eyJoaXN0b3J5IjpbLTYxMDUyOTA3MSwxMTcwMzUwNjc1LC02NT
 kyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkz
 ODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MS
 wxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMw
