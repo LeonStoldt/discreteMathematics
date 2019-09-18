@@ -620,8 +620,9 @@ Ab Seite 180. Aufgaben
 > -	Es gibt ein neutrales Element e der Gruppe mit	
 >      - linksneutralem Element: $\forall a \in G: e \circ a = a$
 >      - linksinversem Element: $\forall a \in G: \exists b \in G: b \circ a = e$
->      
+> 
 > $oder$
+> 
 > -	Assoziativität
 > -	Existenzsatz der algebraischen Struktur
 
@@ -632,7 +633,7 @@ Ab Seite 180. Aufgaben
 -	Neutrales Element der Addition: **0** (Bsp. $5 + 0 = 5$)
 -	Neutrales Element der Multiplikation: **1** (Bsp. $5 * 1 = 5$)
 -	Inverses Element der Addition: Element $a$, Inverses- $-a$ (Bsp. $5 - 5 = 0$
--	Inverses Element der Multiplikation: Element $a$, Inverses- $a^{-1}$ oder $\frac1a$
+-	Inverses Element der Multiplikation: Element $a$, Inverses Element $a^{-1}$ oder $\frac1a$
 
 `Bemerkung: Es gibt genau ein Neutrales Element.`
 
@@ -823,11 +824,11 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > $\forall g \in G: \phi (g^{-1}) = \phi (g)^{-1}$
 > ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5Mj
-EwMTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5Mzgz
-LC02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNTEsMT
-QzMzA5NjUxNywtNzE2ODYzMDI0LC01NDM0NTYxMjIsLTEzMDQ4
-ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4NTg3OSwxNTI0NzA1NT
-Y3LC0xNDg4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgwLC0x
-NTA0OTg2MzY3XX0=
+eyJoaXN0b3J5IjpbMTY1MjEwMDI0OCw3OTg2NDQxMywxMTcwMz
+UwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUs
+LTEwMDM5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMT
+kyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1
+NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1OD
+c5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAs
+NjYxNjIzODBdfQ==
 -->
