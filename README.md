@@ -822,9 +822,9 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > -	$\forall g \in G: ord(g) = ord(\phi(g))$ 
 > `Die Ordnung eines Elements aus G ist gleich die Ordnung des Elements der Abbildung auf H`
 > $\forall g \in G: \phi (g^{-1}) = \phi (g)^{-1}$
-> ``
+> `Die Abbildung des inversen Elements ist das inverse Element der Abbildung`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjEwMDI0OCw3OTg2NDQxMywxMTcwMz
+eyJoaXN0b3J5IjpbMTkxMzY2Njk3Niw3OTg2NDQxMywxMTcwMz
 UwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUs
 LTEwMDM5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMT
 kyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1
