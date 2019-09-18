@@ -806,13 +806,14 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > **Gruppenisomorphismus**
 > Ein Isomorphismus ist eine **Abbildung** $\phi: G \rightarrow H$ der beliebigen Gruppen $(G, \circ)$ und $(H, \otimes)$, die folgende Eigenschaften hat:
 > -	die Abbildung ist **bijektiv**
-> -	die Abbildung ist **strukturerhaltend**: $\forall g_1, g_2 \in G: \phi(g_1 \circ g_2) = \phi(g_1) \otimes \phi (g_2)$
+> -	die Abbildung ist **strukturerhaltend**: `$\forall g_1, g_2 \in G: \phi(g_1 \circ g_2) = \phi(g_1) \otimes \phi (g_2)$
+> -	die beiden Gruppen $G$ und $H$ haben dieselbe Anzahl von Elementen
 > 
 > Wenn es einen Isomorphismus zwischen $G$ und $H$ gibt, nennt man die beiden Gruppen isomorph.
 > 
 > **Isomorph = Iso + morph = gleich + gestaltet**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NzA0NzM2LDExNzAzNTA2NzUsLTY1OT
+eyJoaXN0b3J5IjpbMjExODcxOTUwLDExNzAzNTA2NzUsLTY1OT
 IxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4
 MywtNjU4MTA5ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLD
 E0MzMwOTY1MTcsLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMzA0
