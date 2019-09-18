@@ -806,18 +806,18 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > **Gruppenisomorphismus**
 > Ein Isomorphismus ist eine **Abbildung** $\phi: G \rightarrow H$ der beliebigen Gruppen $(G, \circ)$ und $(H, \otimes)$, die folgende Eigenschaften hat:
 > -	die Abbildung ist **bijektiv**
-> -	die Abbildung ist **strukturerhaltend**: `$\forall g_1, g_2 \in G: \phi(g_1 \circ g_2) = \phi(g_1) \otimes \phi (g_2)$
+> -	die Abbildung ist **strukturerhaltend**: $\forall g_1, g_2 \in G: \phi(g_1 \circ g_2) = \phi(g_1) \otimes \phi (g_2)$
 > -	die beiden Gruppen $G$ und $H$ haben dieselbe Anzahl von Elementen
 > 
 > Wenn es einen Isomorphismus zwischen $G$ und $H$ gibt, nennt man die beiden Gruppen isomorph.
 > 
 > **Isomorph = Iso + morph = gleich + gestaltet**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODcxOTUwLDExNzAzNTA2NzUsLTY1OT
-IxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4
-MywtNjU4MTA5ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLD
-E0MzMwOTY1MTcsLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMzA0
-ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEwNDQxODU4NzksMTUyNDcwNT
-U2NywtMTQ4ODk2MTAyOSwtMTAzNDU0MDQyMCw2NjE2MjM4MCwt
-MTUwNDk4NjM2N119
+eyJoaXN0b3J5IjpbLTE5OTA2Nzk4MDAsMTE3MDM1MDY3NSwtNj
+U5MjEwMTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5
+MzgzLC02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNT
+EsMTQzMzA5NjUxNywtNzE2ODYzMDI0LC01NDM0NTYxMjIsLTEz
+MDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4NTg3OSwxNTI0Nz
+A1NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgw
+LC0xNTA0OTg2MzY3XX0=
 -->
