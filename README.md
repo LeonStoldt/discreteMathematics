@@ -817,13 +817,13 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > 
 > **Erhaltung der Gruppenstruktur:**
 > -	$\phi(e_G) = e_H$ `// Die Abbildung des neutralen Elements von G zeigt auf das neutrale Element von H`
-> -	$\forall g \in G: ord(g) = ord(\phi(g))$ `// `
+> -	$\forall g \in G: ord(g) = ord(\phi(g))$ `// Die Ordnung eines Elements au`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI3MTQwMzAsMTE3MDM1MDY3NSwtNj
-U5MjEwMTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5
-MzgzLC02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNT
-EsMTQzMzA5NjUxNywtNzE2ODYzMDI0LC01NDM0NTYxMjIsLTEz
-MDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0NDE4NTg3OSwxNTI0Nz
-A1NTY3LC0xNDg4OTYxMDI5LC0xMDM0NTQwNDIwLDY2MTYyMzgw
-LC0xNTA0OTg2MzY3XX0=
+eyJoaXN0b3J5IjpbMTYwNTQ3NDQ1NiwxMTcwMzUwNjc1LC02NT
+kyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkz
+ODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MS
+wxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMw
+NDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MD
+U1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAsNjYxNjIzODAs
+LTE1MDQ5ODYzNjddfQ==
 -->
