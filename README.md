@@ -1,4 +1,4 @@
-﻿# Diskrete Mathematik 2
+# Diskrete Mathematik 2
 
 ## 1.  Relationen
 ### 1.1 Allgemeine Relationen und deren Darstellung
@@ -823,12 +823,16 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > `Die Ordnung eines Elements aus G ist gleich die Ordnung des Elements der Abbildung auf H`
 > $\forall g \in G: \phi (g^{-1}) = \phi (g)^{-1}$
 > `Die Abbildung des inversen Elements ist das inverse Element der Abbildung`
+
+
+# Kryptographie
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzY2Njk3Niw3OTg2NDQxMywxMTcwMz
-UwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUs
-LTEwMDM5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMT
-kyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1
-NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1OD
-c5LDE1MjQ3MDU1NjcsLTE0ODg5NjEwMjksLTEwMzQ1NDA0MjAs
-NjYxNjIzODBdfQ==
+eyJoaXN0b3J5IjpbLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4Nj
+Q0MTMsMTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5NjQxODA5Niwx
+NjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4MzMsLTE4MD
+UwODgwODksLTE5MjQwMDUyNTEsMTQzMzA5NjUxNywtNzE2ODYz
+MDI0LC01NDM0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2NDc0ND
+UsMTA0NDE4NTg3OSwxNTI0NzA1NTY3LC0xNDg4OTYxMDI5LC0x
+MDM0NTQwNDIwXX0=
 -->
