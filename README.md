@@ -967,7 +967,7 @@ $C= jmlw qez ipr jqowwmmx$
 #### Verfahren zur Entschlüsselung für `polyalphabetischen` Substitutionsverfahren
 
 #### Kasiski-Test
-> -	Idee: Wiederholungen einer Zeichenfolge im Klartext
+> -	Idee: Wiederholungen einer Zeichenfolge im Klartext mit einem $n$-fachen Abstand d
 
 ---
 
@@ -981,11 +981,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDU5OTA1NSwtMTUyNjExNDY1Nyw3Nj
-E1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0NDAsLTE1Mjg0NzU1
-ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2MywxMTM3NTYxOTgsMT
-k5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0MjkwLC00OTU2
-NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLT
-Y1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5
-OTM4M119
+eyJoaXN0b3J5IjpbMjAzMTEwODg2LDE3MTA1OTkwNTUsLTE1Mj
+YxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0OCwtNTU4Mjk2NDQw
+LC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLTExMzYyOTYwNjMsMT
+EzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4ODgyODgsLTI1MzM3
+NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2NDQxMywxMT
+cwMzUwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5
+NDVdfQ==
 -->
