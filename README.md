@@ -915,6 +915,7 @@ $C=hmiwmwximrfimwtmip$
 
 > **Permutations-Chiffren**
 > Permutationen = Anordnungsmöglichkeiten
+> Jeder Buchstabe kann auf jeden anderen beliebigen weiteren Buchstaben abgebildet werden $\rightarrow$ Schlüsselmenge|
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
 
 
@@ -929,11 +930,11 @@ $C=hmiwmwximrfimwtmip$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OT
-IwNDkwODcsLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3
-MDMsMTkxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NT
-kyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkz
-ODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MS
-wxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMw
-NDg4ODA0NF19
+eyJoaXN0b3J5IjpbMTUyMDY5OTI0OSwtMTEzNjI5NjA2MywxMT
+M3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0
+MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLDExNz
+AzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0
+NSwtMTAwMzk5OTM4MywtNjU4MTA5ODMzLC0xODA1MDg4MDg5LC
+0xOTI0MDA1MjUxLDE0MzMwOTY1MTcsLTcxNjg2MzAyNCwtNTQz
+NDU2MTIyXX0=
 -->
