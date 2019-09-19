@@ -855,6 +855,9 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > - $C$ - Menge aller Geheimtexte
 > - $K$ - Menge aller Schlüssel
 > 
+> Es ergeben sich folgende Abbildungen:
+> -	encrypt: $e: P \times K \rightarrow C$
+> -	decrypt: $d: C \times K \rightarrow P$
 
 
 ### Klassische Verfahren
@@ -869,7 +872,7 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDMyOTMxMywtNDk1NjQ3MDMsMTkxMz
+eyJoaXN0b3J5IjpbLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMz
 Y2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgs
 Njk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1OD
 EwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2
