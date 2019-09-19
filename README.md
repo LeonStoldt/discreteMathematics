@@ -982,7 +982,7 @@ $C= jmlw qez ipr jqowwmmx$
 ---
 
 #### Friedman-Test
-> Mithilfe des Friedman-Tests kann die Länge des Schlüssels bestimmt werden, mi d
+> Mithilfe des Friedman-Tests kann die Länge des Schlüssels bestimmt werden, mit dem ein Text durch polyalphabetische Substitution verschlüsselt wurde.
 > 1.	Annahme der Schlüssellänge treffen $|k|$
 > 2.	Text in $|k|$-Spalten untereinander aufschreiben
 > 3.	Koinzidenz pro Spalte ausrechnen  
@@ -1005,11 +1005,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAxMTU1MzEsLTE4MDYwNTM1MjEsND
-Y0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5
-MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLT
-U1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2
-Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMDg4ODg4Mj
-g4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4
-NjQ0MTNdfQ==
+eyJoaXN0b3J5IjpbLTU0MDYxNDIwMywtMTgwNjA1MzUyMSw0Nj
+Q4NjM5MjAsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MTA1OTkw
+NTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0OCwtNT
+U4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLTExMzYy
+OTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4ODgyOD
+gsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2
+NDQxM119
 -->
