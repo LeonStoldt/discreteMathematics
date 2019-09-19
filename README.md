@@ -870,7 +870,9 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 #### Asymmetrische Verschlüsselungsverfahren
 
 - Der Entschlüsselungs-Key ist nicht (in angemessener Zeit) aus dem Verschlüsselungs-Key ermittelbar
-- Der Verschlüsselungs-Key kann vom Empfänger öffentlich bekannt gegeben werden $\rightarrow$ **public
+- Der Verschlüsselungs-Key kann vom Empfänger öffentlich bekannt gegeben werden $\rightarrow$ **public-key**
+- Sender und Empfänger müssen kein Geheimnis austauschen
+- Wer verschlüsseln kann, kann nicht entschlüsseln
 
 
 
@@ -886,11 +888,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4Mjk0NDY3LC0yMDg4ODg4Mjg4LC0yNT
-MzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0MTMs
-MTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5NjQxODA5NiwxNjIyND
-gwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4MzMsLTE4MDUwODgw
-ODksLTE5MjQwMDUyNTEsMTQzMzA5NjUxNywtNzE2ODYzMDI0LC
-01NDM0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0
-NDE4NTg3OV19
+eyJoaXN0b3J5IjpbLTE5NjE1MTQyMTMsLTIwODg4ODgyODgsLT
+I1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2NDQx
+MywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2Mj
+I0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4
+ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMj
+QsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwx
+MDQ0MTg1ODc5XX0=
 -->
