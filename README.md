@@ -936,6 +936,11 @@ $C=wzgp zpr gza sgzpqzgm$
 #### Häufigkeitsanalyse*
 > - Häufigkeitsverteilung der Buchstaben analysieren
 > - Zuverlässigkeit steigt mit der Länge des Textes
+> -
+> 
+> Bigrammanalyse
+> Buchstabenkombinationen werden analysiert (Häufigkeit)
+> Bsp. "en", "er", "ch", "ei" usw.
 
 
 
@@ -949,7 +954,7 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM4NzU3NjMsLTE1Mjg0NzU1ODEsLT
+eyJoaXN0b3J5IjpbLTIwMTkwNzQwODQsLTE1Mjg0NzU1ODEsLT
 Q5NzU2MzcwNSwtMTEzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0
 OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0MjkwLC00OTU2NDcwMy
 wxOTEzNjY2OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLTY1OTIx
