@@ -988,11 +988,11 @@ $C= jmlw qez ipr jqowwmmx$
 > 2.	Text in $|k|$-Spalten untereinander aufschreiben
 > 3.	Koinzidenz pro Spalte ausrechnen  
 > $$
-> K(m) = \frac{1}{n * (n-1)} * \sum\limits_{j=1}^{26} h_i * (h_i - 1) \\
+> \kappa(m) = \frac{1}{n * (n-1)} * \sum\limits_{j=1}^{26} h_i * (h_i - 1) \\
 > n = \text{Länge des Text} \\
 > h_i = \text{Häufigkeit des jeweiligen Buchstabens}
 > $$
-> 4.	Koinzidenzen auf bekannte Werte prüfen (bei deutschen Texten $K(m) \approx 0,0762$)
+> 4.	Koinzidenzen auf bekannte Werte prüfen (bei deutschen Texten $\kappa(m) \approx 0,0762$)
 
 
 
@@ -1006,11 +1006,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMT
-gwNjA1MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0xNzc5ODY0
-OTM0LDE3MTA1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLD
-cyMDExOTE0OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1
-NjM3MDUsLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwOD
-csLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkx
-MzY2Njk3Nl19
+eyJoaXN0b3J5IjpbMTI5OTcyNjE4NywtMTk3NzkxNTAyOSwtNT
+QwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2MzkyMCw2MDY5NzU1
+MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMTUyNjExNDY1Ny
+w3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0NDAsLTE1Mjg0
+NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2MywxMTM3NTYxOT
+gsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0MjkwLC00
+OTU2NDcwM119
 -->
