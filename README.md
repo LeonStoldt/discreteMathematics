@@ -882,8 +882,8 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > -	Schlüssel: Durchmesser des Stabs
 > -	Verfahren: Transpositionsverfahren (Veränderung der Stelle des Buchstabens)
 
-> #### **Caesar**
-> 
+> **Caesar**
+> Verschiebung des Alphabets um einen Schlüssel
 
 
 ### Euler und Fermat
@@ -896,11 +896,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ1NDgwMTQsMTk5MjA0OTA4NywtMj
-A4ODg4ODI4OCwtMjUzMzc0MjkwLC00OTU2NDcwMywxOTEzNjY2
-OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OT
-Y0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4MywtNjU4MTA5
-ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLDE0MzMwOTY1MT
-csLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC0x
-MTQzNjQ3NDQ1XX0=
+eyJoaXN0b3J5IjpbLTY5NjAyOTc5NywxOTkyMDQ5MDg3LC0yMD
+g4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5
+NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5Nj
+QxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4
+MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNTEsMTQzMzA5NjUxNy
+wtNzE2ODYzMDI0LC01NDM0NTYxMjIsLTEzMDQ4ODgwNDQsLTEx
+NDM2NDc0NDVdfQ==
 -->
