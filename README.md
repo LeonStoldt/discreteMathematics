@@ -933,7 +933,7 @@ $C=wzgp zpr gza sgzpqzgm$
 
 #### Verfahren zur Entschlüsselung für `monoalphabetische` Substitutionsverfahren
 
-#### Häufigkeitsanalyse*
+#### Häufigkeitsanalyse
 > -	Häufigkeitsverteilung der Buchstaben analysieren
 > -	Zuverlässigkeit steigt mit der Länge des Textes
 > -	Sprachspezifische Besonderheiten werden ausgenutzt
@@ -962,6 +962,20 @@ $K= GEHEIM$
 
 $C= jmlw qez ipr jqowwmmx$
 
+---
+
+#### Verfahren zur Entschlüsselung für `polyalphabetischen` Substitutionsverfahren
+
+#### Kasiski-Test
+> -	Häufigkeitsverteilung der Buchstaben analysieren
+> -	Zuverlässigkeit steigt mit der Länge des Textes
+> -	Sprachspezifische Besonderheiten werden ausgenutzt
+> 
+> Bigrammanalyse
+> Buchstabenkombinationen werden analysiert (Häufigkeit)
+> Bsp. "en", "er", "ch", "ei" usw.
+
+---
 
 ### Euler und Fermat
 
@@ -973,7 +987,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI5MzQyNTIsNzYxNTUyNDMzLDcyMD
+eyJoaXN0b3J5IjpbLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMD
 ExOTE0OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3
 MDUsLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLT
 IwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2
