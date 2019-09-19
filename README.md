@@ -948,6 +948,7 @@ $C=wzgp zpr gza sgzpqzgm$
 > -	Verwendung mehrerer Caesar-Chiffren
 > -	$K = gewähltes \: Schlüsselwort$
 > -	Verfahren: Polyalphabetisches Substitutionsverfahren
+> -	Sicherheit: hängt von der Länge- und der Zufälligkeit des Schlüssels ab
 
 ![Vigenere Quadrat](https://bit.ly/2m3VwNp)
 
@@ -959,7 +960,7 @@ $K= GEHEIM$
 | P | $d i e s i s t e i n b e i s p i e l$ |
 | K | $g e h e i m g e h e i m g e h e i m$
 
-$C=wzgp zpr gza sgzpqzgm$
+$C= jmlw qez ipr jqowwmmx$
 
 
 ### Euler und Fermat
@@ -972,11 +973,11 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTg4NTcwLDc2MTU1MjQzMyw3MjAxMT
-kxNDgsLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1
-LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMD
-g4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5
-NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5Nj
-QxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzI5MzQyNTIsNzYxNTUyNDMzLDcyMD
+ExOTE0OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3
+MDUsLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLT
+IwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2
+Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNj
+k2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEw
+OTgzM119
 -->
