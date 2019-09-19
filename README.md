@@ -829,9 +829,15 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 
 ### Einführung
 
-Kryptografie = Krypto + grafie = geheim + schreiben $\rightarrow$ Die Lehre vom geheimen Schreiben
+$Kryptografie$
+$= Krypto + grafie$ 
+= geheim + schreiben 
+$\rightarrow$ Die Lehre vom geheimen Schreiben
 
-K
+**Kryptologie:**
+- Kryptografie + Kryptoanalyse
+- ist Teilgebiet der Informationssicherheit 
+
 
 ### Klassische Verfahren
 
@@ -845,7 +851,7 @@ K
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTY3MTU1MiwtNDk1NjQ3MDMsMTkxMz
+eyJoaXN0b3J5IjpbMjA2ODMxOTA5OCwtNDk1NjQ3MDMsMTkxMz
 Y2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgs
 Njk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1OD
 EwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2
