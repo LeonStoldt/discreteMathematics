@@ -825,11 +825,13 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > `Die Abbildung des inversen Elements ist das inverse Element der Abbildung`
 
 
-# Kryptographie
+# Kryptologie
 
 ### Einführung
 
-Krypto
+Kryptografie = Krypto + grafie = geheim + schreiben $\rightarrow$ Die Lehre vom geheimen Schreiben
+
+K
 
 ### Klassische Verfahren
 
@@ -843,11 +845,11 @@ Krypto
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDAxMTc2LC00OTU2NDcwMywxOTEzNj
-Y2OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLTY1OTIxMDE0OCw2
-OTY0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4MywtNjU4MT
-A5ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLDE0MzMwOTY1
-MTcsLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC
-0xMTQzNjQ3NDQ1LDEwNDQxODU4NzksMTUyNDcwNTU2NywtMTQ4
-ODk2MTAyOV19
+eyJoaXN0b3J5IjpbMTI5NTY3MTU1MiwtNDk1NjQ3MDMsMTkxMz
+Y2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgs
+Njk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1OD
+EwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2
+NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NC
+wtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1NjcsLTE0
+ODg5NjEwMjldfQ==
 -->
