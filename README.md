@@ -969,6 +969,9 @@ $C= jmlw qez ipr jqowwmmx$
 #### Kasiski-Test
 > -	Idee: Wiederholungen einer Zeichenfolge im Klartext mit einem $n$-fachen Abstand der Schlüssellänge, spiegeln sich im verschlüsselten Text wieder
 > -	Beachte: Wiederholungen können auch zufällig auftreten
+> -	Vorgehen:
+> 1.	
+> -	Zerlegung des Abstands der Wiederholungen in Primfaktoren
 
 ---
 
@@ -982,11 +985,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTIwNDY1MSwxNzEwNTk5MDU1LC0xNT
-I2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5NjQ0
-MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2MDYzLD
-ExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMDg4ODg4Mjg4LC0yNTMz
-NzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0MTMsMT
-E3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5NjQxODA5NiwxNjIyNDgw
-OTQ1XX0=
+eyJoaXN0b3J5IjpbLTE0OTA5NTM2OTMsMTcxMDU5OTA1NSwtMT
+UyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0
+NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2My
+wxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUz
+Mzc0MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLD
+ExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4
+MDk0NV19
 -->
