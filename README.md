@@ -892,12 +892,15 @@ $K= 4$
 | i | n | B | e |
 | i | s | p | i |
 | e | l |  |  |
-$C=DiiieisnsletB$
+$C=DiiieisnsletBpseei$
+
+---
 
 > **Caesar**
 > Verschiebung des Alphabets um einen Schlüssel k
 > -	Schlüssel: $k \in \Z_{26}$
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
+
 
 
 ### Euler und Fermat
@@ -910,7 +913,7 @@ $C=DiiieisnsletB$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTE2NDA0LDE5OTIwNDkwODcsLTIwOD
+eyJoaXN0b3J5IjpbMzg2NDAyNjU1LDE5OTIwNDkwODcsLTIwOD
 g4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3
 Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2ND
 E4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgz
