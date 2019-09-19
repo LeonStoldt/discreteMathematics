@@ -882,10 +882,18 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > -	Schlüssel: Durchmesser des Stabs
 > -	Verfahren: Transpositionsverfahren (Veränderung der Stelle des Buchstabens)
 
+*Beispiel Skytale:*
+P = "Dies ist ein Beispiel"
+Schlüssel: 4
+|  |  |
+|--|--|
+|  |  |
+
+
 > **Caesar**
 > Verschiebung des Alphabets um einen Schlüssel k
 > -	Schlüssel: $k \in \Z_{26}$
-> -	Verfahren: monoalphabetisches 
+> -	Verfahren: monoalphabetisches Substitutionsverfahren
 
 
 ### Euler und Fermat
@@ -898,11 +906,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTczNzQ0NzgsMTk5MjA0OTA4NywtMj
-A4ODg4ODI4OCwtMjUzMzc0MjkwLC00OTU2NDcwMywxOTEzNjY2
-OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OT
-Y0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4MywtNjU4MTA5
-ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLDE0MzMwOTY1MT
-csLTcxNjg2MzAyNCwtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC0x
-MTQzNjQ3NDQ1XX0=
+eyJoaXN0b3J5IjpbNDkzODQ3MDY5LDE5OTIwNDkwODcsLTIwOD
+g4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3
+Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2ND
+E4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgz
+MywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2NTE3LC
+03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMTE0
+MzY0NzQ0NV19
 -->
