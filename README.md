@@ -982,6 +982,7 @@ $C= jmlw qez ipr jqowwmmx$
 ---
 
 #### Friedman-Test
+> Mithilfe des Friedman-Tests kann die Länge des Schlüssels bestimmt werden, mi d
 > 1.	Annahme der Schlüssellänge treffen $|k|$
 > 2.	Text in $|k|$-Spalten untereinander aufschreiben
 > 3.	Koinzidenz pro Spalte ausrechnen  
@@ -1004,11 +1005,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNj
-k3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0
-NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5NjQ0MCwtMT
-UyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1
-NjE5OCwxOTkyMDQ5MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOT
-AsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0MTMsMTE3MDM1
-MDY3NV19
+eyJoaXN0b3J5IjpbLTE4ODAxMTU1MzEsLTE4MDYwNTM1MjEsND
+Y0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5
+MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLT
+U1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2
+Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMDg4ODg4Mj
+g4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4
+NjQ0MTNdfQ==
 -->
