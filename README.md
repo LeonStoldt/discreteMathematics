@@ -909,7 +909,7 @@ $K= 4$
 | alt | $ABCDEFGHIJKLMNOPQRSTUVWXYZ$ |
 | neu | $EFGHIJKLMNOPQRSTUVWXYZABCD$
 
-$C=hmiwmwximrfimwtmip$
+$C=hmiw mwx imr fimwtmip$
 
 ---
 
@@ -927,7 +927,10 @@ $K= [neues Alphabet]$
 | alt | $ABCDEFGHIJKLMNOPQRSTUVWXYZ$ |
 | neu | $OSBWGDJVZFNMAYTQLEPRCHKIUX$
 
-$C=wzgpzprgzasgzpqzgm$
+$C=wzgp zpr gza sgzpqzgm$
+
+
+#### Verfahren zur Entschlüsselung für mono
 
 
 ### Euler und Fermat
@@ -940,11 +943,11 @@ $C=wzgpzprgzasgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODg0NDUzNywtMTUyODQ3NTU4MSwtND
-k3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5
-MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLD
-E5MTM2NjY5NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEw
-MTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC
-02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNTEsMTQz
-MzA5NjUxN119
+eyJoaXN0b3J5IjpbODc5Njk0NzQwLC0xNTI4NDc1NTgxLC00OT
+c1NjM3MDUsLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkw
+ODcsLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMT
+kxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAx
+NDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLT
+Y1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMz
+MDk2NTE3XX0=
 -->
