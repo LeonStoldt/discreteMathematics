@@ -862,7 +862,9 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 #### Symmetrische Verschlüsselungsverfahren
 
-- 
+- Der Schlüssel zum Entschlüsseln ist aus dem Schlüssel zum Verschlüsseln leicht ermittelbar **oder** sie sind identisch
+- Sender und Empfänger besitzen dasselbe Geheimnis
+- J
 
 
 
@@ -878,11 +880,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtND
-k1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1
-LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMD
-M5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAw
-NTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMi
-wtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1
-MjQ3MDU1NjddfQ==
+eyJoaXN0b3J5IjpbLTYyNTY2MzM5OCwtMjA4ODg4ODI4OCwtMj
+UzMzc0MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEz
+LDExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMj
+Q4MDk0NSwtMTAwMzk5OTM4MywtNjU4MTA5ODMzLC0xODA1MDg4
+MDg5LC0xOTI0MDA1MjUxLDE0MzMwOTY1MTcsLTcxNjg2MzAyNC
+wtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEw
+NDQxODU4NzldfQ==
 -->
