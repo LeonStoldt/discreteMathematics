@@ -860,6 +860,12 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > -	decrypt: $d: C \times K \rightarrow P$
 
 
+#### Symmetrische Verschlüsselungsverfahren
+
+- 
+
+
+
 ### Klassische Verfahren
 
 ### Euler und Fermat
@@ -872,11 +878,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMz
-Y2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgs
-Njk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1OD
-EwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2
-NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NC
-wtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1MjQ3MDU1NjcsLTE0
-ODg5NjEwMjldfQ==
+eyJoaXN0b3J5IjpbLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtND
+k1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1
+LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMD
+M5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAw
+NTI1MSwxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMi
+wtMTMwNDg4ODA0NCwtMTE0MzY0NzQ0NSwxMDQ0MTg1ODc5LDE1
+MjQ3MDU1NjddfQ==
 -->
