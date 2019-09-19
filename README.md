@@ -984,7 +984,7 @@ $C= jmlw qez ipr jqowwmmx$
 #### Friedman-Test
 > 1.	Annahme der Schlüssellänge treffen $|k|$
 > 2.	Text in $|k|$-Spalten untereinander aufschreiben
-> 3.	Koinzidenz pro Spalte ausrechnen  $K(m) = \frac{1}{n * (n-1)} * \sum\mits_{n=1}^{\infty} 2^{-n} = 1$
+> 3.	Koinzidenz pro Spalte ausrechnen  $K(m) = \frac{1}{n * (n-1)} * \sum\limits_{j=1}^{26} h_i * (h_i - 1)$
 > 4.	Koinzidenzen auf bekannte Werte prüfen (bei deutschen Texten $K(m) \approx 0,0762$)
 
 
@@ -999,7 +999,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODU1MDY3Miw0NjQ4NjM5MjAsNjA2OT
+eyJoaXN0b3J5IjpbLTI0OTA2MjE3Nyw0NjQ4NjM5MjAsNjA2OT
 c1NTI0LC0xNzc5ODY0OTM0LDE3MTA1OTkwNTUsLTE1MjYxMTQ2
 NTcsNzYxNTUyNDMzLDcyMDExOTE0OCwtNTU4Mjk2NDQwLC0xNT
 I4NDc1NTgxLC00OTc1NjM3MDUsLTExMzYyOTYwNjMsMTEzNzU2
