@@ -974,9 +974,18 @@ $C= jmlw qez ipr jqowwmmx$
 > 2.	Indizies der Zeichenketten notieren
 > 3.	Abstände ermitteln
 > 4.	Zerlegung des Abstands in Primfaktoren
-> 5.	kleinster gemeinsamer Teiler e
+> 5.	kleinster gemeinsamer Teiler ermitteln, der in **allen** Abständen vorkommt $\rightarrow$ Schlüssellänge
+> 6.	Aufteilen des Geheimtexts in Teiltexte
+> 7. Häufigkeitsanalyse
+> 8.	Schlüssel herausfinden
 
 ---
+
+#### Friedman-Test
+
+
+
+
 
 ### Euler und Fermat
 
@@ -988,11 +997,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNzM3MTAzLDE3MTA1OTkwNTUsLTE1Mj
-YxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0OCwtNTU4Mjk2NDQw
-LC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLTExMzYyOTYwNjMsMT
-EzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4ODgyODgsLTI1MzM3
-NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2NDQxMywxMT
-cwMzUwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5
-NDVdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMT
+UyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0
+NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2My
+wxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUz
+Mzc0MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLD
+ExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4
+MDk0NV19
 -->
