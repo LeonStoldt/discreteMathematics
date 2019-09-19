@@ -915,7 +915,7 @@ $C=hmiwmwximrfimwtmip$
 
 > **Permutations-Chiffren**
 > Permutationen = Anordnungsmöglichkeiten
-> Jeder Buchstabe kann auf jeden anderen beliebigen weiteren Buchstaben abgebildet werden $\rightarrow$ Schlüsselmenge|
+> Jeder Buchstabe kann auf jeden anderen beliebigen weiteren Buchstaben abgebildet werden $\rightarrow$ $|K| = 26!$
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
 
 
@@ -930,7 +930,7 @@ $C=hmiwmwximrfimwtmip$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDY5OTI0OSwtMTEzNjI5NjA2MywxMT
+eyJoaXN0b3J5IjpbLTQ5NzU2MzcwNSwtMTEzNjI5NjA2MywxMT
 M3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0
 MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLDExNz
 AzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0
