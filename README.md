@@ -947,7 +947,9 @@ $C=wzgp zpr gza sgzpqzgm$
 #### Vigenère-Chiffre
 > -	Verwendung mehrerer Caesar-Chiffren
 > -	$K = gewähltes \: Schlüsselwort$
-> -	Verfahren: Polyalphabetisches S
+> -	Verfahren: Polyalphabetisches Substitutionsverfahren
+
+
 
 
 ### Euler und Fermat
@@ -960,7 +962,7 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODEwNTEyNCwtMTUyODQ3NTU4MSwtND
+eyJoaXN0b3J5IjpbLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtND
 k3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5
 MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLD
 E5MTM2NjY5NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEw
