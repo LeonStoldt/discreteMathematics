@@ -949,7 +949,7 @@ $C=wzgp zpr gza sgzpqzgm$
 > -	$K = gewähltes \: Schlüsselwort$
 > -	Verfahren: Polyalphabetisches Substitutionsverfahren
 
-
+![](https://nordakademie-my.sharepoint.com/:i:/g/personal/leon_stoldt_a17b_nordakademie_org/ETLLt48TFAhPhrSWHmlGdU0BfuJYPZGbpY7Px5iSYBqjpQ?e=aayazX)
 
 
 ### Euler und Fermat
@@ -962,11 +962,11 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtND
-k3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5
-MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLD
-E5MTM2NjY5NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEw
-MTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC
-02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNTEsMTQz
-MzA5NjUxN119
+eyJoaXN0b3J5IjpbLTE0ODkyNjM0NjksLTU1ODI5NjQ0MCwtMT
+UyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1
+NjE5OCwxOTkyMDQ5MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOT
+AsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0MTMsMTE3MDM1
+MDY3NSwtNjU5MjEwMTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC
+0xMDAzOTk5MzgzLC02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5
+MjQwMDUyNTFdfQ==
 -->
