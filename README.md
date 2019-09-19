@@ -956,8 +956,8 @@ $P = "diesisteinbeispiel"$
 $K= GEHEIM$
 |  |  |
 |--|--|
-| P | $ABCDEFGHIJKLMNOPQRSTUVWXYZ$ |
-| K | $OSBWGDJVZFNMAYTQLEPRCHKIUX$
+| P | $d i e s i s t e i n b e i s p i e l$ |
+| K | $g e h e i m g e h e i m g e h e i m$
 
 $C=wzgp zpr gza sgzpqzgm$
 
@@ -972,11 +972,11 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNTUyNDMzLDcyMDExOTE0OCwtNTU4Mj
-k2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLTExMzYyOTYw
-NjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4ODgyODgsLT
-I1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Niw3OTg2NDQx
-MywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2LDE2Mj
-I0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgzMywtMTgwNTA4
-ODA4OV19
+eyJoaXN0b3J5IjpbLTQyMTg4NTcwLDc2MTU1MjQzMyw3MjAxMT
+kxNDgsLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1
+LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMD
+g4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5
+NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5Nj
+QxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4
+MzNdfQ==
 -->
