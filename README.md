@@ -914,6 +914,8 @@ $C=hmiwmwximrfimwtmip$
 ---
 
 > **Permutations-Chiffren**
+> Permutationen = Anordnungsmöglichkeiten
+> -	Verfahren: monoalphabetisches Substitutionsverfahren
 
 
 
@@ -927,11 +929,11 @@ $C=hmiwmwximrfimwtmip$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwOD
-g4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3
-Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2ND
-E4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgz
-MywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2NTE3LC
-03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMTE0
-MzY0NzQ0NV19
+eyJoaXN0b3J5IjpbLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OT
+IwNDkwODcsLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3
+MDMsMTkxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NT
+kyMTAxNDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkz
+ODMsLTY1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MS
+wxNDMzMDk2NTE3LC03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMw
+NDg4ODA0NF19
 -->
