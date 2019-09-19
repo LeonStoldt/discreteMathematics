@@ -902,10 +902,10 @@ $C=DiiieisnsletBpseei$
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
 
 *Beispiel Caesar:*
-$P = "DiesisteinBeispiel"$
+$P = "diesisteinbeispiel"$
 $K= 4$
-$Alphabet= ABCDE$
-$C=DiiieisnsletBpseei$
+$Alphabet= EFGHIJKLMNOPQRSTUVWXYZABCD$
+$C=H$
 
 
 ### Euler und Fermat
@@ -918,7 +918,7 @@ $C=DiiieisnsletBpseei$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDM0ODA5MywxOTkyMDQ5MDg3LC0yMD
+eyJoaXN0b3J5IjpbLTgyMjAxMjc5NSwxOTkyMDQ5MDg3LC0yMD
 g4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5
 NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5Nj
 QxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4
