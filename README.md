@@ -896,7 +896,7 @@ $C=diiieisnsletbpseei$
 
 ---
 
-> **Caesar**
+#### Caesar
 > Verschiebung des Alphabets um einen Schlüssel k
 > -	Schlüssel: $k \in \Z_{26}$
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
@@ -929,9 +929,11 @@ $K= [neues Alphabet]$
 
 $C=wzgp zpr gza sgzpqzgm$
 
+---
 
-#### Verfahren zur Entschlüsselung für mono
+#### Verfahren zur Entschlüsselung für monoalphabetische Substitutionsverfahren
 
+> **Häufigkeitsanalyse**
 
 ### Euler und Fermat
 
@@ -943,7 +945,7 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5Njk0NzQwLC0xNTI4NDc1NTgxLC00OT
+eyJoaXN0b3J5IjpbNzE5MTA3NzMxLC0xNTI4NDc1NTgxLC00OT
 c1NjM3MDUsLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkw
 ODcsLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMT
 kxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAx
