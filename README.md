@@ -951,7 +951,17 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ![Vigenere Quadrat](https://bit.ly/2m3VwNp)
 
-test
+*Beispiel Vigenère-Chiffren:*
+$P = "diesisteinbeispiel"$
+$K= [neues Alphabet]$
+|  | Alphabet |
+|--|--|
+| alt | $ABCDEFGHIJKLMNOPQRSTUVWXYZ$ |
+| neu | $OSBWGDJVZFNMAYTQLEPRCHKIUX$
+
+$C=wzgp zpr gza sgzpqzgm$
+
+
 ### Euler und Fermat
 
 ### RSA-Verschlüsselung
@@ -962,7 +972,7 @@ test
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTg2MTYzMCw3MjAxMTkxNDgsLTU1OD
+eyJoaXN0b3J5IjpbLTc2MjkwODM0Miw3MjAxMTkxNDgsLTU1OD
 I5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2
 MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMDg4ODg4Mjg4LC
 0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0
