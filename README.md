@@ -862,14 +862,15 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 #### Symmetrische Verschlüsselungsverfahren
 
-- Der Schlüssel zum Entschlüsseln ist aus dem Schlüssel zum Verschlüsseln leicht ermittelbar **oder** sie sind identisch
+- Der Entschlüsselungs-Key ist aus dem Verschlüsselungs-Key leicht ermittelbar **oder** sie sind identisch
 - Sender und Empfänger besitzen dasselbe Geheimnis
 - Jeder mit der Möglichkeit zu verschlüsseln, hat auch die Möglichkeit zu entschlüsseln
 
 
 #### Asymmetrische Verschlüsselungsverfahren
 
-- Der Schlüssel zum Entschlüsseln ist nicht (in angemessener Zeit) aus dem Verschlüsselungs-Key ermittelbar
+- Der Entschlüsselungs-Key ist nicht (in angemessener Zeit) aus dem Verschlüsselungs-Key ermittelbar
+- Der Verschlüsselungs-Key kann vom Empfänger öffentlich bekannt gegeben werden $\rightarrow$ **public
 
 
 
@@ -885,7 +886,7 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NTM4MzUyLC0yMDg4ODg4Mjg4LC0yNT
+eyJoaXN0b3J5IjpbNTk4Mjk0NDY3LC0yMDg4ODg4Mjg4LC0yNT
 MzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0MTMs
 MTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5NjQxODA5NiwxNjIyND
 gwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4MzMsLTE4MDUwODgw
