@@ -917,7 +917,17 @@ $C=hmiwmwximrfimwtmip$
 > Permutationen = Anordnungsmöglichkeiten
 > Jeder Buchstabe kann auf jeden anderen beliebigen weiteren Buchstaben abgebildet werden $\rightarrow$ $|K| = 26!$
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
+> -	Permutation ist eine bijektive Abbildung von der Menge auf sich selbst
 
+*Beispiel Permutations-Chiffren:*
+$P = "diesisteinbeispiel"$
+$K= $
+|  | Alphabet |
+|--|--|
+| alt | $ABCDEFGHIJKLMNOPQRSTUVWXYZ$ |
+| neu | $EFGHIJKLMNOPQRSTUVWXYZABCD$
+
+$C=hmiwmwximrfimwtmip$
 
 
 ### Euler und Fermat
@@ -930,11 +940,11 @@ $C=hmiwmwximrfimwtmip$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzU2MzcwNSwtMTEzNjI5NjA2MywxMT
-M3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0
-MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLDExNz
-AzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0
-NSwtMTAwMzk5OTM4MywtNjU4MTA5ODMzLC0xODA1MDg4MDg5LC
-0xOTI0MDA1MjUxLDE0MzMwOTY1MTcsLTcxNjg2MzAyNCwtNTQz
-NDU2MTIyXX0=
+eyJoaXN0b3J5IjpbMjc5NDUxMjE1LC00OTc1NjM3MDUsLTExMz
+YyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4ODgy
+ODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Niw3OT
+g2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2NDE4MDk2
+LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgzMywtMT
+gwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2NTE3LC03MTY4
+NjMwMjRdfQ==
 -->
