@@ -982,8 +982,8 @@ $C= jmlw qez ipr jqowwmmx$
 ---
 
 #### Friedman-Test
-
-
+> 1.	Annahme der Schlüssellänge treffen $||$
+> 2.	Text in Spalten untereinander aufschreiben
 
 
 
@@ -997,11 +997,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMT
-UyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0
-NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2My
-wxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUz
-Mzc0MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEzLD
-ExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMjQ4
-MDk0NV19
+eyJoaXN0b3J5IjpbNTUzNzc5OTc1LC0xNzc5ODY0OTM0LDE3MT
+A1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0
+OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLT
+ExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4
+ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3Ni
+w3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2NDE4
+MDk2XX0=
 -->
