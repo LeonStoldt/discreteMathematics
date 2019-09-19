@@ -877,7 +877,7 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Klassische Verfahren
 
-> **Skytale**
+#### Skytale
 > -	Ein Papier wird wendelförmig um einen Stab gewickelt und entlang der Stabseite beschrieben.
 > -	Schlüssel: Durchmesser des Stabs
 > -	Verfahren: Transpositionsverfahren (Veränderung der Stelle des Buchstabens)
@@ -913,7 +913,7 @@ $C=hmiw mwx imr fimwtmip$
 
 ---
 
-> **Permutations-Chiffren**
+#### Permutations-Chiffren
 > Permutationen = Anordnungsmöglichkeiten
 > Jeder Buchstabe kann auf jeden anderen beliebigen weiteren Buchstaben abgebildet werden $\rightarrow$ $|K| = 26!$
 > -	Verfahren: monoalphabetisches Substitutionsverfahren
@@ -933,7 +933,11 @@ $C=wzgp zpr gza sgzpqzgm$
 
 #### Verfahren zur Entschlüsselung für monoalphabetische Substitutionsverfahren
 
-> **Häufigkeitsanalyse**
+#### Häufigkeitsanalyse*
+> - Häufigkeitsverteilung der Buchstaben analysieren
+> - Zuverlässigkeit steigt mit der Länge des Textes
+
+
 
 ### Euler und Fermat
 
@@ -945,11 +949,11 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MTA3NzMxLC0xNTI4NDc1NTgxLC00OT
-c1NjM3MDUsLTExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkw
-ODcsLTIwODg4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMT
-kxMzY2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAx
-NDgsNjk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLT
-Y1ODEwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMz
-MDk2NTE3XX0=
+eyJoaXN0b3J5IjpbLTE2ODM4NzU3NjMsLTE1Mjg0NzU1ODEsLT
+Q5NzU2MzcwNSwtMTEzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0
+OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0MjkwLC00OTU2NDcwMy
+wxOTEzNjY2OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLTY1OTIx
+MDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4My
+wtNjU4MTA5ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLDE0
+MzMwOTY1MTddfQ==
 -->
