@@ -864,7 +864,12 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 - Der Schlüssel zum Entschlüsseln ist aus dem Schlüssel zum Verschlüsseln leicht ermittelbar **oder** sie sind identisch
 - Sender und Empfänger besitzen dasselbe Geheimnis
-- J
+- Jeder mit der Möglichkeit zu verschlüsseln, hat auch die Möglichkeit zu entschlüsseln
+
+
+#### Asymmetrische Verschlüsselungsverfahren
+
+- Der Schlüssel zum Entschlüsseln ist nicht (in angemessener Zeit) aus dem Verschlüsselungs-Key ermittelbar
 
 
 
@@ -880,11 +885,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTY2MzM5OCwtMjA4ODg4ODI4OCwtMj
-UzMzc0MjkwLC00OTU2NDcwMywxOTEzNjY2OTc2LDc5ODY0NDEz
-LDExNzAzNTA2NzUsLTY1OTIxMDE0OCw2OTY0MTgwOTYsMTYyMj
-Q4MDk0NSwtMTAwMzk5OTM4MywtNjU4MTA5ODMzLC0xODA1MDg4
-MDg5LC0xOTI0MDA1MjUxLDE0MzMwOTY1MTcsLTcxNjg2MzAyNC
-wtNTQzNDU2MTIyLC0xMzA0ODg4MDQ0LC0xMTQzNjQ3NDQ1LDEw
-NDQxODU4NzldfQ==
+eyJoaXN0b3J5IjpbNzY4NTM4MzUyLC0yMDg4ODg4Mjg4LC0yNT
+MzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5NzYsNzk4NjQ0MTMs
+MTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5NjQxODA5NiwxNjIyND
+gwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4MzMsLTE4MDUwODgw
+ODksLTE5MjQwMDUyNTEsMTQzMzA5NjUxNywtNzE2ODYzMDI0LC
+01NDM0NTYxMjIsLTEzMDQ4ODgwNDQsLTExNDM2NDc0NDUsMTA0
+NDE4NTg3OV19
 -->
