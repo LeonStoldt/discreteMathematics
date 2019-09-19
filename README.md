@@ -850,7 +850,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > - Anonymität
 > 	-	Absender / Empfänger bleibt geheim
 
-> **Kryptosystem**
+> **Kryptosystem:**
+> - $P$ - Menge aller Klartexte
+> - $C$ - Menge aller Geheimtexte
+> - $K$ - Menge aller Schlüssel
+> 
 
 
 ### Klassische Verfahren
@@ -865,7 +869,7 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU5NjgxMywtNDk1NjQ3MDMsMTkxMz
+eyJoaXN0b3J5IjpbMTUxNDMyOTMxMywtNDk1NjQ3MDMsMTkxMz
 Y2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgs
 Njk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1OD
 EwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2
