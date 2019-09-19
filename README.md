@@ -846,8 +846,11 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > - Authentizität
 > 	-	Nachricht stammt tatsächlich vom angegebenen Absender
 > - Verbindlichkeit
-> 	-	Nachricht für Unbefugte nicht lesbar
+> 	-	Versand / Empfang ist nicht abzustreiten
+> - Anonymität
+> 	-	Absender / Empfänger bleibt geheim
 
+> **Kryptosystem**
 
 
 ### Klassische Verfahren
@@ -862,7 +865,7 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODY2ODczNCwtNDk1NjQ3MDMsMTkxMz
+eyJoaXN0b3J5IjpbLTE0MTU5NjgxMywtNDk1NjQ3MDMsMTkxMz
 Y2Njk3Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgs
 Njk2NDE4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1OD
 EwOTgzMywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2
