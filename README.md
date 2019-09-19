@@ -931,17 +931,20 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ---
 
-#### Verfahren zur Entschlüsselung für monoalphabetische Substitutionsverfahren
+#### Verfahren zur Entschlüsselung für `monoalphabetische` Substitutionsverfahren
 
 #### Häufigkeitsanalyse*
-> - Häufigkeitsverteilung der Buchstaben analysieren
-> - Zuverlässigkeit steigt mit der Länge des Textes
-> -
+> -	Häufigkeitsverteilung der Buchstaben analysieren
+> -	Zuverlässigkeit steigt mit der Länge des Textes
+> -	Sprachspezifische Besonderheiten werden ausgenutzt
 > 
 > Bigrammanalyse
 > Buchstabenkombinationen werden analysiert (Häufigkeit)
 > Bsp. "en", "er", "ch", "ei" usw.
 
+---
+
+#### 
 
 
 ### Euler und Fermat
@@ -954,11 +957,11 @@ $C=wzgp zpr gza sgzpqzgm$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkwNzQwODQsLTE1Mjg0NzU1ODEsLT
-Q5NzU2MzcwNSwtMTEzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0
-OTA4NywtMjA4ODg4ODI4OCwtMjUzMzc0MjkwLC00OTU2NDcwMy
-wxOTEzNjY2OTc2LDc5ODY0NDEzLDExNzAzNTA2NzUsLTY1OTIx
-MDE0OCw2OTY0MTgwOTYsMTYyMjQ4MDk0NSwtMTAwMzk5OTM4My
-wtNjU4MTA5ODMzLC0xODA1MDg4MDg5LC0xOTI0MDA1MjUxLDE0
-MzMwOTY1MTddfQ==
+eyJoaXN0b3J5IjpbMTkyMjExMDkzOSwtMTUyODQ3NTU4MSwtND
+k3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5
+MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLD
+E5MTM2NjY5NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEw
+MTQ4LDY5NjQxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC
+02NTgxMDk4MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNTEsMTQz
+MzA5NjUxN119
 -->
