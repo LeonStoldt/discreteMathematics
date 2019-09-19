@@ -883,16 +883,16 @@ $\rightarrow$ Die Lehre vom geheimen Schreiben
 > -	Verfahren: Transpositionsverfahren (Veränderung der Stelle des Buchstabens)
 
 *Beispiel Skytale:*
-$P = "DiesisteinBeispiel"$
+$P = "diesisteinbeispiel"$
 $K= 4$
 | 1 | 2 | 3 | 4 |
 |--|--|--|--|
-| D | i | e | s |
+| d | i | e | s |
 | i | s | t | e |
-| i | n | B | e |
+| i | n | b | e |
 | i | s | p | i |
 | e | l |  |  |
-$C=DiiieisnsletBpseei$
+$C=diiieisnsletbpseei$
 
 ---
 
@@ -905,7 +905,7 @@ $C=DiiieisnsletBpseei$
 $P = "diesisteinbeispiel"$
 $K= 4$
 $Alphabet= EFGHIJKLMNOPQRSTUVWXYZABCD$
-$C=H$
+$C=h$
 
 
 ### Euler und Fermat
@@ -918,11 +918,11 @@ $C=H$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjAxMjc5NSwxOTkyMDQ5MDg3LC0yMD
-g4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5NTY0NzAzLDE5MTM2NjY5
-NzYsNzk4NjQ0MTMsMTE3MDM1MDY3NSwtNjU5MjEwMTQ4LDY5Nj
-QxODA5NiwxNjIyNDgwOTQ1LC0xMDAzOTk5MzgzLC02NTgxMDk4
-MzMsLTE4MDUwODgwODksLTE5MjQwMDUyNTEsMTQzMzA5NjUxNy
-wtNzE2ODYzMDI0LC01NDM0NTYxMjIsLTEzMDQ4ODgwNDQsLTEx
-NDM2NDc0NDVdfQ==
+eyJoaXN0b3J5IjpbOTI0NDkzODYxLDE5OTIwNDkwODcsLTIwOD
+g4ODgyODgsLTI1MzM3NDI5MCwtNDk1NjQ3MDMsMTkxMzY2Njk3
+Niw3OTg2NDQxMywxMTcwMzUwNjc1LC02NTkyMTAxNDgsNjk2ND
+E4MDk2LDE2MjI0ODA5NDUsLTEwMDM5OTkzODMsLTY1ODEwOTgz
+MywtMTgwNTA4ODA4OSwtMTkyNDAwNTI1MSwxNDMzMDk2NTE3LC
+03MTY4NjMwMjQsLTU0MzQ1NjEyMiwtMTMwNDg4ODA0NCwtMTE0
+MzY0NzQ0NV19
 -->
