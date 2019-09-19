@@ -992,7 +992,7 @@ $C= jmlw qez ipr jqowwmmx$
 > n = \text{Länge des Text} \\
 > h_i = \text{Häufigkeit des jeweiligen Buchstabens}
 > $$
-> 4.	Koinzidenzen auf bekannte Werte prüfen ($\kappa_{DE} (m) \approx 0,0762$)
+> 4.	Koinzidenzen auf bekannte Werte prüfen ($\kappa_{DE} (m) \approx 0,0762, \kappa_{RND} (m) \approx 0,0385$ )
 
 
 
@@ -1006,11 +1006,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01ND
-A2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUy
-NCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LD
-c2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5NjQ0MCwtMTUyODQ3
-NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OC
-wxOTkyMDQ5MDg3LC0yMDg4ODg4Mjg4LC0yNTMzNzQyOTAsLTQ5
-NTY0NzAzXX0=
+eyJoaXN0b3J5IjpbLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMTk3Nz
+kxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2Mzky
+MCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMT
+UyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0
+NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2My
+wxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4ODI4OCwtMjUz
+Mzc0MjkwXX0=
 -->
