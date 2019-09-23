@@ -1056,8 +1056,8 @@ $C= jmlw qez ipr jqowwmmx$
 > 1.	Berechne $d$ in ($1 \lt d \lt \phi (n)$) als das multiplikative Inverse zu $e$ in $\Z_{\phi (n)} \rightarrow e * d \equiv_{\phi (n)} 1$ (Berechnung durch den erweiterten euklidischen Alogrithmus)
 > 2.	Das Tupel $(n, d)$ ist der private key
 > 
-> ****
-> 
+> **Verschlüsselung**
+> $c = $
 
 
 ### Primzahltests
@@ -1066,11 +1066,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgxMTQ5MTcsLTE2NjI2ODAzNTksLT
-IxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2
-NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMT
-k3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2
-MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NS
-wtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgy
-OTY0NDBdfQ==
+eyJoaXN0b3J5IjpbMTY1NzQyMjc3NywtMTY2MjY4MDM1OSwtMj
+EyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1
+NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOT
+c3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYz
+OTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC
+0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5
+NjQ0MF19
 -->
