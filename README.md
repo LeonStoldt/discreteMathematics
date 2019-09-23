@@ -1026,6 +1026,9 @@ $C= jmlw qez ipr jqowwmmx$
 
 > **Satz von Euler**
 > $$a^{\phi (n)} \equiv_n 1, \:\: (a,n \in \N \land ggT(a,n) = 1)$$
+> 
+> **Satz von Fermat**
+> $$a^{p-1} \equiv_p 1, \:\: (p \text{ ist Primzahl})$$
 
 ### RSA-Verschlüsselung
 
@@ -1035,11 +1038,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzgwNzk1NCwyMDM1MTI1MTIsODY3MT
-Y1NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0x
-OTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0OD
-YzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1
-LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1OD
-I5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2
-MDYzXX0=
+eyJoaXN0b3J5IjpbLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2Nz
+E2NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwt
+MTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2ND
+g2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1
+NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NT
+gyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5
+NjA2M119
 -->
