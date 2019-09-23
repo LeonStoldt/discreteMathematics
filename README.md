@@ -1074,8 +1074,9 @@ $C= jmlw qez ipr jqowwmmx$
 1.	Bildung des öffentlichen Schlüssels:
 $p = 17, q = 23$
 $\phi (n) = (p - 1) * (q - 1) = 16 * 22 = 352$
-$1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43 \\
-publickey(352, 43)$
+$1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43$
+
+$publickey(352, 43)$
 
 2.	Bildung des privaten Schlüssels:
 multiplikatives Inverse:	
@@ -1096,10 +1097,14 @@ $1= 3 -2 \\
 1 = 131 * 43 - 16 * 352 \\
 d = [-16]_{352} = [336]_{352}$
 
-
+$privatekey(352, 336)$
 
 
 3.	Verschlüsselung der Nachricht:
+$m = 27 \\
+c = m^{e}$
+
+
 
 4.	Entschlüsselung der Nachricht:
 
@@ -1111,11 +1116,11 @@ d = [-16]_{352} = [336]_{352}$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDk0MjQ2OSwtMjEzOTA3NjQ5OCwyMD
-Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
-NDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3Mj
-YsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5
-MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUyMSw0NjQ4NjM5Mj
-AsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MTA1OTkwNTUsLTE1
-MjYxMTQ2NTddfQ==
+eyJoaXN0b3J5IjpbNTc2OTY4Mzc1LC0yMTM5MDc2NDk4LDIwND
+U4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTksLTIxMjA0
+Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2NTcyNi
+wxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMTk3Nzkx
+NTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2MzkyMC
+w2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMTUy
+NjExNDY1N119
 -->
