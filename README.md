@@ -1023,7 +1023,9 @@ $C= jmlw qez ipr jqowwmmx$
 > -	 Wenn $p \text{ ist Primzahl}$, dann $\phi(p) = p -1$
 > -	Wenn $p^k \text{ p ist Primzahl und } k \in \N$, dann $\phi(p) = p^k (1 - \frac{1}{p})$
 > -	Wenn $m, n \in \N$, dann $\phi(p) = \phi(m) * \phi(n)$
-> -	Wenn $$
+
+> **Satz von Euler**
+> 
 
 ### RSA-Verschlüsselung
 
@@ -1033,11 +1035,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTEyNTEyLDg2NzE2NTcyNiwxNjk5MD
-QwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMTk3NzkxNTAyOSwt
-NTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2MzkyMCw2MDY5Nz
-U1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMTUyNjExNDY1
-Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgyOTY0NDAsLTE1Mj
-g0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5NjA2MywxMTM3NTYx
-OThdfQ==
+eyJoaXN0b3J5IjpbLTEzMDkwNDExNywyMDM1MTI1MTIsODY3MT
+Y1NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0x
+OTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0OD
+YzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1
+LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1OD
+I5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2
+MDYzXX0=
 -->
