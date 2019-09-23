@@ -1091,7 +1091,9 @@ $1= 3 -2 \\
 1 = 3 - (8 - 2*3) \\
 1 = 3 * 3 - 8 \\
 1 = 3 * (43 - 5 * 8) - 8 \\
-3 = 3 * 1 + 0$
+1 = 3 * 43 - 16 * 8 \\
+1 = 3 * 43 - 16 * (352 - 8 * 43) \\
+1 = $
 
 
 
@@ -1107,7 +1109,7 @@ $1= 3 -2 \\
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI0MzMwNjksLTIxMzkwNzY0OTgsMj
+eyJoaXN0b3J5IjpbLTE5OTAwNTg5NDUsLTIxMzkwNzY0OTgsMj
 A0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OSwtMjEy
 MDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1Nz
 I2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOTc3
