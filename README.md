@@ -1064,8 +1064,11 @@ $C= jmlw qez ipr jqowwmmx$
 > $$c = m^e \: mod \: n$$
 > 
 > **Entschlüsselung**
-> 
-> 
+> $c$ = Geheimtext
+> $m$ = Nachricht  
+> $d$ = Teil des privaten Schlüssels des Empfängers
+> $n$ = Teil des privaten Schlüssels des Empfängers
+> $$m = c^d \: mod \: n$$
 
 
 ### Primzahltests
@@ -1074,11 +1077,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTksLT
-IxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2
-NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMT
-k3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2
-MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NS
-wtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgy
-OTY0NDBdfQ==
+eyJoaXN0b3J5IjpbLTIwODgyNzEyMSwtMTQ3MTYyNjIyNiwtMT
+Y2MjY4MDM1OSwtMjEyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1
+MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLT
+E3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYw
+NTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNC
+wxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAx
+MTkxNDhdfQ==
 -->
