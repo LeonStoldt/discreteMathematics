@@ -1079,11 +1079,16 @@ $publickey(352, 43)$
 
 2.	Bildung des privaten Schlüssels:
 multiplikatives Inverse:	
+Euklidischer Algorithmus
 $352 = 8 * 43 + 8 \\
 43 = 5 * 8 + 3 \\
 8 = 2 * 3 + 2 \\
 3 = 1 * 2 + 1 \\
 2 = 2 * 1 + 0$
+
+Euklidischer Algorithmus rückwärts:
+$1 = 
+$
 
 
 3.	Verschlüsselung der Nachricht:
@@ -1098,7 +1103,7 @@ $352 = 8 * 43 + 8 \\
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjMyMjUxMiwyMDQ1ODIyMTQ4LC0xND
+eyJoaXN0b3J5IjpbMTI0MDg5NzQ2OCwyMDQ1ODIyMTQ4LC0xND
 cxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0
 MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC
 00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYx
