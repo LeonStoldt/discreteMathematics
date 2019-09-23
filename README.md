@@ -1087,10 +1087,17 @@ $352 = 8 * 43 + 8 \\
 2 = 2 * 1 + 0$
 
 Euklidischer Algorithmus rückwärts:
-$1 = 3 - 2 \\
+$1= 3 -2 \\
 1 = 3 - (8 - 2*3) \\
-1 = 3 * 3 - 8 \
-$
+8 = 2 * 3 + 2 \\
+3 = 1 * 2 + 1 \\
+2 = 2 * 1 + 0$
+
+$1 = 3 - 2 \\ 
+1 = 3 - (8 - 2*3) \\$
+
+1 = 3 * 3 - 8 \\
+1 = $
 
 
 3.	Verschlüsselung der Nachricht:
@@ -1105,7 +1112,7 @@ $
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzg3OTA1MiwtMjEzOTA3NjQ5OCwyMD
+eyJoaXN0b3J5IjpbMTEyOTM0NjUxMiwtMjEzOTA3NjQ5OCwyMD
 Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
 NDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3Mj
 YsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5
