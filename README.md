@@ -1001,6 +1001,8 @@ $C= jmlw qez ipr jqowwmmx$
 > 2.	Einer der Texte wird zufällig gewählt und verschlüsselt
 > 3.	Wenn der Angreifer eine Wahrscheinlichkeit von 50% hat, gilt das Kryptosystem als sicher.
 
+> **One Time Pad Verfahren**
+> -	ist ein perfekt sicheres Kryptosystem
 
 ### Euler und Fermat
 
@@ -1012,7 +1014,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTgwODg3MSwtNDY4NDgzODIsLTE3MD
+eyJoaXN0b3J5IjpbMjA2OTE2MzUzOCwtNDY4NDgzODIsLTE3MD
 czNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1
 MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNz
 EwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkx
