@@ -1072,9 +1072,10 @@ $C= jmlw qez ipr jqowwmmx$
 
 *Beispiel Ver- und Entschlüsselung eines Texts mithilfe von RSA:*
 1.	Bildung des öffentlichen Schlüssels:
-$p = 17, q = 23$
-$\phi (n) = (p - 1) * (q - 1) = 16 * 22 = 352$
-$1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43$
+$p = 17, q = 23 \\
+n = p * q = 17 * 23 = 391
+\phi (n) = (p - 1) * (q - 1) = 16 * 22 = 352 \\
+1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43$
 
 $publickey(352, 43)$
 
@@ -1115,11 +1116,11 @@ m = c^d \: mod \: n = 323^{131} \: mod \: 352 = 257$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMT
-czNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcx
-NjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0Mj
-cyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00
-Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYxND
-IwMywtMTgwNjA1MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0x
-Nzc5ODY0OTM0XX0=
+eyJoaXN0b3J5IjpbNDA5MjExODE5LC0xNDI1OTc2NDYzLC0xOD
+A5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OTgsMjA0NTgy
+MjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OSwtMjEyMDQzOT
+kwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2
+OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOTc3OTE1MD
+I5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYw
+Njk3NTUyNF19
 -->
