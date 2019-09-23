@@ -1021,7 +1021,7 @@ $C= jmlw qez ipr jqowwmmx$
 > 
 > Berechnung der Phi-Funktion
 > -	 Wenn $p \text{ ist Primzahl}$, dann $\phi(p) = p -1$
-> -	
+> -	Wenn $p^{k} \text{ p ist Primzahl und } k \in \N$, dann
 
 ### RSA-Verschlüsselung
 
@@ -1031,11 +1031,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MTY1NzI2LDE2OTkwNDAxMCwtNDY4ND
-gzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMs
-LTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OT
-g2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQz
-Myw3MjAxMTkxNDgsLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtND
-k3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5
-MDg3XX0=
+eyJoaXN0b3J5IjpbLTEwNjIyOTAxMjksODY3MTY1NzI2LDE2OT
+kwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5
+LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNj
+k3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0
+NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5NjQ0MCwtMT
+UyODQ3NTU4MSwtNDk3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1
+NjE5OF19
 -->
