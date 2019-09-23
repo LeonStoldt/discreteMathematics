@@ -1036,8 +1036,19 @@ $C= jmlw qez ipr jqowwmmx$
 > **Satz von Fermat**
 > $$a^{p-1} \equiv_p 1, \:\: (p \text{ ist Primzahl}, a \in \N, 1 \leq a \leq p-1)$$
 
-test
+
 ### RSA-Verschlüsselung
+
+> **RSA-Verschlüsselung - asymmetrisches Verschlüsselungsverfahren**
+> -	Verwendung zur Verschlüsselung und digitaler Signatur
+> -	Jeder Teilnehmer benötigt zwei Schlüssel
+> 	-	private key (*Entschlüsseln* / *Signieren der Nachricht*)
+> 	-	public key (*Verschlüsseln* / *Prüfen der Nachricht*)
+>
+> **Konstruktion des private key**
+>
+> **Konstruktion des private key**
+
 
 ### Primzahltests
 
@@ -1045,7 +1056,7 @@ test
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjk3NDU4OSwtMTY2MjY4MDM1OSwtMj
+eyJoaXN0b3J5IjpbMTk3NjIxODk1NiwtMTY2MjY4MDM1OSwtMj
 EyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1
 NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOT
 c3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYz
