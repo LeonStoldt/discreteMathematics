@@ -1102,12 +1102,11 @@ $privatekey(352, 336)$
 
 3.	Verschlüsselung der Nachricht:
 $m = 27 \\
-c = m^{e} \: mod \: n = 27^{43} \: mod \: 352 = 323$ `missing: Square and multiply`
-
-
+c = m^e \: mod \: n = 27^{43} \: mod \: 352 = 323$ `missing: Square and multiply`
 
 4.	Entschlüsselung der Nachricht:
-
+$c = 323 \\
+m = c^d \: mod \: n = 323^{336} m$
 
 
 ### Primzahltests
@@ -1116,7 +1115,7 @@ c = m^{e} \: mod \: n = 27^{43} \: mod \: 352 = 323$ `missing: Square and multip
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTE5NjU3NywtMjEzOTA3NjQ5OCwyMD
+eyJoaXN0b3J5IjpbLTMwNTk1MDU5NCwtMjEzOTA3NjQ5OCwyMD
 Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
 NDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3Mj
 YsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5
