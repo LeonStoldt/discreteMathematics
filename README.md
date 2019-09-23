@@ -1053,7 +1053,7 @@ $C= jmlw qez ipr jqowwmmx$
 > 5.	Das Tupel $(n, e)$ ist der public key
 > 
 > **Konstruktion des private key**
-> 
+> 1.	Berechne $d$ in ($1 \lt d \lt \phi (n)$) als das multiplikative Inverse zu $e$
 
 
 ### Primzahltests
@@ -1062,7 +1062,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgyOTQ5MjMsLTE2NjI2ODAzNTksLT
+eyJoaXN0b3J5IjpbLTEzNzk1MzQ1MjEsLTE2NjI2ODAzNTksLT
 IxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2
 NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMT
 k3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2
