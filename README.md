@@ -1073,7 +1073,9 @@ $C= jmlw qez ipr jqowwmmx$
 *Beispiel Ver- und Entschlüsselung eines Texts mithilfe von RSA:*#
 1.	Bildung des öffentlichen Schlüssels:
 $p = 17, q = 23$
-$\phi (n) = (p - 1) * (q - 1) = 16 * 22 = $
+$\phi (n) = (p - 1) * (q - 1) = 16 * 22 = 352$
+$$
+
 2.	Bildung des privaten Schlüssels:
 
 3.	Verschlüsselung der Nachricht:
@@ -1088,7 +1090,7 @@ $\phi (n) = (p - 1) * (q - 1) = 16 * 22 = $
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA5NjIxMDksLTE0NzE2MjYyMjYsLT
+eyJoaXN0b3J5IjpbLTE2ODI1MTQ0NTUsLTE0NzE2MjYyMjYsLT
 E2NjI2ODAzNTksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAz
 NTEyNTEyLDg2NzE2NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC
 0xNzA3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2
