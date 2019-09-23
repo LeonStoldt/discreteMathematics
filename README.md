@@ -1072,8 +1072,12 @@ $C= jmlw qez ipr jqowwmmx$
 
 *Beispiel Ver- und Entschlüsselung eines Texts mithilfe von RSA:*#
 1.	Bildung des öffentlichen Schlüssels:
+$p = 17, q = 23$
 2.	Bildung des privaten Schlüssels:
-3.	V
+
+3.	Verschlüsselung der Nachricht:
+
+4.	Entschlüsselung der Nachricht:
 
 
 
@@ -1083,7 +1087,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTcwNzg4LC0xNDcxNjI2MjI2LC0xNj
+eyJoaXN0b3J5IjpbODE3Mzk4NTI4LC0xNDcxNjI2MjI2LC0xNj
 YyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUx
 MjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00Njg0ODM4MiwtMT
 cwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1
