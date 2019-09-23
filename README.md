@@ -995,6 +995,8 @@ $C= jmlw qez ipr jqowwmmx$
 > 4.	Koinzidenzen auf bekannte Werte prüfen ($\kappa_{DE} (m) \approx 0,0762, \kappa_{RND} (m) \approx 0,0385$ )
 > 5.	Bei passenden Koinzidenzen sind die Spalten jeweils monoalphabetisch verschlüsselt (da die wahrscheinliche Schlüssellänge bekannt ist)
 
+> **Perfekte Sicherheit**
+> 
 
 
 ### Euler und Fermat
@@ -1007,11 +1009,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTczNzAsLTQ2ODQ4MzgyLC0xNzA3Mz
-U2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIx
-LDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMD
-U5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4
-LC01NTgyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMT
-EzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4
-ODI4OF19
+eyJoaXN0b3J5IjpbMTg3NzIzNTkyLC00Njg0ODM4MiwtMTcwNz
+M1NjAsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUy
+MSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MT
+A1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0
+OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLT
+ExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4
+ODgyODhdfQ==
 -->
