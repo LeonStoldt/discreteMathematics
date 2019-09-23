@@ -1029,7 +1029,9 @@ $C= jmlw qez ipr jqowwmmx$
 > 
 > *Beispiel:*
 > $7^{222} mod \: 10$
-> 1.	$ggT(7,10) = 1, \$
+> 1.	$ggT(7,10) = 1, \phi (10) = 4$
+> 2.	$7^4 \equiv 1 \: (mod \: 10)$
+> 3.	$7^{222} = 7^{4*55 + 2} = 7^4)$
 > 
 > **Satz von Fermat**
 > $$a^{p-1} \equiv_p 1, \:\: (p \text{ ist Primzahl}, a \in \N, 1 \leq a \leq p-1)$$
@@ -1042,11 +1044,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTU2OTU4OSwtMjEyMDQzOTkwMiwtMT
-QyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAx
-MCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01ND
-A2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUy
-NCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LD
-c2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5NjQ0MCwtMTUyODQ3
-NTU4MV19
+eyJoaXN0b3J5IjpbNjQyMjE5LC0yMTIwNDM5OTAyLC0xNDI0Mj
+cyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00
+Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYxND
+IwMywtMTgwNjA1MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0x
+Nzc5ODY0OTM0LDE3MTA1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNT
+UyNDMzLDcyMDExOTE0OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgx
+XX0=
 -->
