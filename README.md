@@ -1020,6 +1020,8 @@ $C= jmlw qez ipr jqowwmmx$
 > $\phi(n)$ ist die Anzahl der teilerfremden, natürlichen Zahlen zu $n$ im Bereich $[1,n]$.
 > 
 > Berechnung der Phi-Funktion
+> -	 Wenn $p \text{ ist Primzahl}$, dann $\phi(p) = p -1$
+> -	
 
 ### RSA-Verschlüsselung
 
@@ -1029,11 +1031,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNz
-M1NjAsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUy
-MSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MT
-A1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0
-OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLT
-ExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4
-ODgyODhdfQ==
+eyJoaXN0b3J5IjpbODY3MTY1NzI2LDE2OTkwNDAxMCwtNDY4ND
+gzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMs
+LTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OT
+g2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQz
+Myw3MjAxMTkxNDgsLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtND
+k3NTYzNzA1LC0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5
+MDg3XX0=
 -->
