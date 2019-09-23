@@ -1053,7 +1053,8 @@ $C= jmlw qez ipr jqowwmmx$
 > 5.	Das Tupel $(n, e)$ ist der public key
 > 
 > **Konstruktion des private key**
-> 1.	Berechne $d$ in ($1 \lt d \lt \phi (n)$) als das multiplikative Inverse zu $e$
+> 1.	Berechne $d$ in ($1 \lt d \lt \phi (n)$) als das multiplikative Inverse zu $e$ in $\Z_{\phi (n)} \rightarrow e * d \equiv_{\phi (n)} 1$ (Berechnung durch den erweiterten euklidischen Alogrithmus)
+> 
 
 
 ### Primzahltests
@@ -1062,11 +1063,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk1MzQ1MjEsLTE2NjI2ODAzNTksLT
-IxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2
-NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMT
-k3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2
-MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NS
-wtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgy
-OTY0NDBdfQ==
+eyJoaXN0b3J5IjpbMjc3MTY4OTI1LC0xNjYyNjgwMzU5LC0yMT
+IwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3
+MjYsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nz
+c5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUyMSw0NjQ4NjM5
+MjAsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MTA1OTkwNTUsLT
+E1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0OCwtNTU4Mjk2
+NDQwXX0=
 -->
