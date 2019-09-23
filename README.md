@@ -1057,7 +1057,11 @@ $C= jmlw qez ipr jqowwmmx$
 > 2.	Das Tupel $(n, d)$ ist der private key
 > 
 > **Verschlüsselung**
-> $c = $
+> $c$ = Geheimtext
+> $$ = m 
+> $$ = 
+> $$ =
+> $c = m^e \: mod \: n$
 
 
 ### Primzahltests
@@ -1066,7 +1070,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzQyMjc3NywtMTY2MjY4MDM1OSwtMj
+eyJoaXN0b3J5IjpbMTEwNDY2ODE3NywtMTY2MjY4MDM1OSwtMj
 EyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1
 NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOT
 c3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYz
