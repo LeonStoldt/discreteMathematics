@@ -1095,9 +1095,9 @@ $1= 3 -2 \\
 1 = 3 * 43 - 16 * 8 \\
 1 = 3 * 43 - 16 * (352 - 8 * 43) \\
 1 = 131 * 43 - 16 * 352 \\
-d = [131]_{352} = [336]_{352}$
+d = [131]_{352}$
 
-$privatekey(352, 336)$ `WRONG!`
+$privatekey(352, 131)$
 
 
 3.	Verschlüsselung der Nachricht:
@@ -1106,7 +1106,7 @@ c = m^e \: mod \: n = 27^{43} \: mod \: 352 = 323$ `missing: Square and multiply
 
 4.	Entschlüsselung der Nachricht:
 $c = 323 \\
-m = c^d \: mod \: n = 323^{336} \: mod \: 352 = 257$
+m = c^d \: mod \: n = 323^{131} \: mod \: 352 = 257$
 
 
 ### Primzahltests
@@ -1115,11 +1115,11 @@ m = c^d \: mod \: n = 323^{336} \: mod \: 352 = 257$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNzA3MDQ1LC0xODA5MzQ5Nzg0LDE3Mz
-c1NjgwMDgsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwtMTQ3MTYy
-NjIyNiwtMTY2MjY4MDM1OSwtMjEyMDQzOTkwMiwtMTQyNDI3Mj
-UzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAxMCwtNDY4
-NDgzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMD
-MsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3
-OTg2NDkzNF19
+eyJoaXN0b3J5IjpbLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMT
+czNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcx
+NjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0Mj
+cyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00
+Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYxND
+IwMywtMTgwNjA1MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0x
+Nzc5ODY0OTM0XX0=
 -->
