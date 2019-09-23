@@ -1078,8 +1078,8 @@ $1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43$
 $publickey(352, 43)$
 
 2.	Bildung des privaten Schlüssels:
-multiplikatives Inverse:	$$
-
+multiplikatives Inverse:	
+$352 = 8 * $
 
 3.	Verschlüsselung der Nachricht:
 
@@ -1093,11 +1093,11 @@ multiplikatives Inverse:	$$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1Njk3MzAxLDIwNDU4MjIxNDgsLTE0Nz
-E2MjYyMjYsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MDIsLTE0MjQy
-NzI1MzAsMjAzNTEyNTEyLDg2NzE2NTcyNiwxNjk5MDQwMTAsLT
-Q2ODQ4MzgyLC0xNzA3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0
-MjAzLC0xODA2MDUzNTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLT
-E3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1
-NTI0MzNdfQ==
+eyJoaXN0b3J5IjpbLTEyODk4NTAsMjA0NTgyMjE0OCwtMTQ3MT
+YyNjIyNiwtMTY2MjY4MDM1OSwtMjEyMDQzOTkwMiwtMTQyNDI3
+MjUzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAxMCwtND
+Y4NDgzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQy
+MDMsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMT
+c3OTg2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1
+MjQzM119
 -->
