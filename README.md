@@ -1028,7 +1028,7 @@ $C= jmlw qez ipr jqowwmmx$
 > $$a^{\phi (n)} \equiv_n 1, \:\: (a,n \in \N \land ggT(a,n) = 1)$$
 > 
 > **Satz von Fermat**
-> $$a^{p-1} \equiv_p 1, \:\: (p \text{ ist Primzahl})$$
+> $$a^{p-1} \equiv_p 1, \:\: (p \text{ ist Primzahl}, a \in \N, 1 \leq a \leq p-1)$$
 
 ### RSA-Verschlüsselung
 
@@ -1038,11 +1038,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2Nz
-E2NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwt
-MTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2ND
-g2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1
-NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NT
-gyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMTEzNjI5
-NjA2M119
+eyJoaXN0b3J5IjpbLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMj
+AzNTEyNTEyLDg2NzE2NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4Mzgy
+LC0xNzA3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xOD
+A2MDUzNTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5
+MzQsMTcxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNz
+IwMTE5MTQ4LC01NTgyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2
+MzcwNV19
 -->
