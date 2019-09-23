@@ -1045,8 +1045,11 @@ $C= jmlw qez ipr jqowwmmx$
 > 	-	private key (*Entschlüsseln* / *Signieren der Nachricht*)
 > 	-	public key (*Verschlüsseln* / *Prüfen der Nachricht*)
 >
-> **Konstruktion des private key**
->
+> **Konstruktion des public key**
+> 1.	Wähle zwei sehr große Primzahlen $p$ und $q$
+> 2.	$n = p * q$
+> 3.	$\phi (n) = $
+> 
 > **Konstruktion des private key**
 
 
@@ -1056,11 +1059,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjIxODk1NiwtMTY2MjY4MDM1OSwtMj
-EyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1
-NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOT
-c3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYz
-OTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC
-0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5
-NjQ0MF19
+eyJoaXN0b3J5IjpbLTEzNzQxNDEwMTIsLTE2NjI2ODAzNTksLT
+IxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2
+NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMT
+k3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2
+MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NS
+wtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgy
+OTY0NDBdfQ==
 -->
