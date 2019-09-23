@@ -1074,8 +1074,8 @@ $C= jmlw qez ipr jqowwmmx$
 1.	Bildung des öffentlichen Schlüssels:
 $p = 17, q = 23$
 $\phi (n) = (p - 1) * (q - 1) = 16 * 22 = 352$
-$1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43$
-$publickey(352, 43)$
+$1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ Wähle $e = 43 \\
+publickey(352, 43)$
 
 2.	Bildung des privaten Schlüssels:
 multiplikatives Inverse:	
@@ -1094,7 +1094,8 @@ $1= 3 -2 \\
 1 = 3 * 43 - 16 * 8 \\
 1 = 3 * 43 - 16 * (352 - 8 * 43) \\
 1 = 131 * 43 - 16 * 352 \\
-d = -16$
+d = [-16]_{352} = [336]_{352}$
+
 
 
 
@@ -1110,7 +1111,7 @@ d = -16$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTEyNzI0NiwtMjEzOTA3NjQ5OCwyMD
+eyJoaXN0b3J5IjpbMTQ0NDk0MjQ2OSwtMjEzOTA3NjQ5OCwyMD
 Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
 NDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3Mj
 YsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5
