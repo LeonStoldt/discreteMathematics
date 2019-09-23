@@ -1049,7 +1049,7 @@ $C= jmlw qez ipr jqowwmmx$
 > 1.	Wähle zwei sehr große Primzahlen $p$ und $q$
 > 2.	$n = p * q$
 > 3.	$\phi (n) = (p-1) * (q-1)$ `// siehe Berechnung des Satzes von Euler`
-> 4.	Wähle eine 
+> 4.	Wähle eine zu $\phi (n)$ teilerfremde Zahl $e$ ($ggT(e, \phi (n)) = 1$) mit $1 \lt e \lt \phi (n)$
 > 
 > **Konstruktion des private key**
 
@@ -1060,7 +1060,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDE5MzcyNywtMTY2MjY4MDM1OSwtMj
+eyJoaXN0b3J5IjpbLTMzOTMxODk5OSwtMTY2MjY4MDM1OSwtMj
 EyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1
 NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOT
 c3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYz
