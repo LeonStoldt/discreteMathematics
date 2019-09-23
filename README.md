@@ -1004,7 +1004,10 @@ $C= jmlw qez ipr jqowwmmx$
 > **One Time Pad Verfahren**
 > -	ist ein perfekt sicheres Kryptosystem
 > -	basiert auf dem Vigenère Verfahren, mit folgenden Vorgaben:
->	- Schlüssellänge = Klartextlänge
+>	-	Schlüssellänge = Klartextlänge
+> 	-	Schlüsselbuchstaben sind **zufällig** gewählt
+> 	-	Schlüssel darf nur einmal verwendet werden
+> -	Schwieri
 
 ### Euler und Fermat
 
@@ -1016,11 +1019,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkzMTA3OTYsLTQ2ODQ4MzgyLC0xNz
-A3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUz
-NTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMT
-cxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5
-MTQ4LC01NTgyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNS
-wtMTEzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4
-ODg4ODI4OF19
+eyJoaXN0b3J5IjpbMTc0NjU5NTY4MSwtNDY4NDgzODIsLTE3MD
+czNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1
+MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNz
+EwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkx
+NDgsLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC
+0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMDg4
+ODg4Mjg4XX0=
 -->
