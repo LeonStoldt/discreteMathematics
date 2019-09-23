@@ -1089,15 +1089,10 @@ $352 = 8 * 43 + 8 \\
 Euklidischer Algorithmus rückwärts:
 $1= 3 -2 \\
 1 = 3 - (8 - 2*3) \\
-8 = 2 * 3 + 2 \\
-3 = 1 * 2 + 1 \\
-2 = 2 * 1 + 0$
-
-$1 = 3 - 2 \\ 
-1 = 3 - (8 - 2*3) \\$
-
 1 = 3 * 3 - 8 \\
-1 = $
+1 = 3 * (43 - 5 * 8) - 8 \\
+3 = 3 * 1 + 0$
+
 
 
 3.	Verschlüsselung der Nachricht:
@@ -1112,11 +1107,11 @@ $1 = 3 - 2 \\
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTM0NjUxMiwtMjEzOTA3NjQ5OCwyMD
-Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
-NDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3Mj
-YsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5
-MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUyMSw0NjQ4NjM5Mj
-AsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MTA1OTkwNTUsLTE1
-MjYxMTQ2NTddfQ==
+eyJoaXN0b3J5IjpbLTE2NDI0MzMwNjksLTIxMzkwNzY0OTgsMj
+A0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OSwtMjEy
+MDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1Nz
+I2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOTc3
+OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYzOT
+IwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC0x
+NTI2MTE0NjU3XX0=
 -->
