@@ -1073,6 +1073,7 @@ $C= jmlw qez ipr jqowwmmx$
 *Beispiel Ver- und Entschlüsselung eines Texts mithilfe von RSA:*#
 1.	Bildung des öffentlichen Schlüssels:
 $p = 17, q = 23$
+$\phi (n) = (p - 1) * (q - 1) = 16 * 22 = $
 2.	Bildung des privaten Schlüssels:
 
 3.	Verschlüsselung der Nachricht:
@@ -1087,11 +1088,11 @@ $p = 17, q = 23$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3Mzk4NTI4LC0xNDcxNjI2MjI2LC0xNj
-YyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUx
-MjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00Njg0ODM4MiwtMT
-cwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1
-MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LD
-E3MTA1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDEx
-OTE0OF19
+eyJoaXN0b3J5IjpbLTE0MDA5NjIxMDksLTE0NzE2MjYyMjYsLT
+E2NjI2ODAzNTksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAz
+NTEyNTEyLDg2NzE2NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC
+0xNzA3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2
+MDUzNTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5Mz
+QsMTcxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIw
+MTE5MTQ4XX0=
 -->
