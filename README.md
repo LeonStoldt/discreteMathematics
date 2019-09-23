@@ -1050,8 +1050,10 @@ $C= jmlw qez ipr jqowwmmx$
 > 2.	$n = p * q$
 > 3.	$\phi (n) = (p-1) * (q-1)$ `// siehe Berechnung des Satzes von Euler`
 > 4.	Wähle eine zu $\phi (n)$ teilerfremde Zahl $e$ ($ggT(e, \phi (n)) = 1$) mit $1 \lt e \lt \phi (n)$
+> 5.	Das Tupel $(n, e)$ ist der public key
 > 
 > **Konstruktion des private key**
+> 
 
 
 ### Primzahltests
@@ -1060,11 +1062,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTMxODk5OSwtMTY2MjY4MDM1OSwtMj
-EyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1
-NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0xOT
-c3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYz
-OTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC
-0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkxNDgsLTU1ODI5
-NjQ0MF19
+eyJoaXN0b3J5IjpbLTE4MDgyOTQ5MjMsLTE2NjI2ODAzNTksLT
+IxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2
+NTcyNiwxNjk5MDQwMTAsLTQ2ODQ4MzgyLC0xNzA3MzU2MCwtMT
+k3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIxLDQ2NDg2
+MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMDU5OTA1NS
+wtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4LC01NTgy
+OTY0NDBdfQ==
 -->
