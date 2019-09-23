@@ -1018,6 +1018,8 @@ $C= jmlw qez ipr jqowwmmx$
 > **Eulersche Phi-Funktion**
 > $$\phi(n) = |\{a \in \N | 1 \leq a \leq n \land ggT(a,n) = 1\}|$$
 > $\phi(n)$ ist die Anzahl der teilerfremden, natürlichen Zahlen zu $n$ im Bereich $[1,n]$.
+> d
+> 
 
 ### RSA-Verschlüsselung
 
@@ -1027,7 +1029,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU2NTgwODgsLTQ2ODQ4MzgyLC0xNz
+eyJoaXN0b3J5IjpbLTE4NjMwNzA0OTAsLTQ2ODQ4MzgyLC0xNz
 A3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUz
 NTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMT
 cxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5
