@@ -1079,9 +1079,11 @@ $publickey(352, 43)$
 
 2.	Bildung des privaten Schlüssels:
 multiplikatives Inverse:	
-$352 = 8 * 43 + 8
-43 = 5 * 8 + 3
-$
+$352 = 8 * 43 + 8 \\
+43 = 5 * 8 + 3 \\
+8 = 2 * 3 + 2 \\
+3 = 1 * 2 + 1 \\
+2 = 2 * 1 + 0$
 
 
 3.	Verschlüsselung der Nachricht:
@@ -1096,11 +1098,11 @@ $
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0Mzg2NjAzLDIwNDU4MjIxNDgsLTE0Nz
-E2MjYyMjYsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MDIsLTE0MjQy
-NzI1MzAsMjAzNTEyNTEyLDg2NzE2NTcyNiwxNjk5MDQwMTAsLT
-Q2ODQ4MzgyLC0xNzA3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0
-MjAzLC0xODA2MDUzNTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLT
-E3Nzk4NjQ5MzQsMTcxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1
-NTI0MzNdfQ==
+eyJoaXN0b3J5IjpbMTc1NjMyMjUxMiwyMDQ1ODIyMTQ4LC0xND
+cxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0
+MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC
+00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYx
+NDIwMywtMTgwNjA1MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC
+0xNzc5ODY0OTM0LDE3MTA1OTkwNTUsLTE1MjYxMTQ2NTcsNzYx
+NTUyNDMzXX0=
 -->
