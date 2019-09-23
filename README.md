@@ -993,7 +993,7 @@ $C= jmlw qez ipr jqowwmmx$
 > h_i = \text{Häufigkeit des jeweiligen Buchstabens}
 > $$
 > 4.	Koinzidenzen auf bekannte Werte prüfen ($\kappa_{DE} (m) \approx 0,0762, \kappa_{RND} (m) \approx 0,0385$ )
-> 5.	Bei passenden Koinzidenzen sind die Spalten jeweils monoalphabetisch verschlüsselt
+> 5.	Bei passenden Koinzidenzen sind die Spalten jeweils monoalphabetisch verschlüsselt (da die wahrscheinliche Schlüssellänge bekannt ist)
 
 
 
@@ -1007,11 +1007,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM0MjkxOTEsLTQ2ODQ4MzgyLC0xNz
-A3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUz
-NTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMT
-cxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5
-MTQ4LC01NTgyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNS
-wtMTEzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4
-ODg4ODI4OF19
+eyJoaXN0b3J5IjpbMTg0NTczNzAsLTQ2ODQ4MzgyLC0xNzA3Mz
+U2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUzNTIx
+LDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMTcxMD
+U5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5MTQ4
+LC01NTgyOTY0NDAsLTE1Mjg0NzU1ODEsLTQ5NzU2MzcwNSwtMT
+EzNjI5NjA2MywxMTM3NTYxOTgsMTk5MjA0OTA4NywtMjA4ODg4
+ODI4OF19
 -->
