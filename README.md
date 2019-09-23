@@ -996,6 +996,7 @@ $C= jmlw qez ipr jqowwmmx$
 > 5.	Bei passenden Koinzidenzen sind die Spalten jeweils monoalphabetisch verschlüsselt (da die wahrscheinliche Schlüssellänge bekannt ist)
 
 > **Perfekte Sicherheit**
+> Sicherheit durch Ununterscheidbarkeit
 > 
 
 
@@ -1009,11 +1010,11 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzIzNTkyLC00Njg0ODM4MiwtMTcwNz
-M1NjAsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUy
-MSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC0xNzc5ODY0OTM0LDE3MT
-A1OTkwNTUsLTE1MjYxMTQ2NTcsNzYxNTUyNDMzLDcyMDExOTE0
-OCwtNTU4Mjk2NDQwLC0xNTI4NDc1NTgxLC00OTc1NjM3MDUsLT
-ExMzYyOTYwNjMsMTEzNzU2MTk4LDE5OTIwNDkwODcsLTIwODg4
-ODgyODhdfQ==
+eyJoaXN0b3J5IjpbMTQxMDcwODU1MywtNDY4NDgzODIsLTE3MD
+czNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1
+MjEsNDY0ODYzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNz
+EwNTk5MDU1LC0xNTI2MTE0NjU3LDc2MTU1MjQzMyw3MjAxMTkx
+NDgsLTU1ODI5NjQ0MCwtMTUyODQ3NTU4MSwtNDk3NTYzNzA1LC
+0xMTM2Mjk2MDYzLDExMzc1NjE5OCwxOTkyMDQ5MDg3LC0yMDg4
+ODg4Mjg4XX0=
 -->
