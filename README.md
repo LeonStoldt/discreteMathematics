@@ -1015,7 +1015,8 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Euler und Fermat
 
-
+> **Eulersche Phi-Funktion**
+> $$\phi(n) = |\{a$$
 
 ### RSA-Verschlüsselung
 
@@ -1025,7 +1026,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM1Njk5MjcsLTQ2ODQ4MzgyLC0xNz
+eyJoaXN0b3J5IjpbLTExNTA0MjY0NTgsLTQ2ODQ4MzgyLC0xNz
 A3MzU2MCwtMTk3NzkxNTAyOSwtNTQwNjE0MjAzLC0xODA2MDUz
 NTIxLDQ2NDg2MzkyMCw2MDY5NzU1MjQsLTE3Nzk4NjQ5MzQsMT
 cxMDU5OTA1NSwtMTUyNjExNDY1Nyw3NjE1NTI0MzMsNzIwMTE5
