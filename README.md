@@ -1074,7 +1074,7 @@ $C= jmlw qez ipr jqowwmmx$
 1.	Bildung des öffentlichen Schlüssels:
 $p = 17, q = 23$
 $\phi (n) = (p - 1) * (q - 1) = 16 * 22 = 352$
-$1 \lt e \lt 352$ mit $ggT(e, \phi)$
+$1 \lt e \lt 352$ mit $ggT(e, 352) = 1 \rightarrow$ 
 
 2.	Bildung des privaten Schlüssels:
 
@@ -1090,11 +1090,11 @@ $1 \lt e \lt 352$ mit $ggT(e, \phi)$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDE4MDc4OCwyMDQ1ODIyMTQ4LC0xND
-cxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0
-MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC
-00Njg0ODM4MiwtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYx
-NDIwMywtMTgwNjA1MzUyMSw0NjQ4NjM5MjAsNjA2OTc1NTI0LC
-0xNzc5ODY0OTM0LDE3MTA1OTkwNTUsLTE1MjYxMTQ2NTcsNzYx
-NTUyNDMzXX0=
+eyJoaXN0b3J5IjpbLTE1NjU3MzQ5MjIsMjA0NTgyMjE0OCwtMT
+Q3MTYyNjIyNiwtMTY2MjY4MDM1OSwtMjEyMDQzOTkwMiwtMTQy
+NDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAxMC
+wtNDY4NDgzODIsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2
+MTQyMDMsLTE4MDYwNTM1MjEsNDY0ODYzOTIwLDYwNjk3NTUyNC
+wtMTc3OTg2NDkzNCwxNzEwNTk5MDU1LC0xNTI2MTE0NjU3LDc2
+MTU1MjQzM119
 -->
