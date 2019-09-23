@@ -1025,7 +1025,7 @@ $C= jmlw qez ipr jqowwmmx$
 > -	Wenn $m, n \in \N$, dann $\phi(p) = \phi(m) * \phi(n)$
 
 > **Satz von Euler**
-> $$a^{\phi (n)} \equiv_n 1, \:\: a,n \in \N \land ggT($$
+> $$a^{\phi (n)} \equiv_n 1, \:\: (a,n \in \N \land ggT(a,n) = 1)$$
 
 ### RSA-Verschlüsselung
 
@@ -1035,7 +1035,7 @@ $C= jmlw qez ipr jqowwmmx$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDcxNzg0MywyMDM1MTI1MTIsODY3MT
+eyJoaXN0b3J5IjpbLTQyNzgwNzk1NCwyMDM1MTI1MTIsODY3MT
 Y1NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC0x
 OTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0OD
 YzOTIwLDYwNjk3NTUyNCwtMTc3OTg2NDkzNCwxNzEwNTk5MDU1
