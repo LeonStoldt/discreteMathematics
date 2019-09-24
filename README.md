@@ -1148,13 +1148,16 @@ $\pi (10) = 4 = |\{1,3,5,7\}|$
 
 > **Fermatsche Pseudoprimzahl**
 > $n \in \N, a \text{ mit } 1 \lt a \lt n$
-> $n \text}$
+> $n \text{ ist Pseudoprimzahl, falls } a^{n-1} \equiv_n 1$
+
+*Beispiel Fermatsche Pseudoprimzahl:*
+
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDY4NTA1OSwxNDYxNTY0NTExLDY5OD
+eyJoaXN0b3J5IjpbLTU4NDQ2NjMwMCwxNDYxNTY0NTExLDY5OD
 U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
 LDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MD
 kzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIy
