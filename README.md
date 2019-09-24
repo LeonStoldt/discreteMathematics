@@ -1151,7 +1151,7 @@ $\pi (10) = 4 = |\{1,3,5,7\}|$
 > $n \text{ ist Pseudoprimzahl, falls } a^{n-1} \equiv_n 1$
 
 *Beispiel Fermatsche Pseudoprimzahl:*
-$n = 74 \\
+$n = 91 \\
 2^{73} \not\equiv_{74} 1 \\
 3^{73} \not\equiv_{74} 1 \\
 4^{73} \equiv_{74} 1 \\
@@ -1160,17 +1160,17 @@ $n = 74 \\
 7^{73} \equiv_{74} 1 \\
 8^{73} \equiv_{74} 1 \\
 9^{73} \equiv_{74} 1$
-$73$ ist Pseudoprim zu x, y aber nicht zu y, z
+$91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2ODYxMTkzLDIwMDA3Mjk1NTgsMTQ2MT
-U2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0
-LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OT
-c2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0
-OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OS
-wtMjEyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3
-MTY1NzI2XX0=
+eyJoaXN0b3J5IjpbMTU2ODgyNzMxMCwyMDAwNzI5NTU4LDE0Nj
+E1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEy
+NCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNT
+k3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2
+NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNT
+ksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2
+NzE2NTcyNl19
 -->
