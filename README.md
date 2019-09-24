@@ -1130,7 +1130,9 @@ $c = 190\\
 m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 > **Warum ist RSA sicher?**
-> 
+> Es ist kein effizientes Verfahren bekannt, sehr große Zahlen zu faktorisieren
+> Entschlüsselung der Nachricht nur durch den $privatekey$ möglich.
+> Berechnung durch $d$ nur durch Primfaktoren m
 
 ### Primzahltests
 
@@ -1138,7 +1140,7 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDU2MjE4MSwzMzk2MjcxMjQsMzI2Nz
+eyJoaXN0b3J5IjpbLTM2MTA5MjEzOSwzMzk2MjcxMjQsMzI2Nz
 U3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMs
 LTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMD
 Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
