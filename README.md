@@ -1105,7 +1105,9 @@ $privatekey(391, 131)$
 $m = 27 \\
 c = m^e \: mod \: n = 27^{43} \: mod \: 391= 190$ `Square and multiply`
 
-> **Square a
+> **Square and Multiply Algorithmus**
+> $g^k \: mod \: n$
+> 1.	
 
 4.	Entschlüsselung der Nachricht:
 $c = 190\\
@@ -1120,7 +1122,7 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNjYwNjY4LDQ1MTI0MjE2LC0xNDI1OT
+eyJoaXN0b3J5IjpbMTA4NDIyNjQyLDQ1MTI0MjE2LC0xNDI1OT
 c2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0
 OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OS
 wtMjEyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3
