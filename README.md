@@ -1152,21 +1152,21 @@ $\pi (10) = 4 = |\{1,3,5,7\}|$
 
 *Beispiel Fermatsche Pseudoprimzahl:*
 $n = 74 \\
-2^{73} \equiv_{73} 1 \\
-3^{73} \equiv_{73} 1 \\
-4^{73} \equiv_{73} 1 \\
-5^{73} \equiv_{73} 1 \\
-6^{73} \equiv_{73} 1 \\
-7^{73} \equiv_{73} 1 \\
-8^{73} \equiv_{73} 1 \\
-9^{73} \equiv_{73} 1 \\$
+2^{73} \not\equiv_{74} 1 \\
+3^{73} \not\equiv_{74} 1 \\
+4^{73} \equiv_{74} 1 \\
+5^{73} \equiv_{74} 1 \\
+6^{73} \equiv_{74} 1 \\
+7^{73} \equiv_{74} 1 \\
+8^{73} \equiv_{74} 1 \\
+9^{73} \equiv_{74} 1$
 $73$ ist Pseudoprim zu x, y aber nicht zu y, z
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MjYxNTM1LDIwMDA3Mjk1NTgsMTQ2MT
+eyJoaXN0b3J5IjpbOTI2ODYxMTkzLDIwMDA3Mjk1NTgsMTQ2MT
 U2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0
 LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OT
 c2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0
