@@ -1174,11 +1174,15 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 > -	Problem: Starke Pseudoprimzahlen bestehen für manche Basen auch en Miller-Rabin-Test
 > Erhöhte Zuverlässigkeit des Tests durch wiederholte Ausführung mit anderen Basen
 
+
 ### Diskreter Logarithmus
+
+
+
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ4MDM4MDEsLTEyNDY2ODMwMjAsMj
+eyJoaXN0b3J5IjpbLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMj
 AwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0
 MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsND
 UxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2
