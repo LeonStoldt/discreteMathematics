@@ -1147,17 +1147,18 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 $\pi (10) = 4 = |\{1,3,5,7\}|$
 
 > **Fermatsche Pseudoprimzahl**
-> $n \in \N, a$
+> $n \in \N, a \text{ mit } 1 \lt a \lt n$
+> $n \text}$
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2MDg4MjQ4LDE0NjE1NjQ1MTEsNjk4NT
-UxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMs
-MTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOT
-M0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIx
-NDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MD
-IsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2NTcyNiwxNjk5
-MDQwMTBdfQ==
+eyJoaXN0b3J5IjpbMjAyMDY4NTA1OSwxNDYxNTY0NTExLDY5OD
+U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
+LDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MD
+kzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIy
+MTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OT
+AyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5
+OTA0MDEwXX0=
 -->
