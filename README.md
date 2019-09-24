@@ -1171,17 +1171,18 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 > Falls $a^{\frac{n-1}{2}} \equiv_n 1$, dann auch $a^{\frac{n-1}{4}} \equiv_n \pm 1$
 > 
 > Korrektheit
-> -	Problem
+> -	Problem: Starke Pseudoprimzahlen bestehen für manche Basen auch en Miller-Rabin-Test
+> Erhöhte Zuverlässigkeit des Tests durch wiederholte Ausführung mit anderen Basen
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODM0NDc0NCwtMTI0NjY4MzAyMCwyMD
-AwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQz
-NzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NT
-EyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4
-MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMj
-YsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAs
-MjAzNTEyNTEyXX0=
+eyJoaXN0b3J5IjpbLTE2MTQ4MDM4MDEsLTEyNDY2ODMwMjAsMj
+AwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0
+MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsND
+UxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2
+ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2Mj
+I2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMw
+LDIwMzUxMjUxMl19
 -->
