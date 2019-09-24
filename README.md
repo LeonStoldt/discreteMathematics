@@ -1136,18 +1136,24 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Primzahltests
 
-> **Finden 
+> **Finden einer geeignet großen Primzahl**
+> 1. Zunächst raten
+> 2.	dann testen
+> 
+> **Primzahlsatz**
+> 
+
 
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDMwMDEyLDY5ODU1MTkxMiwtMTY0MD
-E0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYs
-NDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNz
-U2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2
-MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNT
-MwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00Njg0
-ODM4Ml19
+eyJoaXN0b3J5IjpbLTQwOTM0NjcyMSw2OTg1NTE5MTIsLTE2ND
+AxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2
+LDQ1MTI0MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nzg0LDE3Mz
+c1NjgwMDgsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwtMTQ3MTYy
+NjIyNiwtMTY2MjY4MDM1OSwtMjEyMDQzOTkwMiwtMTQyNDI3Mj
+UzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAxMCwtNDY4
+NDgzODJdfQ==
 -->
