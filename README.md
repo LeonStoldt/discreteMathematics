@@ -1169,16 +1169,19 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 > Wenn $n \in P$ und $a^{n-1} \equiv_n 1$, dann:
 > $a^{\frac{n-1}{2}} \equiv_n 1$ oder $a^{\frac{n-1}{2}} \equiv_n -1$
 > Falls $a^{\frac{n-1}{2}} \equiv_n 1$, dann auch $a^{\frac{n-1}{4}} \equiv_n \pm 1$
+> 
+> Korrektheit
+> -	Problem
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxND
-YxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2Mjcx
-MjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0Mj
-U5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3
-NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMz
-U5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4
-NjcxNjU3MjZdfQ==
+eyJoaXN0b3J5IjpbMTMzODM0NDc0NCwtMTI0NjY4MzAyMCwyMD
+AwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQz
+NzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NT
+EyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4
+MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMj
+YsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAs
+MjAzNTEyNTEyXX0=
 -->
