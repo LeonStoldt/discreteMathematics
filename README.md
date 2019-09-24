@@ -1159,18 +1159,18 @@ $n = 73 \\
 6^{72} \equiv_{73} 1 \\
 7^{72} \equiv_{73} 1 \\
 8^{72} \equiv_{73} 1 \\
-2^{72} \equiv_{73} 1 \\$
+9^{72} \equiv_{73} 1 \\$
 $73$ ist Pseudoprim zu x, y aber nicht zu y, z
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4Njc1MTUxLDE0NjE1NjQ1MTEsNjk4NT
-UxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMs
-MTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOT
-M0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIx
-NDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MD
-IsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2NTcyNiwxNjk5
-MDQwMTBdfQ==
+eyJoaXN0b3J5IjpbMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5OD
+U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
+LDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MD
+kzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIy
+MTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OT
+AyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5
+OTA0MDEwXX0=
 -->
