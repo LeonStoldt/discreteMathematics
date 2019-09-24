@@ -1164,7 +1164,7 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 > **Miller-Rabin-Test**
 > Eingabe: $n \in \N \land \text{ungerade}$
-> Ausgabe:
+> Ausgabe: "$n \notin P$" oder "$n$ wahrscheinlich $\in P$"
 > 
 > Wenn $n \in P$ und $a^{n-1} \equiv_n 1$, dann:
 > $a^{\frac{n-1}{2}} \equiv_n 1$ oder $a^{\frac{n-1}{2}} \equiv_n -1$
@@ -1174,11 +1174,11 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODUyMTMzMSwyMDAwNzI5NTU4LDE0Nj
-E1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEy
-NCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNT
-k3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2
-NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNT
-ksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2
-NzE2NTcyNl19
+eyJoaXN0b3J5IjpbLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxND
+YxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2Mjcx
+MjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0Mj
+U5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3
+NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMz
+U5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4
+NjcxNjU3MjZdfQ==
 -->
