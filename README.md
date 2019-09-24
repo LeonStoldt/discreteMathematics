@@ -1163,19 +1163,21 @@ $n = 91 \\
 $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 > **Miller-Rabin-Test**
+> Eingabe:
+> Ausgabe
 > Wenn $n \in P$ und $a^{n-1} \equiv_n 1$, dann:
 > $a^{\frac{n-1}{2}} \equiv_n 1$ oder $a^{\frac{n-1}{2}} \equiv_n -1$
-> Falls $a^{\frac{n-1}{2}} \equiv_n 1$, dann auch $a^{\frac{n-1}{4}} \equiv_n \1$
+> Falls $a^{\frac{n-1}{2}} \equiv_n 1$, dann auch $a^{\frac{n-1}{4}} \equiv_n \pm 1$
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE2MDk3NDMsMjAwMDcyOTU1OCwxND
-YxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2Mjcx
-MjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0Mj
-U5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3
-NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMz
-U5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4
-NjcxNjU3MjZdfQ==
+eyJoaXN0b3J5IjpbOTE1MjU0NTcsMjAwMDcyOTU1OCwxNDYxNT
+Y0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQs
+MzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5Nz
+Y0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5
+OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC
+0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4Njcx
+NjU3MjZdfQ==
 -->
