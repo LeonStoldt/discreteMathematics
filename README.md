@@ -1152,21 +1152,21 @@ $\pi (10) = 4 = |\{1,3,5,7\}|$
 
 *Beispiel Fermatsche Pseudoprimzahl:*
 $n = 91 \\
-2^{73} \not\equiv_{74} 1 \\
-3^{73} \not\equiv_{74} 1 \\
-4^{73} \equiv_{74} 1 \\
-5^{73} \equiv_{74} 1 \\
-6^{73} \equiv_{74} 1 \\
-7^{73} \equiv_{74} 1 \\
-8^{73} \equiv_{74} 1 \\
-9^{73} \equiv_{74} 1$
-$91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2
+2^{90} \not\equiv_{91} 1 \\
+3^{90} \equiv_{91} 1 \\
+4^{90} \equiv_{91} 1 \\
+5^{90} \not\equiv_{91} 1 \\
+6^{90} \not\equiv_{91} 1 \\
+7^{90} \not\equiv_{91} 1 \\
+8^{90} \not\equiv_{91} 1 \\
+9^{90} \equiv_{91} 1$
+$91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODgyNzMxMCwyMDAwNzI5NTU4LDE0Nj
+eyJoaXN0b3J5IjpbMTgxMjI5NDY1NywyMDAwNzI5NTU4LDE0Nj
 E1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEy
 NCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNT
 k3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2
