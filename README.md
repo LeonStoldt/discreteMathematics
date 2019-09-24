@@ -1151,18 +1151,20 @@ $\pi (10) = 4 = |\{1,3,5,7\}|$
 > $n \text{ ist Pseudoprimzahl, falls } a^{n-1} \equiv_n 1$
 
 *Beispiel Fermatsche Pseudoprimzahl:*
-$n = 73, a = 12$
+$n = 73, a = 12 \\
+12^{}
+$
 $73$ ist Pseudoprim zu x, y aber nicht zu y, z
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2OTEzMjYzLDE0NjE1NjQ1MTEsNjk4NT
-UxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMs
-MTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOT
-M0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIx
-NDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTksLTIxMjA0Mzk5MD
-IsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2NzE2NTcyNiwxNjk5
-MDQwMTBdfQ==
+eyJoaXN0b3J5IjpbMTA0MTk3OTEyMCwxNDYxNTY0NTExLDY5OD
+U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
+LDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MD
+kzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIy
+MTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OT
+AyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5
+OTA0MDEwXX0=
 -->
