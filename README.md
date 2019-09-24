@@ -1109,6 +1109,7 @@ c = m^e \: mod \: n = 27^{43} \: mod \: 391= 190$ `Square and multiply`
 > $g^k \: mod \: n$
 > 1.	Zerlege $k$ in die Binärdarstellung
 > 2.	Berechne die Zweierpotenzen von g modulo n
+> 3.	Multipliziere die Ergebnisse miteinander, solange sie $\gt$ 0 sind
 
 4.	Entschlüsselung der Nachricht:
 $c = 190\\
@@ -1123,11 +1124,11 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNDU3NjAzLDQ1MTI0MjE2LC0xNDI1OT
-c2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0
-OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OS
-wtMjEyMDQzOTkwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3
-MTY1NzI2LDE2OTkwNDAxMCwtNDY4NDgzODIsLTE3MDczNTYwLC
-0xOTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4MDYwNTM1MjEsNDY0
-ODYzOTIwXX0=
+eyJoaXN0b3J5IjpbLTEyMzU3NjY0MDcsNDUxMjQyMTYsLTE0Mj
+U5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3
+NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMz
+U5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4
+NjcxNjU3MjYsMTY5OTA0MDEwLC00Njg0ODM4MiwtMTcwNzM1Nj
+AsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgwNjA1MzUyMSw0
+NjQ4NjM5MjBdfQ==
 -->
