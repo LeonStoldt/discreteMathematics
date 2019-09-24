@@ -1163,13 +1163,14 @@ $n = 91 \\
 $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 > **Miller-Rabin-Test**
-> 
+> Wenn $n \in P$ und $a^{n-1} \equiv_n 1$, dann:
+> $a^{\frac{}{}}$
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjQ2MTUwOCwyMDAwNzI5NTU4LDE0Nj
+eyJoaXN0b3J5IjpbMTU4MTcwNzMwOSwyMDAwNzI5NTU4LDE0Nj
 E1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEy
 NCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNT
 k3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2
