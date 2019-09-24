@@ -1105,6 +1105,8 @@ $privatekey(391, 131)$
 $m = 27 \\
 c = m^e \: mod \: n = 27^{43} \: mod \: 391= 190$ `Square and multiply`
 
+---
+
 > **Square and Multiply Algorithmus**
 > $g^k \: mod \: n$
 > 1.	Zerlege $k$ in die Binärdarstellung
@@ -1114,7 +1116,7 @@ c = m^e \: mod \: n = 27^{43} \: mod \: 391= 190$ `Square and multiply`
 *Square and multiply am Bsp:*
 $27^{43}$
 1.	$43 = 32 + 8 + 2 + 1 = 2^5 + 2^3 + 2^1 + 2^0$
-2.
+2.	$27^{43} = $
 
 ---
 
@@ -1122,7 +1124,6 @@ $27^{43}$
 $c = 190\\
 m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
-`continue S. 62`
 
 
 ### Primzahltests
@@ -1131,7 +1132,7 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTMxMzMyMyw0NTEyNDIxNiwtMTQyNT
+eyJoaXN0b3J5IjpbMTQ1OTI1OTU5NSw0NTEyNDIxNiwtMTQyNT
 k3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2
 NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNT
 ksLTIxMjA0Mzk5MDIsLTE0MjQyNzI1MzAsMjAzNTEyNTEyLDg2
