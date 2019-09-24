@@ -1147,21 +1147,21 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 $\pi (10) = 4 = |\{1,3,5,7\}|$
 
 > **Fermatsche Pseudoprimzahl**
-> $n \in \N, a \text{ mit } 1 \lt a \lt n$
+> $n \in \N \land \notin P, a \text{ mit } 1 \lt a \lt n$
 > $n \text{ ist Pseudoprimzahl, falls } a^{n-1} \equiv_n 1$
 
 *Beispiel Fermatsche Pseudoprimzahl:*
-
+$$
 
 ### Diskreter Logarithmus
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDQ2NjMwMCwxNDYxNTY0NTExLDY5OD
-U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
-LDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MD
-kzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIy
-MTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OT
-AyLC0xNDI0MjcyNTMwLDIwMzUxMjUxMiw4NjcxNjU3MjYsMTY5
-OTA0MDEwXX0=
+eyJoaXN0b3J5IjpbLTE5OTQxMzMwNjMsMTQ2MTU2NDUxMSw2OT
+g1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1
+MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2NDYzLC0xOD
+A5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OTgsMjA0NTgy
+MjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OSwtMjEyMDQzOT
+kwMiwtMTQyNDI3MjUzMCwyMDM1MTI1MTIsODY3MTY1NzI2LDE2
+OTkwNDAxMF19
 -->
