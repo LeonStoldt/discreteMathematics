@@ -1117,7 +1117,7 @@ c = m^e \: mod \: n = 27^{43} \: mod \: 391= 190$ `Square and multiply`
 $27^{43}$
 1.	$43 = 32 + 8 + 2 + 1 = 2^5 + 2^3 + 2^1 + 2^0$
 2.	$27^{43} = 27^{2^5} + 27^{2^3} + 27^{2} + 27^{1}$
-3.	$27^{2^5} = 27^{32}= 27^{2^5}\\
+3.	$27^{2^5} = 27^{32}= (27^{16})^2 =  \\
 27^{2^3} \\
 27^{2} \\
 27^{1}$
@@ -1136,11 +1136,11 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDM4NDk5NSwxNzgxMDYxMTM2LDQ1MT
-I0MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1Njgw
-MDgsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNi
-wtMTY2MjY4MDM1OSwtMjEyMDQzOTkwMiwtMTQyNDI3MjUzMCwy
-MDM1MTI1MTIsODY3MTY1NzI2LDE2OTkwNDAxMCwtNDY4NDgzOD
-IsLTE3MDczNTYwLC0xOTc3OTE1MDI5LC01NDA2MTQyMDMsLTE4
-MDYwNTM1MjFdfQ==
+eyJoaXN0b3J5IjpbMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMj
+QyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAw
+OCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC
+0xNjYyNjgwMzU5LC0yMTIwNDM5OTAyLC0xNDI0MjcyNTMwLDIw
+MzUxMjUxMiw4NjcxNjU3MjYsMTY5OTA0MDEwLC00Njg0ODM4Mi
+wtMTcwNzM1NjAsLTE5Nzc5MTUwMjksLTU0MDYxNDIwMywtMTgw
+NjA1MzUyMV19
 -->
