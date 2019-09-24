@@ -1125,11 +1125,12 @@ $27^{43}$
 
 ---
 
-4.	Entschlüsselung der Nachricht:
+6.	Entschlüsselung der Nachricht:
 $c = 190\\
 m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
-
+> **Warum ist RSA sicher?**
+> 
 
 ### Primzahltests
 
@@ -1137,7 +1138,7 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDk2NDI0MiwzMzk2MjcxMjQsMzI2Nz
+eyJoaXN0b3J5IjpbLTY2MDU2MjE4MSwzMzk2MjcxMjQsMzI2Nz
 U3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMs
 LTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMD
 Q1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIw
