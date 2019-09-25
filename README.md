@@ -1216,19 +1216,19 @@ privatekey = 1$
 > $y^{(p - 1) - a} * c \\ = (g^b)^{p - 1 - a} * c \\ = g^{b * (p - 1 - a)} * c \\ = g^{(p - 1) * b} * g^{-a * b} * c \\ = 1^b * g^{-a * b} * c \\ = g^{-a * b} * c \\ = g^{-a * b} * (m * g^{a * b)}  \\ = m$
 
 *Beispiel ElGamal:*
-$p = 23; g = 7 \\
-a = 5 \\
+$p = 23; g = 7; m = 8 \\
+a = 5 \rightarrow x = g^a \: mod \: p = 7^5 \: mod \: 23 = \\
 b = 3 \\
-d$
+\_$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDEzNDcwMCw4MjU4NzM0ODEsLTE4Nj
-IzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2
-ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMi
-wtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEw
-NjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3OD
-QsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0x
-NDcxNjI2MjI2XX0=
+eyJoaXN0b3J5IjpbLTE0NzcwNjM1OTcsODI1ODczNDgxLC0xOD
+YyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2
+NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MT
+IsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgx
+MDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nz
+g0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwt
+MTQ3MTYyNjIyNl19
 -->
