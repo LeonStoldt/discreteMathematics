@@ -1179,15 +1179,17 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 > **Definition: Diskreter Logarithmus**
 > Der diskrete Logarithmus von $m$ zur Basis $a$ ist der kleinste Exponent $x$ der Gleichung $a^x \equiv m \: mod \: p$ mit $(m,a \in \N; p \in P)$
+> $g^x \: mod \: p = y$
+> $x = dlog_g (y)$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLT
-EyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1
-MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLD
-E3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkz
-NDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMT
-Q4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5LC0yMTIwNDM5OTAy
-LC0xNDI0MjcyNTMwXX0=
+eyJoaXN0b3J5IjpbLTU5NDgxNTM4NywtMTczMTk1NTE5OSwtMT
+gxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1
+NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNC
+wzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3
+NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2ND
+k4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTks
+LTIxMjA0Mzk5MDJdfQ==
 -->
