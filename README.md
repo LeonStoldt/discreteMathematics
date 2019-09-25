@@ -1191,15 +1191,18 @@ $x = dlog_{-4} (13)$
 > **Diffie-Hellman-Key-Exchange**
 > Diffie-Hellman-Key-Exchange ist ein Verfahren zum Austausch eines symmetrischen Schlüssels über ein unsicheres Medium und basiert auf den aufwendigen Berechnungen diskreter Logarithmen.
 > 
+> Ablauf:
+> 1.	Sender und Empfänger wählen öffentlich eine große Primzahl $p$ und ein erzeugendes Element $g$.
+> 2.	
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTc1OTk3NSwtMTczMTk1NTE5OSwtMT
-gxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1
-NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNC
-wzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3
-NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2ND
-k4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTks
-LTIxMjA0Mzk5MDJdfQ==
+eyJoaXN0b3J5IjpbODc0ODA4MDQxLC0xNzMxOTU1MTk5LC0xOD
+E2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2
+NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LD
+MyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2
+NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OT
+gsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OSwt
+MjEyMDQzOTkwMl19
 -->
