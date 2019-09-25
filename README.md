@@ -1199,13 +1199,13 @@ $x = dlog_{-4} (13)$
 
 *Beispiel Diffie-Hellman-Key-Exchange:*
 $p = 7;\: g = (-4) \\
-a = 9 \rightarrow x = g^a \: mod \: p = (-4)^9\\
+a = 9 \rightarrow x = g^a \: mod \: p = (-4)^9 \: mod \: 7 = 6\\
 b = 12$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE4MjI0MzMsLTE4NjIzNzM1NjksLT
+eyJoaXN0b3J5IjpbLTEzODg3NDg3MzcsLTE4NjIzNzM1NjksLT
 E3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAw
 MDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0Mz
 cxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUx
