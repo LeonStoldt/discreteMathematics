@@ -1262,13 +1262,13 @@ $p = 31; \: g = 17; \: y = 23$
 > **Hash Funktion**
 > Eine Hash-Funktion bildet Zeichenfolgen beliebiger Längen auf Zeichenfolgen fester Längen ab.
 > -	Die Nachricht ist aus dem Hash nicht rekonstruierbar
-> Zwei unterschiedli
+> -	Zwei unterschiedliche Nachrichten produzieren niemals denselben Hash
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mzk2NDEyNiw3OTY3MzQzNTUsMTA5OT
-A0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3ODQ2ODQ2
-LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0xODYyMz
-czNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2Njgz
-MDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLT
-E2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYx
-MTM2XX0=
+eyJoaXN0b3J5IjpbOTg0NjI0Miw3OTY3MzQzNTUsMTA5OTA0OT
+U1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3ODQ2ODQ2LDg2
+ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0xODYyMzczNT
+Y5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIw
+LDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLTE2ND
+AxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2
+XX0=
 -->
