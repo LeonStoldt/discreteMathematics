@@ -1210,16 +1210,17 @@ privatekey = 1$
 > 
 > Ablauf:
 > 1.	Wie bei dem Diffie-Hellman-Key-Exchange wird auch hier ein $g$ und eine Primzahl $p$ bestimmt.
-> 2.	Sender und Empfänger wählen jeweils ein geheimes $a \text{ bzw. } b und bilden nach Diffie-Hellma$
+> 2.	Sender und Empfänger wählen jeweils ein geheimes $a \text{ bzw. } b$ und bilden nach Diffie-Hellman ihr $x \text{ bzw. } y$ als öffentlichen Schlüssel.
+> 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODIyNTIzMSwtMTg2MjM3MzU2OSwtMT
-czMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAw
-NzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNz
-EwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEy
-NDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MD
-A4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYs
-LTE2NjI2ODAzNTldfQ==
+eyJoaXN0b3J5IjpbLTExMTA2OTU5NjQsLTE4NjIzNzM1NjksLT
+E3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAw
+MDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0Mz
+cxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUx
+MjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2OD
+AwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2
+LC0xNjYyNjgwMzU5XX0=
 -->
