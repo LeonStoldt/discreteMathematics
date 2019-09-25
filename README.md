@@ -1224,10 +1224,11 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 \text{Entschlüsselung: } m = y^{p-1-a} * c \: mod \: p = 21^{17} * 20 \: mod \: 23 = 8$
 
 > **Baby-Step-Giant-Step - Algorithmus**
+> Dieser Algorithmus dient zur effizienteren Berechnung des diskreten Logarithmus.
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTAxNTI3NSwtMjA2OTU1MDcsODI1OD
+eyJoaXN0b3J5IjpbLTgzMTE2MjU3OCwtMjA2OTU1MDcsODI1OD
 czNDgxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgz
 MDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMS
 w2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1
