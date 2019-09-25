@@ -1183,20 +1183,20 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 *Beispiel diskreter Logarithmus:*
 $y = 13;\: g= -4;\: p = 7$
 $x = dlog_{-4} (13)$
-|  |  |  |  |  |  |  |  |
-|--|--|--|--|--|--|--|--|
-| $x$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
-| $(-4)^x \: mod \: p$ | 1 | 3 | 2 | 6 | 4 | 5 | 1 |
+|  |  |  |  |  |  |  |  | Bemerkungen |
+|--|--|--|--|--|--|--|--|--|
+| $x$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 |  |
+| $(-4)^x \: mod \: p$ | 1 | 3 | 2 | 6 | 4 | 5 | 1 |  |
 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MDU2MCwtMTczMTk1NTE5OSwtMTgxNj
-k4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1
-MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMj
-Y3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2
-MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LD
-IwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTksLTIx
-MjA0Mzk5MDJdfQ==
+eyJoaXN0b3J5IjpbLTMwMTU3NjE5MywtMTczMTk1NTE5OSwtMT
+gxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1
+NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNC
+wzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3
+NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2ND
+k4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTks
+LTIxMjA0Mzk5MDJdfQ==
 -->
