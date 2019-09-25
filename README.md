@@ -1268,11 +1268,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 
 > Ablauf:
 > 1.	Die Kommunikationspartner einigen sich auf eine Hashfunktion.
-> 2.	Der Sender übermittelt den Hashwert der Nachricht an den Empfänger
-> 3.	Der Sender übermittelt ebenfalls das signierte Dokument (Signatur + Nachricht) an den Empfänger
-> 4.	
+> 2.	Der Sender übermittelt den **Hashwert der Nachricht** an den Empfänger
+> 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
+> 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk1MjQzMzksOTg0NjI0Miw3OTY3Mz
+eyJoaXN0b3J5IjpbLTIwMzQ0OTMzMzYsOTg0NjI0Miw3OTY3Mz
 QzNTUsMTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEs
 MTc3ODQ2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczND
 gxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3
