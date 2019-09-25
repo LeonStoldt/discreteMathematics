@@ -257,8 +257,8 @@ graph TD
 
 > **Informationserhaltungssatz für Hasse Diagramme**
 > Wenn die Ordnungsrelation $\leq$ eine 
-> -	**endliche Menge** ist, gilt: $(\leq^{N})^{*} = \leq$
-> -	**beliebige Menge** ist, gilt: $(\leq^{N})^{*} \subseteq \leq$ 
+> -	**endliche Menge** ist, gilt: $(\leq^{N})^{*} = \:\leq$
+> -	**beliebige Menge** ist, gilt: $(\leq^{N})^{*} \subseteq \: \leq$ 
 > 
 > Die Nachbarschaftsrelation ist also ausreichend zur Beschreibung der Ordnungsrelation, da mithilfe der transitiv-reflexiven Hülle dir Relation vollständig konstruiert werden kann.
 > 
@@ -1272,11 +1272,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5OD
-Q2MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0Njcs
-MTgyMTExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NT
-UwNyw4MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTks
-LTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxND
-YxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2Mjcx
-MjRdfQ==
+eyJoaXN0b3J5IjpbMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNz
+kxMTE0OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTks
+MTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MD
+k4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwt
+MTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMD
+AwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQz
+NzEwXX0=
 -->
