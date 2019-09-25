@@ -1211,12 +1211,12 @@ privatekey = 1$
 > Ablauf:
 > 1.	Wie bei dem Diffie-Hellman-Key-Exchange wird auch hier ein $g$ und eine Primzahl $p$ bestimmt.
 > 2.	Sender und Empfänger wählen jeweils ein geheimes $a \text{ bzw. } b$ und bilden nach Diffie-Hellman ihr $x \text{ bzw. } y$ als öffentlichen Schlüssel.
-> 3.	Zur Verschlüsselung rechnet der Sender $c = m * x^b \: mod \: p \text{ bzw. } y^a$
+> 3.	Zur Verschlüsselung rechnet der Sender (hier B) $c = m * x^b \: mod \: p = m * g^{a * b} \: mod \: p$ und sendet $(y,c)$ and den Empfänger (hier A).
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTIwNDIwLC0xODYyMzczNTY5LC0xNz
+eyJoaXN0b3J5IjpbMjA3OTIyMTQyLC0xODYyMzczNTY5LC0xNz
 MxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3
 Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MT
 AsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0
