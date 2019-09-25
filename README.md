@@ -1195,16 +1195,18 @@ $x = dlog_{-4} (13)$
 > 1.	Sender und Empfänger wählen öffentlich eine große Primzahl $p$ und ein erzeugendes Element $g$.
 > 2.	Der Sender und Empfänger bilden jeweils eine geheime Zahl $a \text{ bzw. } b$ und bilden damit $x = g^a \: mod \: p \text{ bzw. } y = g^b \: mod \: p$. $x \text{ bzw. } y$ schicken sie jeweils an den anderen.
 > Der gemeinsame $privatekey$ ergibt sich dann durch $g^{a*b} \: mod \: p = z$
-> Den gemeinsamen $privatekey$ berechnen die beiden jeweils durch $y^a \: mod \: p = (g^b)^a \: mod \: p = g^{a*b} \: mod \: p = z \$
+> 3.	Den gemeinsamen $privatekey$ berechnen die beiden jeweils durch $y^a \: mod \: p = (g^b)^a \: mod \: p = g^{a*b} \: mod \: p = z \text{ bzw. } x^b \: mod \: p = (g^a)^b \: mod \: p = g^{a*b} \: mod \: p = z$
+
+*Beispiel Diffie-Hellman-Key-Exchange:*
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODAzMzI1NCwtMTczMTk1NTE5OSwtMT
-gxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1
-NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNC
-wzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3
-NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5MDc2ND
-k4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYsLTE2NjI2ODAzNTks
-LTIxMjA0Mzk5MDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLT
+E4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYx
+NTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMj
+QsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5
+NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3Nj
+Q5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5
+LC0yMTIwNDM5OTAyXX0=
 -->
