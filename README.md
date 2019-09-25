@@ -1221,13 +1221,13 @@ a = 5 \rightarrow x = g^a \: mod \: p = 7^5 \: mod \: 23 = 17 \\
 b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 \text{Verschlüsselung: } c = m * x^b = 20 \\
 \text{übermittelt wird: } (21, 20) \\
-\text{Entschlüsselung: } \\
+\text{Entschlüsselung: } m = y^{p-1-a} * c =  \\
 \_$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgxOTMwNCw4MjU4NzM0ODEsLTE4Nj
+eyJoaXN0b3J5IjpbMTI2MTg0NDk2MSw4MjU4NzM0ODEsLTE4Nj
 IzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2
 ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMi
 wtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEw
