@@ -1248,22 +1248,22 @@ $p = 31; \: g = 17; \: y = 23$
 |--|--|--|--|--|--|--|
 | q | 0 | 1 | 2 | 3 | 4 | 5 |
 | $17^{q * 6} \: mod \: 31$ | 1 | 8 | 2 | 16 | 4 | 1 |
-3.	Baby Steps Tabelle: $17^{-r} \: mod \: 31 = (17^{-1})^r \: mod \: 31 = (17^{29})^r \: mod \: 31 = 11$ - `multipilikatives Inverse zu 17 kann hier schnell berechnet werden, da 17 eine Primzahl ist` $\rightarrow g^{-1} = g^{p - 2}$
+3.	Baby Steps Tabelle: $17^{-r} \: mod \: 31 = (17^{-1})^r \: mod \: 31 = (17^{29})^r \: mod \: 31 = 11^r$ - `multipilikatives Inverse zu 17 kann hier schnell berechnet werden, da 17 eine Primzahl ist` $\rightarrow g^{-1} = g^{p - 2}$
 
 | Baby Steps |  |  |  |  | |  |
 |--|--|--|--|--|--|--|
-| r | 0 | 1 | 2 | 3 | 4 | 5 |
-| $23 * 11^{r} \: mod \: 31$ | 1 | 17 | 10 | 15 | 7 | 26 |
+| r | 0 | 1 | 2 | **3** | 4 | 5 |
+| $23 * 11^{r} \: mod \: 31$ | 23 | 5 | 24 | **16** | 21 | 14 |
 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDk0NzM0Myw3OTY3MzQzNTUsMTA5OT
-A0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3ODQ2ODQ2
-LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0xODYyMz
-czNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2Njgz
-MDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLT
-E2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYx
-MTM2XX0=
+eyJoaXN0b3J5IjpbLTE4MjY0MTAyNDEsNzk2NzM0MzU1LDEwOT
+kwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0
+Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2Mj
+M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
+MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC
+0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2
+MTEzNl19
 -->
