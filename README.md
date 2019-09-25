@@ -37,7 +37,7 @@ graph LR
 `1.1.3 vereinfachtes Pfeildiagramm`
 *Pfeildiagramm kann vereinfacht werden, wenn die beiden Mengen **identisch** sind.*
 
-*Beispiel: $R = \{(1,2); (1,5); (1,6); (2,2); (2,4)\}$ci
+*Beispiel: $R = \{(1,2); (1,5); (1,6); (2,2); (2,4)\}$
 ```mermaid
 graph LR
 1((1)) --> 2((2))
@@ -1272,11 +1272,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDE2OTgwOCwtNzkxMTE0OTA1LDk4ND
-YyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2Nywx
-ODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NT
-A3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1NTE5OSwt
-MTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0Nj
-E1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEy
-NF19
+eyJoaXN0b3J5IjpbLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5OD
+Q2MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0Njcs
+MTgyMTExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NT
+UwNyw4MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTks
+LTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxND
+YxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2Mjcx
+MjRdfQ==
 -->
