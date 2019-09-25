@@ -590,11 +590,11 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > Eigenschaften von Äquivalenzklassen, die anhand eines Repräsentanten festgelegt werden müssen bewiesen werden, dass die unabhängig vom Repräsentanten gelten.
 
 *Beispiel: Beweis Unabhängigkeit vom Repräsentanten*
-zu beweisen: $(\Z /m, \oplus)$
-gegeben: $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
-zu zeigen: $[a+b]_m = [x+y]_m$
-nach Voraussetzung: $o, p \in \Z$, so dass $a-x = o*m$ und $b-y = p*m$
-dann gilt: 
+`zu beweisen:` $(\Z /m, \oplus)$
+`gegeben:` $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
+`zu zeigen:` $[a+b]_m = [x+y]_m$
+`nach Voraussetzung:` $o, p \in \Z$, so dass $a-x = o*m$ und $b-y = p*m$
+`dann gilt:` 
 $a + b - (x - y)$
 $= a - x + b - y$
 $= o * m + p * m$
@@ -1270,11 +1270,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0MjY0MDA4LDE3NDEzNjczNDYsLTE4ND
-QxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwx
-MDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4ND
-Y4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4
-NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyND
-Y2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkx
-Ml19
+eyJoaXN0b3J5IjpbMTkwMjAyMzEwMCwxNzQxMzY3MzQ2LC0xOD
+Q0MTUyMDU0LC03OTExMTQ5MDUsOTg0NjI0Miw3OTY3MzQzNTUs
+MTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3OD
+Q2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0x
+ODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMj
+Q2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5
+MTJdfQ==
 -->
