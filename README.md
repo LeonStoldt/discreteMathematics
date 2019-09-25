@@ -1201,13 +1201,14 @@ $x = dlog_{-4} (13)$
 $p = 7;\: g = (-4) \\
 A: a = 9 \rightarrow x = g^a \: mod \: p = (-4)^9 \: mod \: 7 = 6\\
 B: b = 12 \rightarrow y = g^b \: mod \: p = (-4)^{12} \: mod \: 7 = 1 \\
-A: z = y^{a} \: mod \: p = 1^9 \\
-B:$
+A: z = y^{a} \: mod \: p = 1^9 \: mod \: 7 = 1\\
+B: z = x^{b} \: mod \: p = 6^12 \: mod \: 7 = 1 \\
+privatekey = 1$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA2MzkxNjIsLTE4NjIzNzM1NjksLT
+eyJoaXN0b3J5IjpbLTIwOTI3MzI2NjMsLTE4NjIzNzM1NjksLT
 E3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAw
 MDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0Mz
 cxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUx
