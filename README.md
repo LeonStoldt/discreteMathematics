@@ -1263,12 +1263,14 @@ $p = 31; \: g = 17; \: y = 23$
 > Eine Hash-Funktion bildet Zeichenfolgen beliebiger Längen auf Zeichenfolgen fester Längen ab.
 > -	Die Nachricht ist aus dem Hash nicht rekonstruierbar
 > -	Zwei unterschiedliche Nachrichten produzieren niemals denselben Hash
+> -	Integritätsprüfung auch ohne Verschlüsselung der Nachricht möglich
+> -	Integrität gewährleistet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0NjI0Miw3OTY3MzQzNTUsMTA5OTA0OT
-U1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3ODQ2ODQ2LDg2
-ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0xODYyMzczNT
-Y5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIw
-LDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLTE2ND
-AxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2
+eyJoaXN0b3J5IjpbMTQxMzQ3MzkzNiw5ODQ2MjQyLDc5NjczND
+M1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwx
+Nzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0OD
+EsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcs
+LTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5OD
+U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
 XX0=
 -->
