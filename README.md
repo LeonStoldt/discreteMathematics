@@ -1268,13 +1268,15 @@ $p = 31; \: g = 17; \: y = 23$
 > 
 > Ablauf:
 > 1.	Die Kommunikationspartner einigen sich auf eine Hashfunktion.
-> 2.	
+> 2.	Der Sender übermittelt den Hashwert der Nachricht an den Empfänger
+> 3.	Der Sender übermittelt ebenfalls das signierte Dokument (Signatur + Nachricht) an den Empfänger
+> 4.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDYzNjIwNiw5ODQ2MjQyLDc5NjczND
-M1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwx
-Nzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0OD
-EsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcs
-LTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5OD
-U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
-XX0=
+eyJoaXN0b3J5IjpbLTEwOTk1MjQzMzksOTg0NjI0Miw3OTY3Mz
+QzNTUsMTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEs
+MTc3ODQ2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczND
+gxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3
+LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OT
+g1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1
+M119
 -->
