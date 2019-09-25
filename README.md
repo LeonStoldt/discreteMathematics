@@ -1260,13 +1260,13 @@ $p = 31; \: g = 17; \: y = 23$
 ### Integrität und Authentizität von Nachrichten
 
 > **Hash Funktion**
-> Eine Hash-Funktion h
+> Eine Hash-Funktion bildet Zeichenfolgen beliebiger Längen auf Zeichenfolgen fester Längen ab.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQzNTE2NTIsNzk2NzM0MzU1LDEwOT
-kwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0
-Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2Mj
-M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
-MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC
-0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2
-MTEzNl19
+eyJoaXN0b3J5IjpbMzYyODcxMzQ2LDc5NjczNDM1NSwxMDk5MD
+Q5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4NDY4NDYs
+ODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNz
+M1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMw
+MjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMT
+Y0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjEx
+MzZdfQ==
 -->
