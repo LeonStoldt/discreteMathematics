@@ -577,8 +577,6 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Definition: Endliche Algebraische Strukturen**
 > Eine endliche algebraische Struktur existiert, wenn Endlichkeit und Existenz gleichwertig sind.
 
-`Seite 176 - Aufgaben`
-
 ### 2.2 Restklassenoperationen
 
 > **Definition: Restklassenoperationen**
@@ -1272,11 +1270,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNz
-kxMTE0OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTks
-MTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MD
-k4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwt
-MTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMD
-AwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQz
-NzEwXX0=
+eyJoaXN0b3J5IjpbOTE0MjY0MDA4LDE3NDEzNjczNDYsLTE4ND
+QxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwx
+MDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4ND
+Y4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4
+NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyND
+Y2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkx
+Ml19
 -->
