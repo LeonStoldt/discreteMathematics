@@ -606,8 +606,6 @@ die korrekte Wahl des Repräsentanten vereinfacht werden.
 
 Außerdem können bei Unabhängigkeit des Repräsentanten 
 Kommutativ- und Assoziativgesetze angewendet werden.
-
-Ab Seite 180. Aufgaben
 ```
 
 ### 2.3 Gruppen
@@ -650,9 +648,9 @@ $|(\{1,2,3\}, +)| = 3$
 ### 2.4 Restklassengruppen mit Multiplikation
 
 *Beispiel: ggT durch Primfaktorzerlegung - ggT(240,420)*
-240 = 2 * 2 * (2 * 2 * 3 * 5)
-420 = (2 * 2 * 3 * 5) * 7
-ggT(240,420) = 2 * 2 * 3 * 5 = 60
+$240 = 2 * 2 * (2 * 2 * 3 * 5)$
+$420 = (2 * 2 * 3 * 5) * 7$
+$ggT(240,420) = 2 * 2 * 3 * 5 = 60$
 
 > **Definition: "div" und "mod"**
 > $a = q * b + r$
@@ -1270,7 +1268,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjAyMzEwMCwxNzQxMzY3MzQ2LC0xOD
+eyJoaXN0b3J5IjpbLTUwNDUwMzIzNSwxNzQxMzY3MzQ2LC0xOD
 Q0MTUyMDU0LC03OTExMTQ5MDUsOTg0NjI0Miw3OTY3MzQzNTUs
 MTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3OD
 Q2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0x
