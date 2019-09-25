@@ -25,6 +25,8 @@ graph LR
 3 --> c
 4((4)) --> a
 ```
+$$ \\
+$$
 `1.1.2 Matrixschreibweise (Adjazenzmatrix)`
 |$M$ \ $N$| a | b | c |
 |--|--|--|--|
@@ -1268,11 +1270,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3ND
-EzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQy
-LDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMT
-ExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4
-MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MT
-Y5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0
-NTExXX0=
+eyJoaXN0b3J5IjpbMTc2NTgwNTM4MSwtMjAzNjU3MzE1LC01MD
+Q1MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0
+OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyOD
+kyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQs
+LTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMT
+k1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5
+NTU4XX0=
 -->
