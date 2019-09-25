@@ -1232,17 +1232,19 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 > 	-	Baby Steps ($r$)
 > 
 > Berechnung:
-> 1.	$s = \lceil \swrt{p-1} \: \rceil$
+> 1.	$s = \lceil \sqrt{p-1} \: \rceil$
+> 2.	$x = q * s + r$ mit $q,r \in [0, s - 1]$
+> 3.	y
 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyODk2MDc0LDg2ODcwOTg4NCwtMjA2OT
-U1MDcsODI1ODczNDgxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5
-LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMT
-Q2MTU2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3
-MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xND
-I1OTc2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkw
-NzY0OThdfQ==
+eyJoaXN0b3J5IjpbLTEzMjk5MjE5OTMsODY4NzA5ODg0LC0yMD
+Y5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUx
+OTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OC
+wxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2
+MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLT
+E0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEz
+OTA3NjQ5OF19
 -->
