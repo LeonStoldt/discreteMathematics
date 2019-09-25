@@ -1261,9 +1261,10 @@ $p = 31; \: g = 17; \: y = 23$
 
 > **Hash Funktion**
 > Eine Hash-Funktion bildet Zeichenfolgen beliebiger Längen auf Zeichenfolgen fester Längen ab.
-> -	Die Nachricht ist aud
+> -	Die Nachricht ist aus dem Hash nicht rekonstruierbar
+> Zwei unterschiedli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzgwMTMwMyw3OTY3MzQzNTUsMTA5OT
+eyJoaXN0b3J5IjpbLTY1Mzk2NDEyNiw3OTY3MzQzNTUsMTA5OT
 A0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3ODQ2ODQ2
 LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0xODYyMz
 czNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2Njgz
