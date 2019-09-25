@@ -1206,13 +1206,15 @@ B: z = x^{b} \: mod \: p = 6^12 \: mod \: 7 = 1 \\
 privatekey = 1$
 
 > **ElGamal-Kryptosystem**
-> Das ElGamal-Kryptosystem basiert auf der Idee des Diffie-Hellman-Key-Exchange.
+> Das ElGamal-Kryptosystem basiert auf der Idee des Diffie-Hellman-Key-Exchange und ist ein asymmetrisches Verschlüsselungsverfahren.
 > 
+> Ablauf:
+> 1.	Wie bei dem Diffie-Hellman-Key-Exchange wird auch hier 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzczNzE5NiwtMTg2MjM3MzU2OSwtMT
+eyJoaXN0b3J5IjpbMTQzMTgzOTAzOSwtMTg2MjM3MzU2OSwtMT
 czMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAw
 NzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNz
 EwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEy
