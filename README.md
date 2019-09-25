@@ -1244,8 +1244,9 @@ $p = 31; \: g = 17; \: y = 23$
 1.	$s = \lceil \sqrt{p-1} \: \rceil = \lceil \sqrt{30} \: \rceil = 6$
 2.	Giant Steps Tabelle
 
-| q | 0 |  |  |  |  |  |  |  |
-|--|--|
+ |  |  |  |  |  | |  |
+|--|--|--|--|--|--|--|
+| q | 0 | 1 | 2 | 3 | 4 | 5 |
 | $17^q \: mod \: 31$ |  |
 
 
@@ -1253,11 +1254,11 @@ $p = 31; \: g = 17; \: y = 23$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAxMTk2MTUsMTgyMTExNTI4MSwxNz
-c4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEs
-LTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLT
-EyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1
-MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLD
-E3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkz
-NDk3ODRdfQ==
+eyJoaXN0b3J5IjpbLTI1OTQ3MzQzMiwxODIxMTE1MjgxLDE3Nz
+g0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwt
+MTg2MjM3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMT
+I0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUx
+OTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMT
+c4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0
+OTc4NF19
 -->
