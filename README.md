@@ -1143,7 +1143,7 @@ m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
 $\pi (10) = 4 = |\{1,3,5,7\}|$
 
 > **Fermatsche Pseudoprimzahl**
-> $n \in \N \land \notin P, a \text{ mit } 1 \lt a \lt n$
+> $n \in \N \land \notin \mathbb{P}, a \text{ mit } 1 \lt a \lt n$
 > $n \text{ ist Pseudoprimzahl, falls } a^{n-1} \equiv_n 1$
 
 *Beispiel Fermatsche Pseudoprimzahl:*
@@ -1160,9 +1160,9 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 
 > **Miller-Rabin-Test**
 > Eingabe: $n \in \N \land \text{ungerade}$
-> Ausgabe: "$n \notin P$" oder "$n$ wahrscheinlich $\in P$"
+> Ausgabe: "$n \notin P$" oder "$n$ wahrscheinlich $\in \mathbb{P}$"
 > 
-> Wenn $n \in P$ und $a^{n-1} \equiv_n 1$, dann:
+> Wenn $n \in \mathbb{P}$ und $a^{n-1} \equiv_n 1$, dann:
 > $a^{\frac{n-1}{2}} \equiv_n 1$ oder $a^{\frac{n-1}{2}} \equiv_n -1$
 > Falls $a^{\frac{n-1}{2}} \equiv_n 1$, dann auch $a^{\frac{n-1}{4}} \equiv_n \pm 1$
 > 
@@ -1174,7 +1174,7 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 ### Diskreter Logarithmus
 
 > **Definition: Diskreter Logarithmus**
-> Der diskrete Logarithmus ($x = dlog_g (y)$) von $y$ zur Basis $g$ ist der kleinste Exponent $x$ der Gleichung $g^x \: mod \: p = y$ mit $(y \in [1, p-1]; g \in \Z; p \in P).$
+> Der diskrete Logarithmus ($x = dlog_g (y)$) von $y$ zur Basis $g$ ist der kleinste Exponent $x$ der Gleichung $g^x \: mod \: p = y$ mit $(y \in [1, p-1]; g \in \Z; p \in \mathbb{P}).$
 
 *Beispiel diskreter Logarithmus:*
 $y = 13;\: g= -4;\: p = 7$
@@ -1268,11 +1268,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDUwMzIzNSwxNzQxMzY3MzQ2LC0xOD
-Q0MTUyMDU0LC03OTExMTQ5MDUsOTg0NjI0Miw3OTY3MzQzNTUs
-MTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3OD
-Q2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0x
-ODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMj
-Q2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3ND
+EzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQy
+LDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMT
+ExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4
+MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MT
+Y5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0
+NTExXX0=
 -->
