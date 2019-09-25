@@ -1219,16 +1219,17 @@ privatekey = 1$
 $p = 23; g = 7; m = 8 \\
 a = 5 \rightarrow x = g^a \: mod \: p = 7^5 \: mod \: 23 = 17 \\
 b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
+c = m * x^b = 39304 \\
 \_$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjcwNzE5LDgyNTg3MzQ4MSwtMTg2Mj
-M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
-MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC
-0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2
-MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NC
-wxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0
-NzE2MjYyMjZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTQ5MDY5OTIsODI1ODczNDgxLC0xOD
+YyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2
+NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MT
+IsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgx
+MDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nz
+g0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwt
+MTQ3MTYyNjIyNl19
 -->
