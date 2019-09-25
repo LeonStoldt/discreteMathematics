@@ -1221,17 +1221,17 @@ a = 5 \rightarrow x = g^a \: mod \: p = 7^5 \: mod \: 23 = 17 \\
 b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 \text{Verschlüsselung: } c = m * x^b = 20 \\
 \text{übermittelt wird: } (21, 20) \\
-\text{Entschlüsselung: } m = y^{p-1-a} * c \: mod \: p = 21^{17} * 20 \: mod \: 23 =  \\
-\_$
+\text{Entschlüsselung: } m = y^{p-1-a} * c \: mod \: p = 21^{17} * 20 \: mod \: 23 = 8$
 
+> **Baby-Step-Giant-Step - Algorithmus**
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyOTg1OTY0LC0yMDY5NTUwNyw4MjU4Nz
-M0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMw
-MzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLD
-Y5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3
-NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLT
-E4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1
-ODIyMTQ4XX0=
+eyJoaXN0b3J5IjpbMjA1NTAxNTI3NSwtMjA2OTU1MDcsODI1OD
+czNDgxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgz
+MDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMS
+w2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1
+Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2NDYzLC
+0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OTgsMjA0
+NTgyMjE0OF19
 -->
