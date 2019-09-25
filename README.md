@@ -1213,16 +1213,16 @@ privatekey = 1$
 > 2.	Sender und Empfänger wählen jeweils ein geheimes $a \text{ bzw. } b$ und bilden nach Diffie-Hellman ihr $x \text{ bzw. } y$ als öffentlichen Schlüssel.
 > 3.	Zur Verschlüsselung rechnet der Sender (hier B) $c = m * x^b \: mod \: p = m * g^{a * b} \: mod \: p$ und sendet $(y,c)$ and den Empfänger.
 > 4.	Zur Entschlüsselung berechnet der Empfänger (hier A) 
-> $y^{(p - 1) - a} \\ = (g^b)^{p - 1 - a} \\ = g^{b * (p - 1 - a)} \\ = g^{(p - 1) * b} * g^{-a * b} \\ = 1^b * g^{-a * b} \\ = g^{-a * b}$
+> $y^{(p - 1) - a} * c \\ = (g^b)^{p - 1 - a} * c \\ = g^{b * (p - 1 - a)} * c \\ = g^{(p - 1) * b} * g^{-a * b} * c \\ = 1^b * g^{-a * b} * c \\ = g^{-a * b} * c \\ = g^{-a * b} * (m *$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1ODczNDgxLC0xODYyMzczNTY5LC0xNz
-MxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3
-Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MT
-AsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0
-MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMD
-gsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwt
-MTY2MjY4MDM1OV19
+eyJoaXN0b3J5IjpbMTM3NTczMjkwLDgyNTg3MzQ4MSwtMTg2Mj
+M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
+MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC
+0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2
+MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NC
+wxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0
+NzE2MjYyMjZdfQ==
 -->
