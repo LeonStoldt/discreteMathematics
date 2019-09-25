@@ -1200,18 +1200,18 @@ $x = dlog_{-4} (13)$
 *Beispiel Diffie-Hellman-Key-Exchange:*
 $p = 7;\: g = (-4) \\
 A: a = 9 \rightarrow x = g^a \: mod \: p = (-4)^9 \: mod \: 7 = 6\\
-B: b = 12 \rightarrow y = g^b \: mod \: p = (-4)^{12} \: mod \: 7 = 1
-A: 
+B: b = 12 \rightarrow y = g^b \: mod \: p = (-4)^{12} \: mod \: 7 = 1 \\
+A: z = y^{a} \: mod \: p = 1^9 \\
 B:$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjE0NTI2LC0xODYyMzczNTY5LC0xNz
-MxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3
-Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MT
-AsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0
-MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMD
-gsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwt
-MTY2MjY4MDM1OV19
+eyJoaXN0b3J5IjpbLTEwMTA2MzkxNjIsLTE4NjIzNzM1NjksLT
+E3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAw
+MDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0Mz
+cxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUx
+MjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2OD
+AwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2
+LC0xNjYyNjgwMzU5XX0=
 -->
