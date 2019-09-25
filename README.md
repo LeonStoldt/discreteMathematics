@@ -4,8 +4,8 @@
 ### 1.1 Allgemeine Relationen und deren Darstellung
 
 -	Relationen stellen Beziehungen zwischen Objekten dar
--	kann zur Beschreibung von Ordnungen und Äquivalenzen genutzt werden
--	Relation ist eine Menge
+-	Relationen können zur Beschreibung von Ordnungen und Äquivalenzen genutzt werden
+-	Relationen sind Mengen
 
 > **Definition: Relation**
 > Eine binäre Relation zwischen zwei Mengen ist eine Teilmenge des kartesischen Produkts:
@@ -1272,11 +1272,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczND
-M1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwx
-Nzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0OD
-EsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcs
-LTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5OD
-U1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUz
-XX0=
+eyJoaXN0b3J5IjpbLTkxMDE2OTgwOCwtNzkxMTE0OTA1LDk4ND
+YyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2Nywx
+ODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NT
+A3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1NTE5OSwt
+MTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0Nj
+E1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEy
+NF19
 -->
