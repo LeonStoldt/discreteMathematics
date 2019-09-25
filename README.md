@@ -1248,7 +1248,7 @@ $p = 31; \: g = 17; \: y = 23$
 |--|--|--|--|--|--|--|
 | q | 0 | 1 | 2 | 3 | 4 | 5 |
 | $17^{q * 6} \: mod \: 31$ | 1 | 8 | 2 | 16 | 4 | 1 |
-3.	Baby Steps Tabelle $17^{-r} \: mod \: p = (17^{-1})^r \: mod \: p = 11^r \: mod \: p$
+3.	Baby Steps Tabelle $17^{-r} \: mod \: 31 = (17^{-1})^r \: mod \: 31 = 11^r \: mod \: 31$
 
 | Baby Steps |  |  |  |  | |  |
 |--|--|--|--|--|--|--|
@@ -1259,11 +1259,11 @@ $p = 31; \: g = 17; \: y = 23$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4Mj
-ExMTUyODEsMTc3ODQ2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcs
-ODI1ODczNDgxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xOD
-E2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2
-NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LD
-MyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2
-NDYzXX0=
+eyJoaXN0b3J5IjpbNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyOD
+kyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQs
+LTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMT
+k1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5
+NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLD
+MzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIx
+Nl19
 -->
