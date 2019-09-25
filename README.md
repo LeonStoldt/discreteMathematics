@@ -1261,13 +1261,16 @@ $p = 31; \: g = 17; \: y = 23$
 
 > **Hash Funktion**
 > Eine Hash-Funktion bildet Zeichenfolgen beliebiger Längen auf Zeichenfolgen fester Längen ab.
-> Die Kommunikationspartner einigen sich dabei auf eine Hashfunktion.
 > -	Die Nachricht ist aus dem Hash nicht rekonstruierbar
 > -	Zwei unterschiedliche Nachrichten produzieren niemals denselben Hash
 > -	Integritätsprüfung auch ohne Verschlüsselung der Nachricht möglich
 > -	Integrität gewährleistet
+> 
+> Ablauf:
+> 1.	Die Kommunikationspartner einigen sich auf eine Hashfunktion.
+> 2.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjU2MDIwNSw5ODQ2MjQyLDc5NjczND
+eyJoaXN0b3J5IjpbLTc4NDYzNjIwNiw5ODQ2MjQyLDc5NjczND
 M1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwx
 Nzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0OD
 EsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcs
