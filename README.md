@@ -1209,12 +1209,13 @@ privatekey = 1$
 > Das ElGamal-Kryptosystem basiert auf der Idee des Diffie-Hellman-Key-Exchange und ist ein asymmetrisches Verschlüsselungsverfahren.
 > 
 > Ablauf:
-> 1.	Wie bei dem Diffie-Hellman-Key-Exchange wird auch hier 
+> 1.	Wie bei dem Diffie-Hellman-Key-Exchange wird auch hier ein $g$ und eine Primzahl $p$ bestimmt.
+> 2.	Sender und Empfänger wählen jeweils ein geheimes $a \text{ bzw. } b und bilden nach Diffie-Hellma$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTgzOTAzOSwtMTg2MjM3MzU2OSwtMT
+eyJoaXN0b3J5IjpbMTI0ODIyNTIzMSwtMTg2MjM3MzU2OSwtMT
 czMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAw
 NzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNz
 EwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEy
