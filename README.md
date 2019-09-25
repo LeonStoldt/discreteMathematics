@@ -1224,7 +1224,7 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 \text{Entschlüsselung: } m = y^{p-1-a} * c \: mod \: p = 21^{17} * 20 \: mod \: 23 = 8$
 
 > **Baby-Step-Giant-Step - Algorithmus**
-> Dieser Algorithmus dient zur effizienteren Berechnung des diskreten Logarithmus. (gesucht: $$)
+> Dieser Algorithmus dient zur effizienteren Berechnung des diskreten Logarithmus. (gesucht: $x = dlog_g (y) \text{ mit } g^x \: mod \: p = y$)
 > Ansatz:
 > -	Nutze $x = q * s + r$ mit $s = \lceil \sqrt{p-1} \: \rceil$
 > -	Teile Berechnung auf in 
@@ -1238,11 +1238,11 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIwNDk2NjQsODY4NzA5ODg0LC0yMD
-Y5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUx
-OTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OC
-wxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2
-MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLT
-E0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEz
-OTA3NjQ5OF19
+eyJoaXN0b3J5IjpbLTQyOTk2ODUyMyw4Njg3MDk4ODQsLTIwNj
+k1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1NTE5
+OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LD
+E0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYy
+NzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMT
+QyNTk3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MDA4LC0yMTM5
+MDc2NDk4XX0=
 -->
