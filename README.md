@@ -1193,16 +1193,16 @@ $x = dlog_{-4} (13)$
 > 
 > Ablauf:
 > 1.	Sender und Empfänger wählen öffentlich eine große Primzahl $p$ und ein erzeugendes Element $g$.
-> 2.	
+> 2.	Der Sender und Empfänger bilden jeweils eine geheime Zahl $a \text{ bzw. } b$ und bilden damit 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0ODA4MDQxLC0xNzMxOTU1MTk5LC0xOD
-E2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2
-NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LD
-MyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2
-NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMDgsLTIxMzkwNzY0OT
-gsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwtMTY2MjY4MDM1OSwt
-MjEyMDQzOTkwMl19
+eyJoaXN0b3J5IjpbLTE5NTgzMzYzNTQsLTE3MzE5NTUxOTksLT
+E4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYx
+NTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMj
+QsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5
+NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3Nj
+Q5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5
+LC0yMTIwNDM5OTAyXX0=
 -->
