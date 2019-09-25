@@ -1248,7 +1248,7 @@ $p = 31; \: g = 17; \: y = 23$
 |--|--|--|--|--|--|--|
 | q | 0 | 1 | 2 | 3 | 4 | 5 |
 | $17^{q * 6} \: mod \: 31$ | 1 | 8 | 2 | 16 | 4 | 1 |
-3.	Baby Steps Tabelle
+3.	Baby Steps Tabelle $17^{-r} = (17^{-1})^r = d$
 
 | Baby Steps |  |  |  |  | |  |
 |--|--|--|--|--|--|--|
@@ -1259,7 +1259,7 @@ $p = 31; \: g = 17; \: y = 23$
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDAzODg1MywxODIxMTE1MjgxLDE3Nz
+eyJoaXN0b3J5IjpbMTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nz
 g0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwt
 MTg2MjM3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMT
 I0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUx
