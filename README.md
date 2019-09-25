@@ -1221,17 +1221,17 @@ a = 5 \rightarrow x = g^a \: mod \: p = 7^5 \: mod \: 23 = 17 \\
 b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 \text{Verschlüsselung: } c = m * x^b = 20 \\
 \text{übermittelt wird: } (21, 20) \\
-\text{Entschlüsselung: } m = y^{p-1-a} * c =  \\
+\text{Entschlüsselung: } m = y^{p-1-a} * c \: mod \: p = 21^{18} * 20 \: mod \: 23 =  \\
 \_$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTg0NDk2MSw4MjU4NzM0ODEsLTE4Nj
-IzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2
-ODMwMjAsMjAwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMi
-wtMTY0MDE0MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEw
-NjExMzYsNDUxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3OD
-QsMTczNzU2ODAwOCwtMjEzOTA3NjQ5OCwyMDQ1ODIyMTQ4LC0x
-NDcxNjI2MjI2XX0=
+eyJoaXN0b3J5IjpbLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2Mj
+M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
+MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC
+0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2
+MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NC
+wxNzM3NTY4MDA4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0
+NzE2MjYyMjZdfQ==
 -->
