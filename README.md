@@ -1194,12 +1194,13 @@ $x = dlog_{-4} (13)$
 > Ablauf:
 > 1.	Sender und Empfänger wählen öffentlich eine große Primzahl $p$ und ein erzeugendes Element $g$.
 > 2.	Der Sender und Empfänger bilden jeweils eine geheime Zahl $a \text{ bzw. } b$ und bilden damit $x = g^a \: mod \: p \text{ bzw. } y = g^b \: mod \: p$. $x \text{ bzw. } y$ schicken sie jeweils an den anderen.
-> Der gemeinsame $privatekey$ ergibt dich d
+> Der gemeinsame $privatekey$ ergibt sich dann durch $g^{a*b} \: mod \: p = z$
+> Den gemeinsamen $$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDIwODgzNSwtMTczMTk1NTE5OSwtMT
+eyJoaXN0b3J5IjpbMTA1MTY5NjAyMiwtMTczMTk1NTE5OSwtMT
 gxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1
 NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNC
 wzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3
