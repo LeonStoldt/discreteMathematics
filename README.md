@@ -1198,15 +1198,17 @@ $x = dlog_{-4} (13)$
 > 3.	Den gemeinsamen $privatekey$ berechnen die beiden jeweils durch $y^a \: mod \: p = (g^b)^a \: mod \: p = g^{a*b} \: mod \: p = z \text{ bzw. } x^b \: mod \: p = (g^a)^b \: mod \: p = g^{a*b} \: mod \: p = z$
 
 *Beispiel Diffie-Hellman-Key-Exchange:*
+$p = 7;\: g = (-4)$
+$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLT
-E4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcyOTU1OCwxNDYx
-NTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0MzcxMCwzMzk2MjcxMj
-QsMzI2NzU3NzUzLDE3ODEwNjExMzYsNDUxMjQyMTYsLTE0MjU5
-NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2ODAwOCwtMjEzOTA3Nj
-Q5OCwyMDQ1ODIyMTQ4LC0xNDcxNjI2MjI2LC0xNjYyNjgwMzU5
-LC0yMTIwNDM5OTAyXX0=
+eyJoaXN0b3J5IjpbMTExNDMyNDY5MiwtMTg2MjM3MzU2OSwtMT
+czMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAw
+NzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNz
+EwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEy
+NDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MD
+A4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYs
+LTE2NjI2ODAzNTldfQ==
 -->
