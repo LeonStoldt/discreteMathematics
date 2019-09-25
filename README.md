@@ -1235,17 +1235,17 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 > 1.	$s = \lceil \sqrt{p-1} \: \rceil$
 > 2.	$x = q * s + r$ mit $q,r \in [0, s - 1]$
 > 3.	$y = g^x \: mod \: p = g^{q * s + r} \: mod \: p \\
-> g^{q * s} \: mod \: p = y * g^{-r} \: mod \: p$
+> \Leftrightarrow g^{q * s} \: mod \: p = y * g^{-r} \: mod \: p$
 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTExNTI4MSwxNzc4NDY4NDYsODY4Nz
-A5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNzM1Njks
-LTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMj
-AwMDcyOTU1OCwxNDYxNTY0NTExLDY5ODU1MTkxMiwtMTY0MDE0
-MzcxMCwzMzk2MjcxMjQsMzI2NzU3NzUzLDE3ODEwNjExMzYsND
-UxMjQyMTYsLTE0MjU5NzY0NjMsLTE4MDkzNDk3ODQsMTczNzU2
-ODAwOF19
+eyJoaXN0b3J5IjpbLTMyNjA0NjQwOSwxODIxMTE1MjgxLDE3Nz
+g0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwt
+MTg2MjM3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMT
+I0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUx
+OTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMT
+c4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0
+OTc4NF19
 -->
