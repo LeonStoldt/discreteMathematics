@@ -1211,16 +1211,17 @@ privatekey = 1$
 > Ablauf:
 > 1.	Wie bei dem Diffie-Hellman-Key-Exchange wird auch hier ein $g$ und eine Primzahl $p$ bestimmt.
 > 2.	Sender und Empfänger wählen jeweils ein geheimes $a \text{ bzw. } b$ und bilden nach Diffie-Hellman ihr $x \text{ bzw. } y$ als öffentlichen Schlüssel.
-> 3.	Zur Verschlüsselung rechnet der Sender (hier B) $c = m * x^b \: mod \: p = m * g^{a * b} \: mod \: p$ und sendet $(y,c)$ and den Empfänger (hier A).
+> 3.	Zur Verschlüsselung rechnet der Sender (hier B) $c = m * x^b \: mod \: p = m * g^{a * b} \: mod \: p$ und sendet $(y,c)$ and den Empfänger.
+> 4.	Zur Entschlüsselung berechnet der Empfänger (hier A) $y^{(p - 1) - a} = d$
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTIyMTQyLC0xODYyMzczNTY5LC0xNz
-MxOTU1MTk5LC0xODE2OTgzMDM3LC0xMjQ2NjgzMDIwLDIwMDA3
-Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5MTIsLTE2NDAxNDM3MT
-AsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNzgxMDYxMTM2LDQ1MTI0
-MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5Nzg0LDE3Mzc1NjgwMD
-gsLTIxMzkwNzY0OTgsMjA0NTgyMjE0OCwtMTQ3MTYyNjIyNiwt
-MTY2MjY4MDM1OV19
+eyJoaXN0b3J5IjpbLTI1Njk4NTUwMywtMTg2MjM3MzU2OSwtMT
+czMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAw
+NzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUxOTEyLC0xNjQwMTQzNz
+EwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMTc4MTA2MTEzNiw0NTEy
+NDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0OTc4NCwxNzM3NTY4MD
+A4LC0yMTM5MDc2NDk4LDIwNDU4MjIxNDgsLTE0NzE2MjYyMjYs
+LTE2NjI2ODAzNTldfQ==
 -->
