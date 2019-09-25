@@ -1228,13 +1228,14 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 > Ansatz:
 > -	Nutze $x = q * s + r$ mit $s = \lceil \sqrt{p-1} \: \rceil$
 > -	Teile Berechnung auf in 
-> 	-	d
+> 	-	Giant Steps ($q * s$)
+> 	-	Baby Steps ($r$)
 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzU5MzQ5MywtMjA2OTU1MDcsODI1OD
+eyJoaXN0b3J5IjpbMTMwOTIxMjA1OSwtMjA2OTU1MDcsODI1OD
 czNDgxLC0xODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgz
 MDM3LC0xMjQ2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMS
 w2OTg1NTE5MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1
