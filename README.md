@@ -712,8 +712,8 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > 2 --nein--> no((keine Lösung))
 > 2 --ja--> yes((eine / mehrere Lösungen))
 > yes --> 3((Euklid rückwärts))
-> 3 --> 4((Ergebnis * (b/ggT)))
-> 4 --> 5((kleinsten Repräsentanten finden))
+> 3 --> 4((Ergebnis * b/ggT))
+> 4 --> 5((kleinsten Repräsentanten))
 > 5 --> 6((Probe))
 > ```
 
@@ -1268,11 +1268,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI3MTQ1MzgsLTIwMzY1NzMxNSwtNT
-A0NTAzMjM1LDE3NDEzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTEx
-NDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mj
-g5MjM0NjcsMTgyMTExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0
-LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNzM1NjksLTE3Mz
-E5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMwMjAsMjAwMDcy
-OTU1OF19
+eyJoaXN0b3J5IjpbMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MD
+Q1MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0
+OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyOD
+kyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQs
+LTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMT
+k1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5
+NTU4XX0=
 -->
