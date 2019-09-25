@@ -1247,18 +1247,23 @@ $p = 31; \: g = 17; \: y = 23$
 | Giant Steps |  |  |  |  | |  |
 |--|--|--|--|--|--|--|
 | q | 0 | 1 | 2 | 3 | 4 | 5 |
+| $17^{q * 6} \: mod \: 31$ | 1 | 17 | 10 | 15 | 7 | 26 |
+3.	Baby Steps Tabelle
+
+| Baby Steps |  |  |  |  | |  |
+|--|--|--|--|--|--|--|
+| r | 0 | 1 | 2 | 3 | 4 | 5 |
 | $17^q \: mod \: 31$ | 1 | 17 | 10 | 15 | 7 | 26 |
-3.	
 
 
 
 ### Integrität und Authentizität von Nachrichten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNTk5MjI0LDE4MjExMTUyODEsMTc3OD
-Q2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1MDcsODI1ODczNDgxLC0x
-ODYyMzczNTY5LC0xNzMxOTU1MTk5LC0xODE2OTgzMDM3LC0xMj
-Q2NjgzMDIwLDIwMDA3Mjk1NTgsMTQ2MTU2NDUxMSw2OTg1NTE5
-MTIsLTE2NDAxNDM3MTAsMzM5NjI3MTI0LDMyNjc1Nzc1MywxNz
-gxMDYxMTM2LDQ1MTI0MjE2LC0xNDI1OTc2NDYzLC0xODA5MzQ5
-Nzg0XX0=
+eyJoaXN0b3J5IjpbMTkwMTk3NjkyNiwxODIxMTE1MjgxLDE3Nz
+g0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwt
+MTg2MjM3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMT
+I0NjY4MzAyMCwyMDAwNzI5NTU4LDE0NjE1NjQ1MTEsNjk4NTUx
+OTEyLC0xNjQwMTQzNzEwLDMzOTYyNzEyNCwzMjY3NTc3NTMsMT
+c4MTA2MTEzNiw0NTEyNDIxNiwtMTQyNTk3NjQ2MywtMTgwOTM0
+OTc4NF19
 -->
