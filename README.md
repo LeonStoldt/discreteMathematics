@@ -521,7 +521,7 @@ z((z))
 
 ```
 Bemerkung: Die Subtraktion von natürlichen Zahlen ist keine algebraische Struktur,
-da bei negativen Ergebnissen der Bereich der narütlichen Zahlen verlassen wird
+da bei negativen Ergebnissen der Bereich der natürlichen Zahlen verlassen wird
 ```
 
 **Darstellungsform: Verknüpfungstafel**
@@ -1265,11 +1265,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0NDUzNjgsLTIxMDkxNjg3OTYsMT
-k2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2
-NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNz
-k2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1
-MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNT
-g3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4
-MzAzN119
+eyJoaXN0b3J5IjpbLTE3Njk3NjU3NTIsLTE2ODk0NDUzNjgsLT
+IxMDkxNjg3OTYsMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1
+MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OT
+A1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyODky
+MzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLT
+IwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1
+NTE5OV19
 -->
