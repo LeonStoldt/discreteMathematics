@@ -1232,7 +1232,7 @@ b = 3 \rightarrow y = g^b \: mod \: p = 7^3 \: mod \: 23 = 21 \\
 > Giant Steps: $g^{q * s} \: mod \: p$ - `Speichere Werte in einer Tabelle`
 > Baby Steps $y * g^{-r} \: mod \: p$ - `solange bis der Wert einem der Giant Steps entspricht`
 
-*Beispiel: Baby-Step-Giant-Step_Algorithmus*
+*Beispiel: Baby-Step-Giant-Step-Algorithmus*
 $p = 31; \: g = 17; \: y = 23$
 1.	$s = \lceil \sqrt{p-1} \: \rceil = \lceil \sqrt{30} \: \rceil = 6$
 2.	Giant Steps Tabelle
@@ -1265,11 +1265,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk3NjU3NTIsLTE2ODk0NDUzNjgsLT
-IxMDkxNjg3OTYsMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1
-MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OT
-A1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyODky
-MzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLT
-IwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1
-NTE5OV19
+eyJoaXN0b3J5IjpbOTU4NzQ5ODE4LC0xNzY5NzY1NzUyLC0xNj
+g5NDQ1MzY4LC0yMTA5MTY4Nzk2LDE5NjIzNjQ5MDksLTIwMzY1
+NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjczNDYsLTE4NDQxNTIwNT
+QsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwxMDk5MDQ5
+NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4NDY4NDYsOD
+Y4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNzM1
+NjldfQ==
 -->
