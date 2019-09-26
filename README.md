@@ -176,7 +176,6 @@ C --> C
 D --> D
 B --> C
 ```
-`Aufgaben dazu auf Seite 141f.`
 
 ### 1.3 Ordnungsrelationen 
 
@@ -335,8 +334,6 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\}$
 > 
 > **Definition: Existenzsatz Infimum**
 > Eine Menge hat ein Infimum, wenn sie **nur eine** untere Grenze hat.
-
-`Beweis zur Übung: S. 156`
 
 
 ### 1.5 Verbände
@@ -1268,11 +1265,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkxNjg3OTYsMTk2MjM2NDkwOSwtMj
-AzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1
-MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOT
-kwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0
-Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2Mj
-M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
-MzAyMF19
+eyJoaXN0b3J5IjpbNzc1MTAzNjIwLC0yMTA5MTY4Nzk2LDE5Nj
+IzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjcz
+NDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5Nj
+czNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4
+MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4Nz
+M0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMw
+MzddfQ==
 -->
