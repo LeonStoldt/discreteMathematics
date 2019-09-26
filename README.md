@@ -296,7 +296,7 @@ graph TD
 5((5)) --- 1
 7((7)) --- 1
 ```
-| Teilmenge | maximale Elemente | größtes Elemente |
+| Teilmenge | maximale Elemente | größtes Element |
 |--|--|--|
 | $\{2,3,6\}$ | $\{6\}$ | 6 |
 | $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
@@ -318,7 +318,7 @@ graph TD
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 *Beispiel: Supremum / Infimum*
-| Teilmenge | Infimum | Supremum | minimalste Element | maximale Element |
+| Teilmenge | Infimum | Supremum | minimale Element | maximale Element |
 |--|--|--|--|--|
 | $\{2,3,6\}$ | $2$ | $6$ | $2$ | $6$ |
 | $[0,8)\in \R$ | $0$ | $8$ | 0 | $\{\}$ |
@@ -1265,11 +1265,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1MTAzNjIwLC0yMTA5MTY4Nzk2LDE5Nj
-IzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjcz
-NDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5Nj
-czNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4
-MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4Nz
-M0ODEsLTE4NjIzNzM1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMw
-MzddfQ==
+eyJoaXN0b3J5IjpbLTE4NDg5MDU4MDAsLTIxMDkxNjg3OTYsMT
+k2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2
+NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNz
+k2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1
+MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNT
+g3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4
+MzAzN119
 -->
