@@ -212,7 +212,7 @@ graph LR
 ```
 
 > **Definition: *totale* Ordnungsrelation**
-> Bei einer ***totalen* Ordnungerelation** sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
+> Bei einer ***totalen* Ordnungsrelation** sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
 > $\forall x, y \in M: (x,y) \in R \lor (y,x) \in R$
 >
 > Sollte diese Eigenschaft nicht gegeben sein, spricht man von einer ***partiellen* Ordnung / Teilordnung**
@@ -1268,11 +1268,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTIwMTUwLDE5NjIzNjQ5MDksLTIwMz
-Y1NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjczNDYsLTE4NDQxNTIw
-NTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwxMDk5MD
-Q5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4NDY4NDYs
-ODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNz
-M1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMw
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDkxNjg3OTYsMTk2MjM2NDkwOSwtMj
+AzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1
+MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOT
+kwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0
+Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2Mj
+M3MzU2OSwtMTczMTk1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4
+MzAyMF19
 -->
