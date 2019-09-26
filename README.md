@@ -539,7 +539,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Existenzsatz**
 > $\forall a,b \in M: \exists x \in M: a \circ x = b$
 > 
-> Angewendet auf die Verknüpfungstafel: Jedes Element kommt in jeder Zeile der Tabelle mind. einmal vor. (Bei $... x \circ a = b)$ kommt jedes Element in jeder Spalte mind. einmal vor.
+> Angewendet auf die Verknüpfungstafel: Jedes Element kommt in jeder Zeile der Tabelle mind. einmal vor. (Bei $... \:  x \circ a = b)$ kommt jedes Element in jeder Spalte mind. einmal vor.
 > 
 > **Eindeutigkeitssatz**
 > $\forall a,b \in M: \forall x,y \in M: (a \circ x = b) \land (a \circ y = b) \implies x = y$
@@ -1265,11 +1265,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NzQ5ODE4LC0xNzY5NzY1NzUyLC0xNj
-g5NDQ1MzY4LC0yMTA5MTY4Nzk2LDE5NjIzNjQ5MDksLTIwMzY1
-NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjczNDYsLTE4NDQxNTIwNT
-QsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwxMDk5MDQ5
-NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4NDY4NDYsOD
-Y4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNzM1
-NjldfQ==
+eyJoaXN0b3J5IjpbMTI1NDY5MTA4MCw5NTg3NDk4MTgsLTE3Nj
+k3NjU3NTIsLTE2ODk0NDUzNjgsLTIxMDkxNjg3OTYsMTk2MjM2
+NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2NzM0Ni
+wtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNzk2NzM0
+MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLD
+E3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4
+MV19
 -->
