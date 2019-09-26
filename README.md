@@ -324,7 +324,7 @@ graph TD
 | $[0,8)\in \R$ | $0$ | $8$ | 0 | $\{\}$ |
 
 *Beispiel: Obere Grenze:*
-$\{3,4\} \in \{1,2,3,4,5,6,7\}$
+$\{3,4\} \in \{1,2,3,4,5,6,7\} \text{ in }  R=/$
 -	Obere Schranken: $\{5,6,7\}$
 -	Obere Grenze: $\{5,6\}$
 -	kein Supremum
@@ -1265,7 +1265,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg5MDU4MDAsLTIxMDkxNjg3OTYsMT
+eyJoaXN0b3J5IjpbLTE2ODk0NDUzNjgsLTIxMDkxNjg3OTYsMT
 k2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2
 NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNz
 k2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1
