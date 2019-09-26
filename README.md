@@ -70,7 +70,7 @@ $R^{-1} = \{(l,r) \in M \times M | l$ "hat als Mutter" $r\}$
 
 > **Definition: Verkettung (=Komposition) von Relationen**
 > Die Verkettung von den Relationen $R_1 \subseteq A \times B$ und $R_2 \subseteq B \times C$ wird folgendermaßen dargestellt: $R_1 \circ R_2 = M_1 \times M_3$
-> $$R_1 \circ R_2 = \{(a,c) | (a \in A) \land (c \in C) \land (\exist y \in B: ((a,b) \in R_1) \land ((b,c) \in R_2))$$
+> $$R_1 \circ R_2 = \{(a,c) | (a \in A) \land (c \in C) \land (\exist b \in B: ((a,b) \in R_1) \land ((b,c) \in R_2))$$
 
 _Beispiel für verkettete Relationen:_
 $R_1 = \{(l,r) |l$ "hat als Mutter" $r\}$
@@ -1268,11 +1268,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MD
-Q1MDMyMzUsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0
-OTA1LDk4NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyOD
-kyMzQ2NywxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQs
-LTIwNjk1NTA3LDgyNTg3MzQ4MSwtMTg2MjM3MzU2OSwtMTczMT
-k1NTE5OSwtMTgxNjk4MzAzNywtMTI0NjY4MzAyMCwyMDAwNzI5
-NTU4XX0=
+eyJoaXN0b3J5IjpbMTE2OTIwMTUwLDE5NjIzNjQ5MDksLTIwMz
+Y1NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjczNDYsLTE4NDQxNTIw
+NTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwxMDk5MD
+Q5NTU5LDE3Mjg5MjM0NjcsMTgyMTExNTI4MSwxNzc4NDY4NDYs
+ODY4NzA5ODg0LC0yMDY5NTUwNyw4MjU4NzM0ODEsLTE4NjIzNz
+M1NjksLTE3MzE5NTUxOTksLTE4MTY5ODMwMzcsLTEyNDY2ODMw
+MjBdfQ==
 -->
