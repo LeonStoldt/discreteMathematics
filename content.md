@@ -1,6 +1,17 @@
 # Inhaltsverzeichnis
 ## 1.  Relationen
 ### 1.1 Allgemeine Relationen und deren Darstellung
+### 1.2 Eigenschaften von Relationen
+### 1.3 Ordnungsrelationen
+### 1.4 Größte und Maximale Elemente, obere Schranken und Suprema
+### 1.5 Verbände
+### 1.6 Äquivalenzrelationen
+### 1.7 Restklassen
+### 1.8 Abbildungen
+## 2. Algebraische Strukturen
+### 2.1 Verknüpfungen
+### 2.2 Restklassenoperationen
+### 2.3 Gruppen
 
 ---
 
@@ -1269,7 +1280,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDYyOTQzNSwxMjU0NjkxMDgwLDk1OD
+eyJoaXN0b3J5IjpbMjAxMjYwNjEwMywxMjU0NjkxMDgwLDk1OD
 c0OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOTE2
 ODc5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIzNS
 wxNzQxMzY3MzQ2LC0xODQ0MTUyMDU0LC03OTExMTQ5MDUsOTg0
