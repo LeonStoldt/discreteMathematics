@@ -4,8 +4,8 @@
 ### 1.1 Allgemeine Relationen und deren Darstellung
 
 -	Relationen stellen Beziehungen zwischen Objekten dar
--	Relationen könnekann zur Beschreibung von Ordnungen und Äquivalenzen genutzt werden
--	Relationen s ist einde Mengen
+-	Relationen können zur Beschreibung von Ordnungen und Äquivalenzen genutzt werden
+-	Relationen sind Mengen
 
 > **Definition: Relation**
 > Eine binäre Relation zwischen zwei Mengen ist eine Teilmenge des kartesischen Produkts:
@@ -37,7 +37,7 @@ graph LR
 `1.1.3 vereinfachtes Pfeildiagramm`
 *Pfeildiagramm kann vereinfacht werden, wenn die beiden Mengen **identisch** sind.*
 
-*Beispiel: $R = \{(1,2); (1,5); (1,6); (2,2); (2,4)\}$ci
+*Beispiel: $R = \{(1,2); (1,5); (1,6); (2,2); (2,4)\}$
 ```mermaid
 graph LR
 1((1)) --> 2((2))
@@ -70,7 +70,7 @@ $R^{-1} = \{(l,r) \in M \times M | l$ "hat als Mutter" $r\}$
 
 > **Definition: Verkettung (=Komposition) von Relationen**
 > Die Verkettung von den Relationen $R_1 \subseteq A \times B$ und $R_2 \subseteq B \times C$ wird folgendermaßen dargestellt: $R_1 \circ R_2 = M_1 \times M_3$
-> $$R_1 \circ R_2 = \{(a,c) | (a \in A) \land (c \in C) \land (\exist by \in B: ((a,b) \in R_1) \land ((b,c) \in R_2))$$
+> $$R_1 \circ R_2 = \{(a,c) | (a \in A) \land (c \in C) \land (\exist b \in B: ((a,b) \in R_1) \land ((b,c) \in R_2))$$
 
 _Beispiel für verkettete Relationen:_
 $R_1 = \{(l,r) |l$ "hat als Mutter" $r\}$
@@ -176,7 +176,6 @@ C --> C
 D --> D
 B --> C
 ```
-`Aufgaben dazu auf Seite 141f.`
 
 ### 1.3 Ordnungsrelationen 
 
@@ -212,7 +211,7 @@ graph LR
 ```
 
 > **Definition: *totale* Ordnungsrelation**
-> Bei einer ***totalen* Ordnungserelation** sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
+> Bei einer ***totalen* Ordnungsrelation** sind je zwei Elemente von $M$ bezüglich der Relation $R$ vergleichbar:
 > $\forall x, y \in M: (x,y) \in R \lor (y,x) \in R$
 >
 > Sollte diese Eigenschaft nicht gegeben sein, spricht man von einer ***partiellen* Ordnung / Teilordnung**
@@ -297,7 +296,7 @@ graph TD
 5((5)) --- 1
 7((7)) --- 1
 ```
-| Teilmenge | maximale Elemente | größtes Elemente |
+| Teilmenge | maximale Elemente | größtes Element |
 |--|--|--|
 | $\{2,3,6\}$ | $\{6\}$ | 6 |
 | $\{2,3\}$ | $\{2,3\}$ | $\{\}$ |
@@ -319,7 +318,7 @@ graph TD
 > 6.	$Infimum$ ist definiert durch das größte Element der Menge der unteren Schranken. 
 
 *Beispiel: Supremum / Infimum*
-| Teilmenge | Infimum | Supremum | minimalste Element | maximale Element |
+| Teilmenge | Infimum | Supremum | minimale Element | maximale Element |
 |--|--|--|--|--|
 | $\{2,3,6\}$ | $2$ | $6$ | $2$ | $6$ |
 | $[0,8)\in \R$ | $0$ | $8$ | 0 | $\{\}$ |
@@ -335,8 +334,6 @@ $\{3,4\} \in \{1,2,3,4,5,6,7\} \text{ in }  R=/$
 > 
 > **Definition: Existenzsatz Infimum**
 > Eine Menge hat ein Infimum, wenn sie **nur eine** untere Grenze hat.
-
-`Beweis zur Übung: S. 156`
 
 
 ### 1.5 Verbände
@@ -524,7 +521,7 @@ z((z))
 
 ```
 Bemerkung: Die Subtraktion von natürlichen Zahlen ist keine algebraische Struktur,
-da bei negativen Ergebnissen der Bereich der natürrütlichen Zahlen verlassen wird
+da bei negativen Ergebnissen der Bereich der natürlichen Zahlen verlassen wird
 ```
 
 **Darstellungsform: Verknüpfungstafel**
@@ -577,8 +574,6 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 > **Definition: Endliche Algebraische Strukturen**
 > Eine endliche algebraische Struktur existiert, wenn Endlichkeit und Existenz gleichwertig sind.
 
-`Seite 176 - Aufgaben`
-
 ### 2.2 Restklassenoperationen
 
 > **Definition: Restklassenoperationen**
@@ -608,8 +603,6 @@ die korrekte Wahl des Repräsentanten vereinfacht werden.
 
 Außerdem können bei Unabhängigkeit des Repräsentanten 
 Kommutativ- und Assoziativgesetze angewendet werden.
-
-Ab Seite 180. Aufgaben
 ```
 
 ### 2.3 Gruppen
@@ -653,10 +646,8 @@ $|(\{1,2,3\}, +)| = 3$
 
 *Beispiel: ggT durch Primfaktorzerlegung - ggT(240,420)*
 $240 = 2 * 2 * (2 * 2 * 3 * 5)$
-$
-420 = (2 * 2 * 3 * 5) * 7$
-$
-ggT(240,420) = 2 * 2 * 3 * 5 = 60$
+$420 = (2 * 2 * 3 * 5) * 7$
+$ggT(240,420) = 2 * 2 * 3 * 5 = 60$
 
 > **Definition: "div" und "mod"**
 > $a = q * b + r$
@@ -716,10 +707,10 @@ $[2]_5$ ist die multiplikativ Inverse Restklasse zu $[3]_5$.
 > graph TD
 > 1((Euklid-Algorithmus)) --> 2((ggT von a, m teilt b))
 > 2 --nein--> no((keine Lösung))
-> 2 --ja--> yes((eine /oder mehrere Lösungen))
-> yes --> 3((Euklid-Algorithmus rückwärts))
-> 3 --> 4((Ergebnis *mit b/ggT multiplizieren))
-> 4 --> 5((kleinsten Repräsentanten finden))
+> 2 --ja--> yes((eine / mehrere Lösungen))
+> yes --> 3((Euklid rückwärts))
+> 3 --> 4((Ergebnis * b/ggT))
+> 4 --> 5((kleinsten Repräsentanten))
 > 5 --> 6((Probe))
 > ```
 
@@ -1272,26 +1263,13 @@ $p = 31; \: g = 17; \: y = 23$
 > 1.	Die Kommunikationspartner einigen sich auf eine Hashfunktion.
 > 2.	Der Sender übermittelt den **Hashwert der Nachricht** an den Empfänger
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
-> 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Sendersmissing: Square and multiply`
-
-4.	Entschlüsselung der Nachricht:
-$c = 190\\
-m = c^d \: mod \: n = 190^{131} \: mod \: 391= 27$
-
-`continue S. 62`
-
-
-### Primzahltests
-
-### Diskreter Logarithmus
-
-### Integrität und Authentizität von Nachrichten
+> 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MjgxMzQyLDEyNTQ2OTEwODAsOTU4Nz
-Q5ODE4LC0xNzY5NzY1NzUyLC0xNjg5NDQ1MzY4LC0yMTA5MTY4
-Nzk2LDE5NjIzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LD
-E3NDEzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2
-MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMT
-gyMTExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUw
-N119
+eyJoaXN0b3J5IjpbMTI1NDY5MTA4MCw5NTg3NDk4MTgsLTE3Nj
+k3NjU3NTIsLTE2ODk0NDUzNjgsLTIxMDkxNjg3OTYsMTk2MjM2
+NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2NzM0Ni
+wtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNzk2NzM0
+MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLD
+E3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1NTA3LDgyNTg3MzQ4
+MV19
 -->
