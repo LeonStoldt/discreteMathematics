@@ -22,8 +22,13 @@
 ### Symmetrische Verschlüsselungsverfahren
 ### Asymmetrische Verschlüsselungsverfahren
 ## Klassische Verfahren
-#### Skytale
-#### Caesar
+### Skytale
+### Caesar
+### Permutations-Chiffren
+### Verfahren zur Entschlüsselung für  `monoalphabetische`  Substitutionsverfahren
+#### Häufigkeitsanalyse
+### Vigenère-Chiffre
+
 ---
 
 ## 1.  Relationen
@@ -1291,11 +1296,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkxNDQzMzAsMTI1NDY5MTA4MCw5NT
-g3NDk4MTgsLTE3Njk3NjU3NTIsLTE2ODk0NDUzNjgsLTIxMDkx
-Njg3OTYsMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMz
-UsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4
-NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2Ny
-wxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1
-NTA3XX0=
+eyJoaXN0b3J5IjpbNTYzMzM0OTc3LDEyNTQ2OTEwODAsOTU4Nz
+Q5ODE4LC0xNzY5NzY1NzUyLC0xNjg5NDQ1MzY4LC0yMTA5MTY4
+Nzk2LDE5NjIzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LD
+E3NDEzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2
+MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMT
+gyMTExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUw
+N119
 -->
