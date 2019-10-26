@@ -10,4 +10,4 @@
 - [Discrete Math 1 - by TheTrevTutor](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 - [Discrete Math 2 - by TheTrevTutor](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 
-# [Click here to open up the content](https://leonstoldt.github.io/diskrete-Mathematik/content)
+# [Click here to open up the content](https://leonstoldt.github.io/diskrete-Mathematik/page)
