@@ -989,7 +989,7 @@ $C=wzgp zpr gza sgzpqzgm$
 > -	Verfahren: Polyalphabetisches Substitutionsverfahren
 > -	Sicherheit: hängt von der Länge- und der Zufälligkeit des Schlüssels ab
 
-![Vigenere Quadrat]([https://upload.wikimedia.org/wikipedia/commons/6/6d/VigenereSquare2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/VigenereSquare2.jpg))
+[Vigenere Quadrat]([https://upload.wikimedia.org/wikipedia/commons/6/6d/VigenereSquare2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/VigenereSquare2.jpg)
 
 *Beispiel Vigenère-Chiffre:*
 $P = "diesisteinbeispiel"$
@@ -1311,11 +1311,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjU2NjEyMSwtMTgyNDI4OTg4MSwxMj
-U0NjkxMDgwLDk1ODc0OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0
-NTM2OCwtMjEwOTE2ODc5NiwxOTYyMzY0OTA5LC0yMDM2NTczMT
-UsLTUwNDUwMzIzNSwxNzQxMzY3MzQ2LC0xODQ0MTUyMDU0LC03
-OTExMTQ5MDUsOTg0NjI0Miw3OTY3MzQzNTUsMTA5OTA0OTU1OS
-wxNzI4OTIzNDY3LDE4MjExMTUyODEsMTc3ODQ2ODQ2LDg2ODcw
-OTg4NF19
+eyJoaXN0b3J5IjpbNjMzOTkxNTQ5LC02MzI1NjYxMjEsLTE4Mj
+QyODk4ODEsMTI1NDY5MTA4MCw5NTg3NDk4MTgsLTE3Njk3NjU3
+NTIsLTE2ODk0NDUzNjgsLTIxMDkxNjg3OTYsMTk2MjM2NDkwOS
+wtMjAzNjU3MzE1LC01MDQ1MDMyMzUsMTc0MTM2NzM0NiwtMTg0
+NDE1MjA1NCwtNzkxMTE0OTA1LDk4NDYyNDIsNzk2NzM0MzU1LD
+EwOTkwNDk1NTksMTcyODkyMzQ2NywxODIxMTE1MjgxLDE3Nzg0
+Njg0Nl19
 -->
