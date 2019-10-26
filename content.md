@@ -32,17 +32,18 @@
 #### 2.6.1	Kasiski-Test
 #### 2.6.2	Friedman-Test
 ### 2.7	One Time Pad Verfahren
-## Euler und Fermat
-## RSA-Verschlüsselung
-## Primzahltests
-### Fermatsche Pseudoprimzahl
-### Miller-Rabin-Test
-## Diskreter Logarithmus
-### Diffie-Hellman-Key-Exchange
-### ElGamal-Kryptosystem
-## Integrität und Authentizität von Nachrichten
-### Hash Funktion
----
+## 3.	Euler und Fermat
+## 4.	RSA-Verschlüsselung
+## 5.	Primzahltests
+### 5.1	Fermatsche Pseudoprimzahl
+### 5.2	Miller-Rabin-Test
+## 6.	Diskreter Logarithmus
+### 6.1	Diffie-Hellman-Key-Exchange
+### 6.2	ElGamal-Kryptosystem
+## 7.	Integrität und Authentizität von Nachrichten
+### 7.1	Hash Funktion
+
+
 
 ## 1.  Relationen
 ### 1.1 Allgemeine Relationen und deren Darstellung
@@ -1309,7 +1310,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDg3Nzg3NywxMjU0NjkxMDgwLDk1OD
+eyJoaXN0b3J5IjpbMTQ4NzgzNjIwOSwxMjU0NjkxMDgwLDk1OD
 c0OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOTE2
 ODc5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIzNS
 wxNzQxMzY3MzQ2LC0xODQ0MTUyMDU0LC03OTExMTQ5MDUsOTg0
