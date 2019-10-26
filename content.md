@@ -18,20 +18,20 @@
 
 # Inhaltsverzeichnis - Kryptologie
 
-## Einführung
-### Symmetrische Verschlüsselungsverfahren
-### Asymmetrische Verschlüsselungsverfahren
-## Klassische Verfahren
-### Skytale
-### Caesar
-### Permutations-Chiffren
-### Verfahren zur Entschlüsselung für  `monoalphabetische`  Substitutionsverfahren
-#### Häufigkeitsanalyse
-### Vigenère-Chiffre
-### Verfahren zur Entschlüsselung für  `polyalphabetischen`  Substitutionsverfahren
-#### Kasiski-Test
-#### Friedman-Test
-### One Time Pad Verfahren
+## 1.	Einführung
+### 1.1	Symmetrische Verschlüsselungsverfahren
+### 1.2	Asymmetrische Verschlüsselungsverfahren
+## 2.	Klassische Verfahren
+### 2.1	Skytale
+### 2.2	Caesar
+### 2.3	Permutations-Chiffren
+### 2.4	Verfahren zur Entschlüsselung für  `monoalphabetische`  Substitutionsverfahren
+#### 2.4.1	Häufigkeitsanalyse
+### 2.5	Vigenère-Chiffre
+### 2.6	Verfahren zur Entschlüsselung für  `polyalphabetischen`  Substitutionsverfahren
+#### 2.6.1	Kasiski-Test
+#### 2.6.2	Friedman-Test
+### 2.7	One Time Pad Verfahren
 ## Euler und Fermat
 ## RSA-Verschlüsselung
 ## Primzahltests
@@ -1309,11 +1309,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ1ODg1NzUsMTI1NDY5MTA4MCw5NT
-g3NDk4MTgsLTE3Njk3NjU3NTIsLTE2ODk0NDUzNjgsLTIxMDkx
-Njg3OTYsMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMz
-UsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4
-NDYyNDIsNzk2NzM0MzU1LDEwOTkwNDk1NTksMTcyODkyMzQ2Ny
-wxODIxMTE1MjgxLDE3Nzg0Njg0Niw4Njg3MDk4ODQsLTIwNjk1
-NTA3XX0=
+eyJoaXN0b3J5IjpbLTk2MDg3Nzg3NywxMjU0NjkxMDgwLDk1OD
+c0OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOTE2
+ODc5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIzNS
+wxNzQxMzY3MzQ2LC0xODQ0MTUyMDU0LC03OTExMTQ5MDUsOTg0
+NjI0Miw3OTY3MzQzNTUsMTA5OTA0OTU1OSwxNzI4OTIzNDY3LD
+E4MjExMTUyODEsMTc3ODQ2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1
+MDddfQ==
 -->
