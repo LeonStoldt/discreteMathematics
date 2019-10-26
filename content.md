@@ -27,23 +27,23 @@
 > ### 2.3	Permutations-Chiffren
 > ### 2.4	Verfahren zur Entschlüsselung für  `monoalphabetische` Substitutionsverfahren
 > #### 2.4.1	Häufigkeitsanalyse
-### 2.5	Vigenère-Chiffre
-### 2.6	Verfahren zur Entschlüsselung für  `polyalphabetischen`  Substitutionsverfahren
-#### 2.6.1	Kasiski-Test
-#### 2.6.2	Friedman-Test
-### 2.7	One Time Pad Verfahren
-## 3.	Euler und Fermat
-## 4.	RSA-Verschlüsselung
-## 5.	Primzahltests
-### 5.1	Fermatsche Pseudoprimzahl
-### 5.2	Miller-Rabin-Test
-## 6.	Diskreter Logarithmus
-### 6.1	Diffie-Hellman-Key-Exchange
-### 6.2	ElGamal-Kryptosystem
-## 7.	Integrität und Authentizität von Nachrichten
-### 7.1	Hash Funktion
+> ### 2.5	Vigenère-Chiffre
+> ### 2.6	Verfahren zur Entschlüsselung für  `polyalphabetischen` Substitutionsverfahren
+> #### 2.6.1	Kasiski-Test
+> #### 2.6.2	Friedman-Test
+> ### 2.7	One Time Pad Verfahren
+> ## 3.	Euler und Fermat
+> ## 4.	RSA-Verschlüsselung
+> ## 5.	Primzahltests
+> ### 5.1	Fermatsche Pseudoprimzahl
+> ### 5.2	Miller-Rabin-Test
+> ## 6.	Diskreter Logarithmus
+> ### 6.1	Diffie-Hellman-Key-Exchange
+> ### 6.2	ElGamal-Kryptosystem
+> ## 7.	Integrität und Authentizität von Nachrichten
+> ### 7.1	Hash Funktion
 
----
+# Diskrete Mathematik
 
 ## 1.  Relationen
 ### 1.1 Allgemeine Relationen und deren Darstellung
@@ -862,6 +862,7 @@ $[4]_6 + [4]_6 + [4]_6 + [4]_6 = [16]_6 = [4]_6$
 > $\forall g \in G: \phi (g^{-1}) = \phi (g)^{-1}$
 > `Die Abbildung des inversen Elements ist das inverse Element der Abbildung`
 
+---
 
 # Kryptologie
 
@@ -1310,7 +1311,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgxMDc0MzgsMTI1NDY5MTA4MCw5NT
+eyJoaXN0b3J5IjpbLTE4MjQyODk4ODEsMTI1NDY5MTA4MCw5NT
 g3NDk4MTgsLTE3Njk3NjU3NTIsLTE2ODk0NDUzNjgsLTIxMDkx
 Njg3OTYsMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMz
 UsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4
