@@ -35,8 +35,13 @@
 ## Euler und Fermat
 ## RSA-Verschlüsselung
 ## Primzahltests
-### Fermatsche Pseudoprimza
+### Fermatsche Pseudoprimzahl
+### Miller-Rabin-Test
 ## Diskreter Logarithmus
+### Diffie-Hellman-Key-Exchange
+### ElGamal-Kryptosystem
+## Integrität und Authentizität von Nachrichten
+### Hash Funktion
 ---
 
 ## 1.  Relationen
@@ -1304,7 +1309,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ4NjY0MjMsMTI1NDY5MTA4MCw5NT
+eyJoaXN0b3J5IjpbLTE3ODQ1ODg1NzUsMTI1NDY5MTA4MCw5NT
 g3NDk4MTgsLTE3Njk3NjU3NTIsLTE2ODk0NDUzNjgsLTIxMDkx
 Njg3OTYsMTk2MjM2NDkwOSwtMjAzNjU3MzE1LC01MDQ1MDMyMz
 UsMTc0MTM2NzM0NiwtMTg0NDE1MjA1NCwtNzkxMTE0OTA1LDk4
