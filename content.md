@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Inhaltsverzeichnis - Diskrete Mathematik
 ## 1.  Relationen
 ### 1.1 Allgemeine Relationen und deren Darstellung
 ### 1.2 Eigenschaften von Relationen
@@ -12,7 +12,13 @@
 ### 2.1 Verknüpfungen
 ### 2.2 Restklassenoperationen
 ### 2.3 Gruppen
+### 2.4 Restklassengruppen mit Multiplikation
+### 2.5 Untergruppen
+### 2.6 Isomorphismen
 
+# Inhaltsverzeichnis - Kryptologie
+
+### Einführung
 ---
 
 ## 1.  Relationen
@@ -1280,11 +1286,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjYwNjEwMywxMjU0NjkxMDgwLDk1OD
-c0OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOTE2
-ODc5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIzNS
-wxNzQxMzY3MzQ2LC0xODQ0MTUyMDU0LC03OTExMTQ5MDUsOTg0
-NjI0Miw3OTY3MzQzNTUsMTA5OTA0OTU1OSwxNzI4OTIzNDY3LD
-E4MjExMTUyODEsMTc3ODQ2ODQ2LDg2ODcwOTg4NCwtMjA2OTU1
-MDddfQ==
+eyJoaXN0b3J5IjpbMzM2OTk5MDI1LDEyNTQ2OTEwODAsOTU4Nz
+Q5ODE4LC0xNzY5NzY1NzUyLC0xNjg5NDQ1MzY4LC0yMTA5MTY4
+Nzk2LDE5NjIzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LD
+E3NDEzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2
+MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3Mjg5MjM0NjcsMT
+gyMTExNTI4MSwxNzc4NDY4NDYsODY4NzA5ODg0LC0yMDY5NTUw
+N119
 -->
