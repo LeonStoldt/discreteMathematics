@@ -1,5 +1,3 @@
-# Diskrete Mathematik 2
-
 ## 1.  Relationen
 ### 1.1 Allgemeine Relationen und deren Darstellung
 
