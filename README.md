@@ -12,3 +12,6 @@
 - [Discrete Math 2 - by TheTrevTutor](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 
 # [Click here to open up the content](https://leonstoldt.github.io/diskrete-Mathematik/page)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMzMDIxMDYzNF19
+-->
