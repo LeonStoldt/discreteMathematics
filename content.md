@@ -115,7 +115,7 @@ $R^{-1} = \{(l,r) \in M \times M | l$ "hat als Mutter" $r\}$
 
 > **Definition: Verkettung (=Komposition) von Relationen**
 > Die Verkettung von den Relationen $R_1 \subseteq A \times B$ und $R_2 \subseteq B \times C$ wird folgendermaßen dargestellt: $R_1 \circ R_2 = M_1 \times M_3$
-> $$R_1 \circ R_2 = \{(a,c) | (a \in A) \land (c \in C) \land (\exist b \in B: ((a,b) \in R_1) \land ((b,c) \in R_2))$$
+> $$R_1 \circ R_2 = \{(a,c) | (a \in A) \land (c \in C) \land (\exist b \in B: ((a,b) \in R_1) \land ((b,c) \in R_2))}$$
 
 _Beispiel für verkettete Relationen:_
 $R_1 = \{(l,r) |l$ "hat als Mutter" $r\}$
