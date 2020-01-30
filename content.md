@@ -635,7 +635,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 `zu beweisen:` $(\Z /m, \oplus)$
 `gegeben:` $a,b, x, y \in \Z$ mit $[a]_m = [b]_m \land [x]_m = [y]_m$
 `zu zeigen:` $[a+b]_m = [x+y]_m$
-`nach Voraussetzung:` $o, p \in \Z$, so dass $a-x = o*m$ und $b-y = p*m$
+`nach Voraussetzung:` $o, p \in \Z$, so dass $a-b = o*m$ und $x-y = p*m$
 `dann gilt:` 
 $a + b - (x - y)$
 $= a - x + b - y$
@@ -1311,11 +1311,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk0MjkzMTUsLTIwNzQ5MDc0NDMsLT
-YzMjU2NjEyMSwtMTgyNDI4OTg4MSwxMjU0NjkxMDgwLDk1ODc0
-OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOTE2OD
-c5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIzNSwx
-NzQxMzY3MzQ2LC0xODQ0MTUyMDU0LC03OTExMTQ5MDUsOTg0Nj
-I0Miw3OTY3MzQzNTUsMTA5OTA0OTU1OSwxNzI4OTIzNDY3LDE4
-MjExMTUyODFdfQ==
+eyJoaXN0b3J5IjpbMTI4MTY0NjUyNSwtMTM1OTQyOTMxNSwtMj
+A3NDkwNzQ0MywtNjMyNTY2MTIxLC0xODI0Mjg5ODgxLDEyNTQ2
+OTEwODAsOTU4NzQ5ODE4LC0xNzY5NzY1NzUyLC0xNjg5NDQ1Mz
+Y4LC0yMTA5MTY4Nzk2LDE5NjIzNjQ5MDksLTIwMzY1NzMxNSwt
+NTA0NTAzMjM1LDE3NDEzNjczNDYsLTE4NDQxNTIwNTQsLTc5MT
+ExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwxMDk5MDQ5NTU5LDE3
+Mjg5MjM0NjddfQ==
 -->
