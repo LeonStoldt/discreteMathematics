@@ -617,7 +617,7 @@ wenn die Verknüpfungstafel an der Diagonalen (hier 2,4,6) symmetrisch ist.
 | **3** | 4 | 5 | 6 |
 
 > **Definition: Endliche Algebraische Strukturen**
-> Eine endliche algebraische Struktur existiert, wenn Endlichkeit und Existenz gleichwertig sind.
+> Eine endliche algebraische Struktur existiert, wenn Eindeutigkeit und Existenz gleichwertig sind.
 
 ### 2.2 Restklassenoperationen
 
@@ -1311,7 +1311,7 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1MTcyNjIsLTIwNzQ5MDc0NDMsLT
+eyJoaXN0b3J5IjpbLTEzNTk0MjkzMTUsLTIwNzQ5MDc0NDMsLT
 YzMjU2NjEyMSwtMTgyNDI4OTg4MSwxMjU0NjkxMDgwLDk1ODc0
 OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOTE2OD
 c5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIzNSwx
