@@ -655,7 +655,7 @@ Kommutativ- und Assoziativgesetze angewendet werden.
 > **Definition: Gruppe**
 > Eine algebraische Struktur heißt Gruppe $G$, wenn folgendes gilt:
 > -	Assoziativität
-> -	Es gibt ein neutrales Element e der Gruppe mit	
+> -	Es gibt ein neutrales Element $e$ der Gruppe mit	
 >      - linksneutralem Element: $\forall a \in G: e \circ a = a$
 >      - linksinversem Element: $\forall a \in G: \exists b \in G: b \circ a = e$
 > 
@@ -1311,11 +1311,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk3MTA1MzEsMTI4MTY0NjUyNSwtMT
-M1OTQyOTMxNSwtMjA3NDkwNzQ0MywtNjMyNTY2MTIxLC0xODI0
-Mjg5ODgxLDEyNTQ2OTEwODAsOTU4NzQ5ODE4LC0xNzY5NzY1Nz
-UyLC0xNjg5NDQ1MzY4LC0yMTA5MTY4Nzk2LDE5NjIzNjQ5MDks
-LTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjczNDYsLTE4ND
-QxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQyLDc5NjczNDM1NSwx
-MDk5MDQ5NTU5XX0=
+eyJoaXN0b3J5IjpbLTE4NTgzMjcwMTMsLTEyMzk3MTA1MzEsMT
+I4MTY0NjUyNSwtMTM1OTQyOTMxNSwtMjA3NDkwNzQ0MywtNjMy
+NTY2MTIxLC0xODI0Mjg5ODgxLDEyNTQ2OTEwODAsOTU4NzQ5OD
+E4LC0xNzY5NzY1NzUyLC0xNjg5NDQ1MzY4LC0yMTA5MTY4Nzk2
+LDE5NjIzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3ND
+EzNjczNDYsLTE4NDQxNTIwNTQsLTc5MTExNDkwNSw5ODQ2MjQy
+LDc5NjczNDM1NV19
 -->
