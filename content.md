@@ -1012,7 +1012,7 @@ $C= jmlw qez ipr jqowwmmx$
 > 2.	Indizies der Zeichenketten notieren
 > 3.	Abstände ermitteln
 > 4.	Zerlegung des Abstands in Primfaktoren
-> 5.	kleinster gemeinsamer Teiler ermitteln, der in **allen** Abständen vorkommt $\rightarrow$ Schlüssellänge
+> 5.	gemeinsamen Teiler ermitteln, der in **allen** Abständen vorkommt $\rightarrow$ Schlüssellänge
 > 6.	Aufteilen des Geheimtexts in Teiltexte
 > 7. Häufigkeitsanalyse
 > 8.	Schlüssel herausfinden
