@@ -1209,7 +1209,7 @@ $91$ ist Pseudoprim zu 3, 4, 9 aber nicht zu 2, 5, 6, 7
 > Falls $a^{\frac{n-1}{2}} \equiv_n 1$, dann auch $a^{\frac{n-1}{4}} \equiv_n \pm 1$
 > 
 > Korrektheit
-> -	Problem: Starke Pseudoprimzahlen bestehen für manche Basen auch en Miller-Rabin-Test
+> -	Problem: Starke Pseudoprimzahlen bestehen für manche Basen auch den Miller-Rabin-Test
 > Erhöhte Zuverlässigkeit des Tests durch wiederholte Ausführung mit anderen Basen
 
 
