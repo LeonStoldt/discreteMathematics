@@ -1239,8 +1239,8 @@ $x = dlog_{-4} (13)$
 $p = 7;\: g = (-4) \\
 A: a = 9 \rightarrow x = g^a \: mod \: p = (-4)^9 \: mod \: 7 = 6\\
 B: b = 12 \rightarrow y = g^b \: mod \: p = (-4)^{12} \: mod \: 7 = 1 \\
-A: z = y^{a} \: mod \: p = 1^9 \: mod \: 7 = 1\\
-B: z = x^{b} \: mod \: p = 6^12 \: mod \: 7 = 1 \\
+A: z = y^{a} \: mod \: p = 1^{9} \: mod \: 7 = 1\\
+B: z = x^{b} \: mod \: p = 6^{12} \: mod \: 7 = 1 \\
 privatekey = 1$
 
 > **ElGamal-Kryptosystem**
