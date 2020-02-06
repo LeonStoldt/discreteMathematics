@@ -1234,7 +1234,9 @@ $x = dlog_{-4} (13)$
 > 2.	Der Sender und Empfänger wählen jeweils eine geheime Zahl $a \text{ bzw. } b \text{ aus } [1, p-1]$ und bilden damit $$x = g^a \: mod \: p \text{ bzw. } y = g^b \: mod \: p$$
 > $x \text{ bzw. } y$ schicken sie jeweils an den anderen.
 > Der gemeinsame $privatekey$ ergibt sich dann durch $g^{a*b} \: mod \: p = z$
-> 3.	Den gemeinsamen $privatekey$ berechnen die beiden jeweils durch $$y^a \: mod \: p = (g^b)^a \: mod \: p = g^{a*b} \: mod \: p = z \text{ bzw. } x^b \: mod \: p = (g^a)^b \: mod \: p = g^{a*b} \: mod \: p = z$$
+> 3.	Den gemeinsamen $privatekey$ berechnen die beiden jeweils durch $$y^a \: mod \: p = (g^b)^a \: mod \: p = g^{a*b} \: mod \: p = z$$
+> $$\text{bzw.}$$
+> $$x^b \: mod \: p = (g^a)^b \: mod \: p = g^{a*b} \: mod \: p = z$$
 
 *Beispiel Diffie-Hellman-Key-Exchange:*
 $p = 7;\: g = (-4) \\
@@ -1311,11 +1313,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NjU3NTM2LDE2ODI3ODg2NzQsLTE1MD
-c2MTYxNTksMzg1NDY4ODk3LC0xODU4MzI3MDEzLC0xMjM5NzEw
-NTMxLDEyODE2NDY1MjUsLTEzNTk0MjkzMTUsLTIwNzQ5MDc0ND
-MsLTYzMjU2NjEyMSwtMTgyNDI4OTg4MSwxMjU0NjkxMDgwLDk1
-ODc0OTgxOCwtMTc2OTc2NTc1MiwtMTY4OTQ0NTM2OCwtMjEwOT
-E2ODc5NiwxOTYyMzY0OTA5LC0yMDM2NTczMTUsLTUwNDUwMzIz
-NSwxNzQxMzY3MzQ2XX0=
+eyJoaXN0b3J5IjpbOTY5NTgzNjIsMTY4Mjc4ODY3NCwtMTUwNz
+YxNjE1OSwzODU0Njg4OTcsLTE4NTgzMjcwMTMsLTEyMzk3MTA1
+MzEsMTI4MTY0NjUyNSwtMTM1OTQyOTMxNSwtMjA3NDkwNzQ0My
+wtNjMyNTY2MTIxLC0xODI0Mjg5ODgxLDEyNTQ2OTEwODAsOTU4
+NzQ5ODE4LC0xNzY5NzY1NzUyLC0xNjg5NDQ1MzY4LC0yMTA5MT
+Y4Nzk2LDE5NjIzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1
+LDE3NDEzNjczNDZdfQ==
 -->
