@@ -1310,11 +1310,11 @@ $p = 31; \: g = 17; \: y = 23$
 > 3.	Der Sender übermittelt ebenfalls das signierte Dokument (**Signatur + nicht gehashte Nachricht**) an den Empfänger
 > 4.	Der Empfänger ermittelt zu der Nachricht des Dokuments den Hashwert und prüft die Signatur mit dem öffentlichen Schlüssel des Senders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc2MTYxNTksMzg1NDY4ODk3LC0xOD
-U4MzI3MDEzLC0xMjM5NzEwNTMxLDEyODE2NDY1MjUsLTEzNTk0
-MjkzMTUsLTIwNzQ5MDc0NDMsLTYzMjU2NjEyMSwtMTgyNDI4OT
-g4MSwxMjU0NjkxMDgwLDk1ODc0OTgxOCwtMTc2OTc2NTc1Miwt
-MTY4OTQ0NTM2OCwtMjEwOTE2ODc5NiwxOTYyMzY0OTA5LC0yMD
-M2NTczMTUsLTUwNDUwMzIzNSwxNzQxMzY3MzQ2LC0xODQ0MTUy
-MDU0LC03OTExMTQ5MDVdfQ==
+eyJoaXN0b3J5IjpbMTY4Mjc4ODY3NCwtMTUwNzYxNjE1OSwzOD
+U0Njg4OTcsLTE4NTgzMjcwMTMsLTEyMzk3MTA1MzEsMTI4MTY0
+NjUyNSwtMTM1OTQyOTMxNSwtMjA3NDkwNzQ0MywtNjMyNTY2MT
+IxLC0xODI0Mjg5ODgxLDEyNTQ2OTEwODAsOTU4NzQ5ODE4LC0x
+NzY5NzY1NzUyLC0xNjg5NDQ1MzY4LC0yMTA5MTY4Nzk2LDE5Nj
+IzNjQ5MDksLTIwMzY1NzMxNSwtNTA0NTAzMjM1LDE3NDEzNjcz
+NDYsLTE4NDQxNTIwNTRdfQ==
 -->
