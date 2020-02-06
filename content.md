@@ -1231,7 +1231,7 @@ $x = dlog_{-4} (13)$
 > 
 > Ablauf:
 > 1.	Sender und Empfänger wählen öffentlich eine große Primzahl $p$ und ein erzeugendes Element $g$.
-> 2.	Der Sender und Empfänger bilden jeweils eine geheime Zahl $a \text{ bzw. } b$ und bilden damit $x = g^a \: mod \: p \text{ bzw. } y = g^b \: mod \: p$. $x \text{ bzw. } y$ schicken sie jeweils an den anderen.
+> 2.	Der Sender und Empfänger wählen jeweils eine geheime Zahl $a \text{ bzw. } b \text{ aus } [1, p-1]$ und bilden damit $x = g^a \: mod \: p \text{ bzw. } y = g^b \: mod \: p$. $x \text{ bzw. } y$ schicken sie jeweils an den anderen.
 > Der gemeinsame $privatekey$ ergibt sich dann durch $g^{a*b} \: mod \: p = z$
 > 3.	Den gemeinsamen $privatekey$ berechnen die beiden jeweils durch $y^a \: mod \: p = (g^b)^a \: mod \: p = g^{a*b} \: mod \: p = z \text{ bzw. } x^b \: mod \: p = (g^a)^b \: mod \: p = g^{a*b} \: mod \: p = z$
 
